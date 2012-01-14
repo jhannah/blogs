@@ -1,0 +1,3275 @@
+From robertajenkins@fastmail.fm Mon Dec 12 00:52:25 2011
+Delivered-To: jay@jays.net
+Received: by 10.231.199.75 with SMTP id er11cs606ibb;
+        Sun, 11 Dec 2011 22:52:26 -0800 (PST)
+Received: by 10.52.110.2 with SMTP id hw2mr3880707vdb.18.1323672745219;
+        Sun, 11 Dec 2011 22:52:25 -0800 (PST)
+Return-Path: <roberta+bncCIrg1dvHHhClyZb3BBoE9TbtLA@jays.net>
+Received: from mail-vx0-f199.google.com (mail-vx0-f199.google.com [209.85.220.199])
+        by mx.google.com with ESMTPS id b19si3212661vcp.85.2011.12.11.22.52.24
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Sun, 11 Dec 2011 22:52:25 -0800 (PST)
+Received-SPF: neutral (google.com: 209.85.220.199 is neither permitted nor denied by best guess record for domain of roberta+bncCIrg1dvHHhClyZb3BBoE9TbtLA@jays.net) client-ip=209.85.220.199;
+Authentication-Results: mx.google.com; spf=neutral (google.com: 209.85.220.199 is neither permitted nor denied by best guess record for domain of roberta+bncCIrg1dvHHhClyZb3BBoE9TbtLA@jays.net) smtp.mail=roberta+bncCIrg1dvHHhClyZb3BBoE9TbtLA@jays.net
+Received: by vcbfk26 with SMTP id fk26sf7546268vcb.2
+        for <jay@jays.net>; Sun, 11 Dec 2011 22:52:24 -0800 (PST)
+Received: by 10.52.67.145 with SMTP id n17mr12290917vdt.0.1323672741071;
+        Sun, 11 Dec 2011 22:52:21 -0800 (PST)
+X-BeenThere: roberta@jays.net
+Received: by 10.220.60.200 with SMTP id q8ls3282155vch.4.canary; Sun, 11 Dec
+ 2011 22:52:20 -0800 (PST)
+Received: by 10.220.175.134 with SMTP id ba6mr1892610vcb.266.1323672740672;
+        Sun, 11 Dec 2011 22:52:20 -0800 (PST)
+Received: by 10.220.175.134 with SMTP id ba6mr1892609vcb.266.1323672740651;
+        Sun, 11 Dec 2011 22:52:20 -0800 (PST)
+Received: from out2.smtp.messagingengine.com (out2.smtp.messagingengine.com. [66.111.4.26])
+        by mx.google.com with ESMTPS id f6si3214872vcp.37.2011.12.11.22.52.20
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Sun, 11 Dec 2011 22:52:20 -0800 (PST)
+Received-SPF: pass (google.com: domain of robertajenkins@fastmail.fm designates 66.111.4.26 as permitted sender) client-ip=66.111.4.26;
+Received: from compute1.internal (compute1.nyi.mail.srv.osa [10.202.2.41])
+	by gateway1.nyi.mail.srv.osa (Postfix) with ESMTP id 412A520AA9
+	for <roberta@jays.net>; Mon, 12 Dec 2011 01:52:20 -0500 (EST)
+Received: from web4.nyi.mail.srv.osa ([10.202.2.214])
+  by compute1.internal (MEProxy); Mon, 12 Dec 2011 01:52:20 -0500
+Received: by web4.nyi.mail.srv.osa (Postfix, from userid 99)
+	id 198253C1F44; Mon, 12 Dec 2011 01:52:20 -0500 (EST)
+Message-Id: <1323672740.2257.140661010458621@webmail.messagingengine.com>
+X-Sasl-Enc: nB6oCKsaFTVnz+rd/SfoBY9WPGM6L60PzNpl0BjyUb4i 1323672740
+From: "Roberta Jenkins" <robertajenkins@fastmail.fm>
+To: roberta@jays.net, "Colleen" <cmccm45@gmail.com>, "Amy Levine"
+ <koyangi.in.korea@gmail.com>
+MIME-Version: 1.0
+X-Mailer: MessagingEngine.com Webmail Interface
+Subject: On time and place
+Date: Mon, 12 Dec 2011 15:52:20 +0900
+X-Original-Sender: robertajenkins@fastmail.fm
+X-Original-Authentication-Results: mx.google.com; spf=pass (google.com: domain
+ of robertajenkins@fastmail.fm designates 66.111.4.26 as permitted sender)
+ smtp.mail=robertajenkins@fastmail.fm; dkim=pass header.i=@fastmail.fm
+Precedence: list
+Mailing-list: list roberta@jays.net; contact roberta+owners@jays.net
+List-ID: <roberta.jays.net>
+X-Google-Group-Id: 831125463754
+List-Help: <http://www.google.com/support/a/jays.net/bin/static.py?hl=en_US&page=groups.cs>,
+ <mailto:roberta+help@jays.net>
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset="us-ascii"
+
+If sometimes it seems that time passes much too quickly, disappearing
+into an abyss of 'then' within which it is difficult to pinpoint exactly
+what happened to all of those millions of seconds, minutes, hours, days,
+there are other times that are so impossibly rich and full that those
+same seconds, minutes, hours, days no longer seem relevant.  Time out of
+time.  
+
+This morning was bright and grey and rainy.  Gray as far as the eye
+could see, fat drops splattering in random intervals, but the landscape
+suffused with light rather than dull as rainy days usually are.  It was
+beautiful.  A few hours later the sky was a patchwork of clear and
+cloud.  A few hours after that it was nothing but blue and properly hot
+for the first time since I returned to Dunedin a week ago.  I gave up my
+pretense of work and went for a walk in the gardens.
+
+I feel eternally blessed to have New Zealand's oldest botanical gardens
+literally across the street from my home here.  And for all the dozens
+of hours I have spent wandering its grounds (with varying levels of
+intensity and purpose), it's amazing to me how often I am still
+surprised by it.  Not only by the constant shifting of the trees and
+plants from day to day and season to season, nor by the movement of wild
+(and not so wild!) birds and other creatures, but by entire sections of
+garden that somehow in all of my meanderings I have never before managed
+to find.  For example, the mediterranean garden that I stumbled upon
+today, up on the hill almost perfectly in the center of everything,
+symmetrical stone terrace surrounded by candy-scented bushes in soft
+shades of silvery green, punctuated by perfectly pruned cypresses like
+exclamation marks at each corner.  One striking bush had needles like an
+evergreen but tiny blue clusters of flowers that looked and smelled
+suspiciously like sweet peas, one of my favourite plants in gardens in
+Canada.  Inhaling their sweet fragrance took me back to all of the many
+bouquets of sweet peas I've had over the years, tucked into Kerr jars on
+kitchen tables in all of the places I ever lived before leaving the
+country.  Delightful!  
+
+The mediterranean garden is just down the path from the Australian
+garden that I used to like jogging through at daybreak (back when I did
+things like jog at daybreak).  In the frosty air, the eucalyptus oil
+cleared my lungs and made it easier to breathe.  In today's humidity,
+the scent was only evident when I rubbed a leaf between my fingers, and
+rather than clearing my lungs it reminded me of a distant afternoon lost
+in a thick fog (literal, not figurative!) in the southwestern Chinese
+countryside in which I happened to pass through a large grove of
+eucalyptus trees.  With so few visual cues to focus on, the smell was
+powerful.  And comforting.  Amidst all the unknown around me, buried in
+the mist, eucalyptus was something I knew.  Not long after the path
+cleared and I found myself right at the edge of the very place I had
+been trying all along to find, and I've barely thought of it since. 
+Until today.  Canadian kitchen tables and walks through the Chinese
+countryside all in the span of a few footsteps in the garden.  Time out
+of time.
+
+One of my old flatmates, a wonderful Botswanan woman who has since
+returned to her African home, never, ever, ever walked in the garden. 
+Such a loss!  The trees frightened her.  Day or night, rain or shine,
+she was convinced the place was unsafe and did everything she could to
+avoid it.  Since it is the trees that make me feel most at home in this
+part of town, I always found this hard to understand.  Trees make me
+feel grounded, less distracted, calm.  I guess this is what happens when
+you grow up (essentially) in the forest, versus when you grow up on the
+plains like she did.  Different people, different sense of place.
+
+I taught a food course in Changwon this semester, in which we looked at
+different international issues through the lens of specific parts of the
+food system.  In a survey of my students, only two out of around 60 had
+ever grown anything on their own.  Not a garden.  Not a flower.  Not so
+much as a bean seed in a plastic cup.  So I shouldn't have been
+surprised that they were totally disconnected from the land (as I think
+of it).  One group, preparing an assigned class presentation on the
+documentary 'Dirt!' called me repeatedly looking for help in making a
+connection between their film and food.  'Well, food comes from dirt,' I
+tried the first time, 'you know, it grows in the ground.'  The second
+time I tried 'plants need dirt to live and a lot of food either IS
+plants or EATS plants.  Which grow in the ground.  Which is made of
+dirt.'  The third time I knew I had a real problem.  It wasn't a
+language problem, it was a conceptual problem.  Having grown up in
+cement high rises, homes, schools, offices, entertainment, it was hard
+for them to grasp the connection between land and life.  Different
+people, different sense of place.
+
+I hope I never lose my sense of awe in green and growing things, my
+ability to step outside of time among them and calm my chaotic mind, to
+feel that with days like these life is full indeed.  And I hope that you
+also find times and places to lose yourself...and to find yourself there
+again!
+
+From robertajenkins@fastmail.fm Sat Aug 27 17:51:10 2011
+Delivered-To: jay@jays.net
+Received: by 10.231.146.129 with SMTP id h1cs21350ibv;
+        Sat, 27 Aug 2011 15:51:11 -0700 (PDT)
+Received: by 10.229.209.91 with SMTP id gf27mr3724760qcb.274.1314485471379;
+        Sat, 27 Aug 2011 15:51:11 -0700 (PDT)
+Return-Path: <roberta+bncCIrg1dvHHhDa6eXyBBoEUzcoKw@jays.net>
+Received: from mail-vw0-f71.google.com (mail-vw0-f71.google.com [209.85.212.71])
+        by mx.google.com with ESMTPS id q8si3136629qct.165.2011.08.27.15.51.10
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Sat, 27 Aug 2011 15:51:10 -0700 (PDT)
+Received-SPF: neutral (google.com: 209.85.212.71 is neither permitted nor denied by best guess record for domain of roberta+bncCIrg1dvHHhDa6eXyBBoEUzcoKw@jays.net) client-ip=209.85.212.71;
+Authentication-Results: mx.google.com; spf=neutral (google.com: 209.85.212.71 is neither permitted nor denied by best guess record for domain of roberta+bncCIrg1dvHHhDa6eXyBBoEUzcoKw@jays.net) smtp.mail=roberta+bncCIrg1dvHHhDa6eXyBBoEUzcoKw@jays.net
+Received: by vws8 with SMTP id 8sf6947641vws.2
+        for <jay@jays.net>; Sat, 27 Aug 2011 15:51:09 -0700 (PDT)
+Received: by 10.52.113.130 with SMTP id iy2mr2757492vdb.1.1314485466061;
+        Sat, 27 Aug 2011 15:51:06 -0700 (PDT)
+X-BeenThere: roberta@jays.net
+Received: by 10.229.37.9 with SMTP id v9ls1835500qcd.2.gmail; Sat, 27 Aug 2011
+ 15:51:05 -0700 (PDT)
+Received: by 10.229.89.4 with SMTP id c4mr3691278qcm.192.1314485465641;
+        Sat, 27 Aug 2011 15:51:05 -0700 (PDT)
+Received: by 10.229.89.4 with SMTP id c4mr3691277qcm.192.1314485465611;
+        Sat, 27 Aug 2011 15:51:05 -0700 (PDT)
+Received: from out2.smtp.messagingengine.com (out2.smtp.messagingengine.com [66.111.4.26])
+        by mx.google.com with ESMTPS id s8si3139966qct.90.2011.08.27.15.51.04
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Sat, 27 Aug 2011 15:51:04 -0700 (PDT)
+Received-SPF: pass (google.com: domain of robertajenkins@fastmail.fm designates 66.111.4.26 as permitted sender) client-ip=66.111.4.26;
+Received: from compute4.internal (compute4.nyi.mail.srv.osa [10.202.2.44])
+	by gateway1.messagingengine.com (Postfix) with ESMTP id 5420E207B8;
+	Sat, 27 Aug 2011 18:51:04 -0400 (EDT)
+Received: from web1.messagingengine.com ([10.202.2.211])
+  by compute4.internal (MEProxy); Sat, 27 Aug 2011 18:51:04 -0400
+Received: by web1.messagingengine.com (Postfix, from userid 99)
+	id 311BE3C2307; Sat, 27 Aug 2011 18:51:04 -0400 (EDT)
+Message-Id: <1314485464.12186.140258134434501@webmail.messagingengine.com>
+X-Sasl-Enc: +Rd05pWa/sKe6J+TmRueAoT9NU7adwG0xQyfd17CjEQr 1314485464
+From: "Roberta Jenkins" <robertajenkins@fastmail.fm>
+To: roberta@jays.net, "Colleen" <cmccm45@gmail.com>, "Amy Levine"
+ <koyangi.in.korea@gmail.com>
+MIME-Version: 1.0
+X-Mailer: MessagingEngine.com Webmail Interface
+Subject: PS
+Date: Sun, 28 Aug 2011 07:51:04 +0900
+X-Original-Sender: robertajenkins@fastmail.fm
+X-Original-Authentication-Results: mx.google.com; spf=pass (google.com: domain
+ of robertajenkins@fastmail.fm designates 66.111.4.26 as permitted sender)
+ smtp.mail=robertajenkins@fastmail.fm; dkim=pass header.i=@messagingengine.com
+Precedence: list
+Mailing-list: list roberta@jays.net; contact roberta+owners@jays.net
+List-ID: <roberta.jays.net>
+X-Google-Group-Id: 831125463754
+List-Help: <http://www.google.com/support/a/jays.net/bin/static.py?hl=en_US&page=groups.cs>,
+ <mailto:roberta+help@jays.net>
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset="us-ascii"
+
+If you recognized the quote in the title of my last post as being from
+'The Muppet Christmas Carol' then bonus points to you!  It's from the
+song that Michael Caine (as Scrooge) sings at the end of the film, which
+has been humming through my head since Friday night when it was
+(un?)wittingly used in a speech at the Supervisor of the Year awards at
+my New Zealand university.  My main advisor, Greg Rawlings, won the
+Humanities super of the year at the event...YAY!!!!!!!!!!!!!!!!  For any
+of you who haven't heard me wax poetic about this man before (and his
+impact on my academic life), then let me just say he definitely deserved
+the honour!  :) 
+
+From robertajenkins@fastmail.fm Sat Aug 27 17:46:18 2011
+Delivered-To: jay@jays.net
+Received: by 10.231.146.129 with SMTP id h1cs21284ibv;
+        Sat, 27 Aug 2011 15:46:20 -0700 (PDT)
+Received: by 10.91.67.20 with SMTP id u20mr2507381agk.163.1314485179921;
+        Sat, 27 Aug 2011 15:46:19 -0700 (PDT)
+Return-Path: <roberta+bncCIrg1dvHHhC25-XyBBoEc5gCTA@jays.net>
+Received: from mail-gy0-f199.google.com (mail-gy0-f199.google.com [209.85.160.199])
+        by mx.google.com with ESMTPS id p5si4282430ani.156.2011.08.27.15.46.18
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Sat, 27 Aug 2011 15:46:18 -0700 (PDT)
+Received-SPF: neutral (google.com: 209.85.160.199 is neither permitted nor denied by best guess record for domain of roberta+bncCIrg1dvHHhC25-XyBBoEc5gCTA@jays.net) client-ip=209.85.160.199;
+Authentication-Results: mx.google.com; spf=neutral (google.com: 209.85.160.199 is neither permitted nor denied by best guess record for domain of roberta+bncCIrg1dvHHhC25-XyBBoEc5gCTA@jays.net) smtp.mail=roberta+bncCIrg1dvHHhC25-XyBBoEc5gCTA@jays.net
+Received: by gyd10 with SMTP id 10sf6935786gyd.2
+        for <jay@jays.net>; Sat, 27 Aug 2011 15:46:18 -0700 (PDT)
+Received: by 10.52.30.47 with SMTP id p15mr2446875vdh.29.1314485174341;
+        Sat, 27 Aug 2011 15:46:14 -0700 (PDT)
+X-BeenThere: roberta@jays.net
+Received: by 10.52.164.3 with SMTP id ym3ls1586536vdb.2.gmail; Sat, 27 Aug
+ 2011 15:46:13 -0700 (PDT)
+Received: by 10.52.71.236 with SMTP id y12mr2752668vdu.79.1314485173750;
+        Sat, 27 Aug 2011 15:46:13 -0700 (PDT)
+Received: by 10.52.71.236 with SMTP id y12mr2752667vdu.79.1314485173741;
+        Sat, 27 Aug 2011 15:46:13 -0700 (PDT)
+Received: from out2.smtp.messagingengine.com (out2.smtp.messagingengine.com [66.111.4.26])
+        by mx.google.com with ESMTPS id n3si2211060vcn.101.2011.08.27.15.46.12
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Sat, 27 Aug 2011 15:46:12 -0700 (PDT)
+Received-SPF: pass (google.com: domain of robertajenkins@fastmail.fm designates 66.111.4.26 as permitted sender) client-ip=66.111.4.26;
+Received: from compute1.internal (compute1.nyi.mail.srv.osa [10.202.2.41])
+	by gateway1.messagingengine.com (Postfix) with ESMTP id 5DDFD202EA;
+	Sat, 27 Aug 2011 18:46:12 -0400 (EDT)
+Received: from web1.messagingengine.com ([10.202.2.211])
+  by compute1.internal (MEProxy); Sat, 27 Aug 2011 18:46:12 -0400
+Received: by web1.messagingengine.com (Postfix, from userid 99)
+	id 3ABA83C2230; Sat, 27 Aug 2011 18:46:12 -0400 (EDT)
+Message-Id: <1314485172.11172.140258134418225@webmail.messagingengine.com>
+X-Sasl-Enc: apTYVNRKeyUnCwpUNAV7Iq65+FfJPvaVsdcABk75nlEq 1314485172
+From: "Roberta Jenkins" <robertajenkins@fastmail.fm>
+To: roberta@jays.net, "Colleen" <cmccm45@gmail.com>, "Amy Levine"
+ <koyangi.in.korea@gmail.com>
+MIME-Version: 1.0
+X-Mailer: MessagingEngine.com Webmail Interface
+Subject: A grateful thought and a thankful heart
+Date: Sun, 28 Aug 2011 07:46:12 +0900
+X-Original-Sender: robertajenkins@fastmail.fm
+X-Original-Authentication-Results: mx.google.com; spf=pass (google.com: domain
+ of robertajenkins@fastmail.fm designates 66.111.4.26 as permitted sender)
+ smtp.mail=robertajenkins@fastmail.fm; dkim=pass header.i=@messagingengine.com
+Precedence: list
+Mailing-list: list roberta@jays.net; contact roberta+owners@jays.net
+List-ID: <roberta.jays.net>
+X-Google-Group-Id: 831125463754
+List-Help: <http://www.google.com/support/a/jays.net/bin/static.py?hl=en_US&page=groups.cs>,
+ <mailto:roberta+help@jays.net>
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset="us-ascii"
+
+I started Ramadan alone, and expected to end it the same way.  
+
+For the first 11 days, my morning routine was wake (cursing the hour),
+listen for my flatmate to come up the stairs after his breakfast
+(sometimes beginning my meal in my room, if I'd thought ahead enough to
+have food waiting on my dresser), go down to the kitchen to finish up
+hurriedly while leaning against the cold kitchen counter, return to my
+room tired and vaguely grumpy about my inability to return to sleep. 
+The practice of shifting negative thoughts into positive ones (what in
+my mind I think of as the gratitude project) that I was exercising
+throughout the rest of the day hadn't yet penetrated the earliest hours.
+
+For the next 11 days (good symmetry there), my morning routine benefited
+greatly from the shared company of the same flatmate I'd previously been
+avoiding in the morning.  In fact, it was during that period that the
+mornings really did become routine.  The hour still felt awfully early,
+but somehow not rushing through my food made the whole process of
+getting up much easier, and knowing I wouldn't be alone in the kitchen
+was good incentive to stop grumbling to myself and just get on with it. 
+Which opened up space in my mind for other things - like the gratitude
+project I'd had such good success with later in the day.  Instead of
+thinking 'Seriously?  I'm going to get up and go EAT something at this
+hour???' I'd try to roll out of bed thinking 'Thank you that I have a
+warm bed to sleep in and something good to eat this morning.'  
+
+That was also the period that I learned a lot in the mornings, from
+conversations with my flatmate.  For the rest of the day we wouldn't say
+too much about Ramadan or how it was unfolding for each of us, but in
+the morning we would talk about it more.  Sharing some of the experience
+of Ramadan with someone who had done it before was invaluable to my
+ultimate ability to see the whole month through.  For example, instead
+of trying to eat a more-or-less normal breakfast as I had been doing
+before, I learned to eat dinner in the morning - no more toast and
+peanut butter and fruit and boiled egg for me (which left me hungry by
+early afternoon), instead rice and rich meaty stew and yogurt and a
+banana (which saw me through most of the day).  
+
+We talked about other things too, often laughing together, which makes
+any day a whole lot better right from the start.  Those conversations
+helped put me in a good frame of mine for the introduction of other
+things into the morning routine.  Instead of coming back to my room and
+going straight back to bed (a futile exercise to that point in any
+case), I'd take a few minutes first to actually say out loud all the
+things I was thankful for (what at that Buddhist meditation retreat I
+went to they called 'loving kindness meditation').  The first few days I
+did this, my list was abysmally short and vague.  But the longer I
+practiced it, the longer my list got, and the more specific.  I started
+looking forward to this time.  And, probably since it helped calm my
+mind again, it actually helped me begin to be able to sleep again
+afterwards (which went miles to improving my general outlook and
+productivity the rest of the day).
+
+For the last 6 days, I've been on my own in the mornings again.  My
+flatmate's gone to another country, leaving me the only one in the house
+still observing the fast.  My morning routine hasn't changed much, it's
+just gotten quieter, more introspective.  This isn't a bad thing.  I had
+a trigger point massage the other day, the kind where the therapist
+figures out which spots hurt the most, and then uses a wooden tool to
+dig in and make them hurt even more...ouch!  As she was getting going
+she explained to me that she likes her clients to be 'wholly present in
+the moment,' to really experience the sensations as they arise and then
+to picture each muscle opening up around the pain.  Essentially, she
+wanted me to visualize the relaxation of each muscle around the massage
+tool, and thus to actually physically cause the muscle to relax.  The
+sooner I could unclench the muscle, the faster the pain went away,
+allowing her to deal with some of the pesky little knots hiding
+underneath the clenching, keeping me from moving freely.  This was a
+fair analogy of the fasting part of Ramadan in my mind.  The more I came
+to embrace the physical discomfort as just one necessary part of the
+total experience, the more I opened myself up to other, deeper aspects
+that weren't even in my awareness at the beginning of the month.  And
+which do, in different ways, help me to move more freely in the world.
+
+This morning I went down to the dark kitchen at 5am, as usual, repeating
+my thankfulness mantra somewhat more forcefully than other days.  Tired.
+ Missing the shared mornings with my flatmate.  Wondering what I would
+put together to eat.  He told me before he left that it would get harder
+the closer I got to the end, and he was right.  Especially considering
+this is my last day in Dunedin for quite some time, maintaining my
+commitment to see Ramadan through (rather than, say, going for my
+favourite french toast brunch with friends), is taking more willpower
+than I expected.  Also, I am getting low on food, having finished up the
+last of my stews a couple of mornings ago and now just working through
+the miserable little leftover bits of this and that ingredient that I
+didn't know what to do with earlier.  But rather than opening the
+kitchen door to a cold room, I found the space toasty warm.  Nice.  At
+first thinking that someone had just forgotten to turn off the heater
+before bed last night, I opened up the fridge to find a little care
+package of my favourite meaty Chinese dumplings (laboriously handmade
+yesterday by another flatmate) waiting for me with an encouraging note
+attached.  They weren't there late last night, which means that sometime
+between midnight and 5am she came down to the kitchen, turned on the
+heater for me, and left me freshly steamed buns to eat.  Though the
+others in the house remained tucked up warm in their beds as I had my
+breakfast, I was nonetheless not alone.  And that is the essence of a
+grateful thought and a thankful heart.            
+
+Much love to each of you as you go about your day.  Thank you for
+sharing this journey with me, and all my journeys so far!  Roberta
+
+From robertajenkins@fastmail.fm Mon Aug 22 00:27:15 2011
+Delivered-To: jay@jays.net
+Received: by 10.231.85.209 with SMTP id p17cs48268ibl;
+        Sun, 21 Aug 2011 22:27:17 -0700 (PDT)
+Received: by 10.236.136.41 with SMTP id v29mr11540538yhi.80.1313990836787;
+        Sun, 21 Aug 2011 22:27:16 -0700 (PDT)
+Return-Path: <roberta+bncCIrg1dvHHhCu0cfyBBoEZeJjjQ@jays.net>
+Received: from mail-yw0-f71.google.com (mail-yw0-f71.google.com [209.85.213.71])
+        by mx.google.com with ESMTPS id d1si17854665yhe.85.2011.08.21.22.27.14
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Sun, 21 Aug 2011 22:27:15 -0700 (PDT)
+Received-SPF: neutral (google.com: 209.85.213.71 is neither permitted nor denied by best guess record for domain of roberta+bncCIrg1dvHHhCu0cfyBBoEZeJjjQ@jays.net) client-ip=209.85.213.71;
+Authentication-Results: mx.google.com; spf=neutral (google.com: 209.85.213.71 is neither permitted nor denied by best guess record for domain of roberta+bncCIrg1dvHHhCu0cfyBBoEZeJjjQ@jays.net) smtp.mail=roberta+bncCIrg1dvHHhCu0cfyBBoEZeJjjQ@jays.net
+Received: by ywf9 with SMTP id 9sf6917023ywf.2
+        for <jay@jays.net>; Sun, 21 Aug 2011 22:27:14 -0700 (PDT)
+Received: by 10.52.108.131 with SMTP id hk3mr1215049vdb.8.1313990830908;
+        Sun, 21 Aug 2011 22:27:10 -0700 (PDT)
+X-BeenThere: roberta@jays.net
+Received: by 10.52.24.163 with SMTP id v3ls8018041vdf.3.gmail; Sun, 21 Aug
+ 2011 22:27:10 -0700 (PDT)
+Received: by 10.52.176.1 with SMTP id ce1mr1535267vdc.313.1313990830308;
+        Sun, 21 Aug 2011 22:27:10 -0700 (PDT)
+Received: by 10.52.176.1 with SMTP id ce1mr1535266vdc.313.1313990830298;
+        Sun, 21 Aug 2011 22:27:10 -0700 (PDT)
+Received: from out2.smtp.messagingengine.com (out2.smtp.messagingengine.com [66.111.4.26])
+        by mx.google.com with ESMTPS id jf2si12678082vdb.48.2011.08.21.22.27.09
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Sun, 21 Aug 2011 22:27:09 -0700 (PDT)
+Received-SPF: pass (google.com: domain of robertajenkins@fastmail.fm designates 66.111.4.26 as permitted sender) client-ip=66.111.4.26;
+Received: from compute6.internal (compute6.nyi.mail.srv.osa [10.202.2.46])
+	by gateway1.messagingengine.com (Postfix) with ESMTP id E6B2E204F7;
+	Mon, 22 Aug 2011 01:27:08 -0400 (EDT)
+Received: from web1.messagingengine.com ([10.202.2.211])
+  by compute6.internal (MEProxy); Mon, 22 Aug 2011 01:27:08 -0400
+Received: by web1.messagingengine.com (Postfix, from userid 99)
+	id C6468C20971; Mon, 22 Aug 2011 01:27:08 -0400 (EDT)
+Message-Id: <1313990828.25221.140258132221625@webmail.messagingengine.com>
+X-Sasl-Enc: ZEACqneXmpoRqSCXWoIdKpJ8fW8BO3MG28SosgTflg/P 1313990828
+From: "Roberta Jenkins" <robertajenkins@fastmail.fm>
+To: roberta@jays.net, "Colleen" <cmccm45@gmail.com>, "Amy Levine"
+ <koyangi.in.korea@gmail.com>
+MIME-Version: 1.0
+X-Mailer: MessagingEngine.com Webmail Interface
+Subject: Practically Speaking
+Date: Mon, 22 Aug 2011 14:27:08 +0900
+X-Original-Sender: robertajenkins@fastmail.fm
+X-Original-Authentication-Results: mx.google.com; spf=pass (google.com: domain
+ of robertajenkins@fastmail.fm designates 66.111.4.26 as permitted sender)
+ smtp.mail=robertajenkins@fastmail.fm; dkim=pass header.i=@messagingengine.com
+Precedence: list
+Mailing-list: list roberta@jays.net; contact roberta+owners@jays.net
+List-ID: <roberta.jays.net>
+X-Google-Group-Id: 831125463754
+List-Help: <http://www.google.com/support/a/jays.net/bin/static.py?hl=en_US&page=groups.cs>,
+ <mailto:roberta+help@jays.net>
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset="us-ascii"
+
+3 weeks into Ramadan, and I can officially remove every pair of pants I
+own without undoing any of their buttons.  I don't think I've lost much
+weight, but apparently just enough to change the way things fit.  Hm. 
+Probably should have anticipated this, but didn't.  Which brings me to a
+few observations on the practical side of fasting.  
+
+I just met another international student for the first time, at the
+request of the international office on campus.  She's from the same
+general section of planet as me (the west part of N. America), we have
+quite a lot in common, she's having a bit of trouble settling into town
+and the international advisors thought we'd get along.  And so we did. 
+Except that throughout a significant portion of our 90 minute
+conversation, over (her) coffee, I was thinking about how I was having
+trouble really focussing on what she was saying.  And how hungry the
+smell of her coffee and biscotti were making me.  Lesson: it gets
+progressively harder to think about anything other than feeding myself
+throughout the day - better to plan meetings early!
+
+A certain level of normal activity is fine, but in addition to becoming
+a space cadet each afternoon, my body also doesn't have the same
+get-up-and-go that it's used to.  I still walk quite a bit, work, play
+on the wheel in the pottery studio, go out with friends.  But no matter
+how much I'd like to, swimming+fasting is not a particularly good idea. 
+I only tried it once, which is probably not a fair sample, but ... wow. 
+It's easy to forget how much water our bodies lose while exercising in
+water until trying to do it without the benefit of a handy water bottle
+(and snacks!) waiting at the pool edge.  I tried to time my swim to be
+as near the end of the day's fasting as possible, but that just meant
+that the whole getting out, getting dry, getting home, getting fed
+routine was WAY more effort than is probably healthy for a person. 
+Ditto other strenuous workouts (or too much time on my feet in general).
+ A good part of Ramadan turns out to be learning to balance energy and
+output, which means prioritizing the things that really need to be done
+and letting some of the other things wait a month.  All in all, not a
+bad lesson to learn, especially for someone like me who tends towards
+perpetual (but not always purposeful) motion.
+
+Dehydration/rehydration is another thing.  This hasn't been the issue
+that I expected when I started fasting, ie. feeling parched all the
+time.  It's certainly not an issue here like it must be anywhere not
+blessed with a steady temperature of about 10C and relatively short
+days.  Imagine fasting in northern Canada right now, where an hour
+before daylight is something like 2:30 am and sundown isn't until after
+11.  Or in Iran, which has long days AND high temperatures.  Or in
+Korea, which has high temperatures and ridiculous humidity.  And yes,
+I'm pretty sure that there are people faithfully observing Ramadan in
+all of those places right now.  And I am truly humbled by their
+dedication.  For me however it's not the slightly hollow, achey feeling
+in my stomach or the slightly bitter tackiness in my mouth that's the
+problem (I got used to both of those things fairly early on, though have
+often lamented not being able to swallow a breath freshener during the
+day!), but rather figuring out how to spread out my liquid intake over
+the hours available so that I don't have to pee every 15 minutes while
+trying to get to sleep.  Which is really annoying and really disruptive
+of normal sleeping patterns.  Which is next on my list.
+
+Sleeping.  As I mentioned in an earlier post, I'm not all that good at
+falling asleep again after waking up early for pre-dawn breakfast. 
+Also, being aware that I need to get up earlier than usual often wakes
+me up during the night...oh no...I've slept through my alarm...reach for
+watch...see that it's only 2:48, 54 minutes since the last time I
+looked...drift back to fitful sleep.  And I'm a person who needs sleep. 
+A lot of sleep.  I function best on between 8 and 10 hours a night
+usually.  So functioning on 5 or 6 hours of not-that-great sleep has had
+a much bigger impact that the actual going without food or drink. 
+Though I think that I may actually be getting used to this new schedule
+now...3 mornings in a row I've managed to get back to dreamland before
+getting on with my day!
+
+Stomach noises are something else.  Also, the timing of cooking so that
+food is ready to eat at the appropriate hour without requiring too much
+contact time with it before I can eat it.  And I wouldn't recommend
+baking during the daytime, unless you're awfully confident with your
+recipe, because it's hard to keep fingers out of bowls to check on the
+progress of things.  I ruined two batches of icing in a row yesterday
+because I didn't sample it to check how it was coming along.  The cake,
+however, I am happy to report turned out just fine!
+
+I have plenty of observations on the less mundane side of the experience
+as well, but at the moment (45 minutes until sundown, roughly), am
+having trouble focussing on anything at all other than the incremental
+movement of the sun in the sky, and how eager I am for dinner tonight. 
+Clearly those are thoughts for a more lucid time of day!  So for now
+I'll just say goodnight...blessings to each of you...I hope you are
+well.
+
+From robertajenkins@fastmail.fm Mon Aug 15 03:24:51 2011
+Delivered-To: jay@jays.net
+Received: by 10.231.143.139 with SMTP id v11cs126985ibu;
+        Mon, 15 Aug 2011 01:24:53 -0700 (PDT)
+Received: from mr.google.com ([10.52.21.172])
+        by 10.52.21.172 with SMTP id w12mr4715825vde.348.1313396693058 (num_hops = 1);
+        Mon, 15 Aug 2011 01:24:53 -0700 (PDT)
+Received: by 10.52.21.172 with SMTP id w12mr3364467vde.348.1313396692634;
+        Mon, 15 Aug 2011 01:24:52 -0700 (PDT)
+Return-Path: <roberta+bncCIrg1dvHHhDPr6PyBBoEvKGVnw@jays.net>
+Received: from mail-vx0-f199.google.com ([209.85.220.199])
+        by mx.google.com with ESMTPS id dd2si12831389vdc.93.2011.08.15.01.24.51
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Mon, 15 Aug 2011 01:24:51 -0700 (PDT)
+Received-SPF: neutral (google.com: 209.85.220.199 is neither permitted nor denied by best guess record for domain of roberta+bncCIrg1dvHHhDPr6PyBBoEvKGVnw@jays.net) client-ip=209.85.220.199;
+Authentication-Results: mx.google.com; spf=neutral (google.com: 209.85.220.199 is neither permitted nor denied by best guess record for domain of roberta+bncCIrg1dvHHhDPr6PyBBoEvKGVnw@jays.net) smtp.mail=roberta+bncCIrg1dvHHhDPr6PyBBoEvKGVnw@jays.net
+Received: by vxi39 with SMTP id 39sf6288662vxi.2
+        for <jay@jays.net>; Mon, 15 Aug 2011 01:24:51 -0700 (PDT)
+Received: by 10.224.18.132 with SMTP id w4mr2896329qaa.17.1313396687361;
+        Mon, 15 Aug 2011 01:24:47 -0700 (PDT)
+X-BeenThere: roberta@jays.net
+Received: by 10.229.67.104 with SMTP id q40ls9020517qci.3.gmail; Mon, 15 Aug
+ 2011 01:24:46 -0700 (PDT)
+Received: by 10.224.9.70 with SMTP id k6mr2462473qak.230.1313396686810;
+        Mon, 15 Aug 2011 01:24:46 -0700 (PDT)
+Received: by 10.224.9.70 with SMTP id k6mr2462472qak.230.1313396686796;
+        Mon, 15 Aug 2011 01:24:46 -0700 (PDT)
+Received: from out4.smtp.messagingengine.com (out4.smtp.messagingengine.com [66.111.4.28])
+        by mx.google.com with ESMTPS id fi3si145751qab.39.2011.08.15.01.24.45
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Mon, 15 Aug 2011 01:24:45 -0700 (PDT)
+Received-SPF: pass (google.com: domain of robertajenkins@fastmail.fm designates 66.111.4.28 as permitted sender) client-ip=66.111.4.28;
+Received: from compute3.internal (compute3.nyi.mail.srv.osa [10.202.2.43])
+	by gateway1.messagingengine.com (Postfix) with ESMTP id 7B0FE22709
+	for <roberta@jays.net>; Mon, 15 Aug 2011 04:24:45 -0400 (EDT)
+Received: from web1.messagingengine.com ([10.202.2.211])
+  by compute3.internal (MEProxy); Mon, 15 Aug 2011 04:24:45 -0400
+Received: by web1.messagingengine.com (Postfix, from userid 99)
+	id 588E59E1211; Mon, 15 Aug 2011 04:24:45 -0400 (EDT)
+Message-Id: <1313396685.9368.140258129690965@webmail.messagingengine.com>
+X-Sasl-Enc: XveqY4IJkR3QaMWeTw6KoAn4h1K0XbCy5Er3omR9Fmwg 1313396685
+From: "Roberta Jenkins" <robertajenkins@fastmail.fm>
+To: roberta@jays.net
+MIME-Version: 1.0
+X-Mailer: MessagingEngine.com Webmail Interface
+Subject: An Outbreak of Snow!
+Date: Mon, 15 Aug 2011 17:24:45 +0900
+X-Original-Sender: robertajenkins@fastmail.fm
+X-Original-Authentication-Results: mx.google.com; spf=pass (google.com: domain
+ of robertajenkins@fastmail.fm designates 66.111.4.28 as permitted sender)
+ smtp.mail=robertajenkins@fastmail.fm; dkim=pass header.i=@messagingengine.com
+Precedence: list
+Mailing-list: list roberta@jays.net; contact roberta+owners@jays.net
+List-ID: <roberta.jays.net>
+X-Google-Group-Id: 831125463754
+List-Help: <http://www.google.com/support/a/jays.net/bin/static.py?hl=en_US&page=groups.cs>,
+ <mailto:roberta+help@jays.net>
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset="us-ascii"
+
+Only in New Zealand do they talk about 'outbreaks' of weather, as if
+snow were some kind of disease.  Though for as often as most of the
+country gets snow, I suppose the comparison may be a fair one.  When I
+arrived back in Dunedin in June, the mountain resorts were going crazy
+because of the complete lack of snow.  The opening of every skifield in
+the country was delayed by at least a month, and in some cases
+significantly longer.  We had the warmest, driest June on record ever
+here in town, and for most of July also enjoyed sunny skies and calm.  
+
+And then, right near the end of the month, we got thumped.  A massive
+storm dumped more snow on Dunedin than had fallen in 17 years. 
+Everything shut down.  A sense of wonder pervaded the city.  My
+flatmates and I (some of whom had never seen snow before in their lives)
+made the most enormous snowman imagineable.  Everywhere you went, people
+were laughing and playing and taking pictures of the magic.  Now, only 3
+weeks later, we're in the middle of a 'once in 50 years outbreak' and
+people aren't so happy about th snow.  For one thing, thanks to the gale
+force winds accompanying this storm, it feels a whole lot colder than
+the last storm.  For another, a once-in-17-years snow break seems like a
+gift but a twice-in-a-month snow break seems ominous.  People wonder if
+the weather is actually changing, and this is just the start of things
+to come.  24-hours into the storm, it's still alternately hailing,
+snowing and raining in quick succession, all driven by a truly ferocious
+wind.
+
+Inside the house, life is much more settled than what's raging on
+outside.  After Saturday morning's uncomfortable kitchen encounter, my
+flatmate and I had a looooong talk and helped each other understand
+where we each are coming from.  He still thinks I am stubborn (funny,
+he's not the only person who has called me that, and I'm not sure it's
+entirely complimentary!), but when he'd taken the trouble to prepare my
+favourite rice and boil the kettle for my tea Sunday morning before I'd
+even come downstairs I knew I was in the clear with him.  Later, when we
+were doing our traditional weekly grocery run, it was fun to have
+someone else along who stared as longingly at the vast shelves of food
+as I'm sure I have been - nothing to make a not-otherwise-hungry person
+salivate like a trip to the supermarket!  He checks in on me
+periodically, I check in on him.  Though Ramadan remains an intensely
+personal experience for each of us, having someone in the house to share
+some of the journey with has made all the difference.
+
+Thank you all for sharing the journey with me as well.  I hope that each
+of you is well and warm and happy, where ever you are!  Much love -
+Roberta
+
+From robertajenkins@fastmail.fm Fri Aug 12 14:43:48 2011
+Delivered-To: jay@jays.net
+Received: by 10.231.143.139 with SMTP id v11cs47298ibu;
+        Fri, 12 Aug 2011 12:43:50 -0700 (PDT)
+Received: from mr.google.com ([10.236.146.100])
+        by 10.236.146.100 with SMTP id q64mr5795800yhj.92.1313178230250 (num_hops = 1);
+        Fri, 12 Aug 2011 12:43:50 -0700 (PDT)
+Received: by 10.236.146.100 with SMTP id q64mr4273269yhj.92.1313178229660;
+        Fri, 12 Aug 2011 12:43:49 -0700 (PDT)
+Return-Path: <roberta+bncCIrg1dvHHhDwhJbyBBoE5jF2WQ@jays.net>
+Received: from mail-gx0-f199.google.com (mail-gx0-f199.google.com [209.85.161.199])
+        by mx.google.com with ESMTPS id c64si2760395yhj.47.2011.08.12.12.43.48
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Fri, 12 Aug 2011 12:43:48 -0700 (PDT)
+Received-SPF: neutral (google.com: 209.85.161.199 is neither permitted nor denied by best guess record for domain of roberta+bncCIrg1dvHHhDwhJbyBBoE5jF2WQ@jays.net) client-ip=209.85.161.199;
+Authentication-Results: mx.google.com; spf=neutral (google.com: 209.85.161.199 is neither permitted nor denied by best guess record for domain of roberta+bncCIrg1dvHHhDwhJbyBBoE5jF2WQ@jays.net) smtp.mail=roberta+bncCIrg1dvHHhDwhJbyBBoE5jF2WQ@jays.net
+Received: by gxk5 with SMTP id 5sf4229931gxk.2
+        for <jay@jays.net>; Fri, 12 Aug 2011 12:43:48 -0700 (PDT)
+Received: by 10.224.197.72 with SMTP id ej8mr998544qab.13.1313178224525;
+        Fri, 12 Aug 2011 12:43:44 -0700 (PDT)
+X-BeenThere: roberta@jays.net
+Received: by 10.224.174.15 with SMTP id r15ls6986855qaz.3.gmail; Fri, 12 Aug
+ 2011 12:43:44 -0700 (PDT)
+Received: by 10.224.10.17 with SMTP id n17mr858582qan.347.1313178223828;
+        Fri, 12 Aug 2011 12:43:43 -0700 (PDT)
+Received: by 10.224.10.17 with SMTP id n17mr858581qan.347.1313178223817;
+        Fri, 12 Aug 2011 12:43:43 -0700 (PDT)
+Received: from out3.smtp.messagingengine.com (out3.smtp.messagingengine.com [66.111.4.27])
+        by mx.google.com with ESMTPS id gh8si7129274qab.50.2011.08.12.12.43.42
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Fri, 12 Aug 2011 12:43:42 -0700 (PDT)
+Received-SPF: pass (google.com: domain of robertajenkins@fastmail.fm designates 66.111.4.27 as permitted sender) client-ip=66.111.4.27;
+Received: from compute5.internal (compute5.nyi.mail.srv.osa [10.202.2.45])
+	by gateway1.messagingengine.com (Postfix) with ESMTP id 7C42620D8F
+	for <roberta@jays.net>; Fri, 12 Aug 2011 15:43:42 -0400 (EDT)
+Received: from web1.messagingengine.com ([10.202.2.211])
+  by compute5.internal (MEProxy); Fri, 12 Aug 2011 15:43:42 -0400
+Received: by web1.messagingengine.com (Postfix, from userid 99)
+	id 59B393C9B15; Fri, 12 Aug 2011 15:43:42 -0400 (EDT)
+Message-Id: <1313178222.300.140258129046321@webmail.messagingengine.com>
+X-Sasl-Enc: DfUq/14/kR4YSvoud5+hSnpxEyc2piitxbEVto0eedhG 1313178222
+From: "Roberta Jenkins" <robertajenkins@fastmail.fm>
+To: roberta@jays.net
+MIME-Version: 1.0
+X-Mailer: MessagingEngine.com Webmail Interface
+Subject: The Cat's Out of the Bag
+Date: Sat, 13 Aug 2011 04:43:42 +0900
+X-Original-Sender: robertajenkins@fastmail.fm
+X-Original-Authentication-Results: mx.google.com; spf=pass (google.com: domain
+ of robertajenkins@fastmail.fm designates 66.111.4.27 as permitted sender)
+ smtp.mail=robertajenkins@fastmail.fm; dkim=pass header.i=@messagingengine.com
+Precedence: list
+Mailing-list: list roberta@jays.net; contact roberta+owners@jays.net
+List-ID: <roberta.jays.net>
+X-Google-Group-Id: 831125463754
+List-Help: <http://www.google.com/support/a/jays.net/bin/static.py?hl=en_US&page=groups.cs>,
+ <mailto:roberta+help@jays.net>
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset="us-ascii"
+
+Yesterday morning when I went down to the kitchen, my flatmate who is
+observing Ramadan was there.  I'd managed to time my breakfasts until
+then so that he would be gone before I came down, never the wiser about
+my own observance of the fast.  And actually, thanks in large part to
+the fact that I am often an early bird, he didn't realize yesterday what
+I was doing either.  Until I told him on the walk to school a few hours
+later.  I watched a succession of emotions play across his face,
+surprise and bemusement chief among them.  When he told me I should just
+go over to the mosque and convert, since I am practically Muslim
+already, I'm pretty sure the primary emotion was ridicule.  A few
+moments later I thought there might have been a tiny bit of admiration
+and solidarity when he asked me how it had been to fast so far.  His
+parting words, said with a somewhat exasperated smile, were 'You're
+crazy.'
+
+This morning when I met him in the kitchen again he was still smiling,
+but I got the distinct impression that it was not a happy sort of smile.
+ 'Why are you doing this?' he asked, without really waiting for an
+answer (which, at 5:45am I would have been fairly incoherent in
+delivering in any case).  'There's more to this than fasting,' he said,
+mostly under his breath.  On his way out of the room a few moments later
+he said 'You should stop.  You wanted to see what it was like, fine, do
+it for a day.  You've done that.  Not for 30 days.  You shouldn't be
+doing this.'  And then he was gone.
+
+My rationale in not telling him what I was doing right from the
+beginning was sound at first.  Ramadan is not an experiment to him, it's
+his life (well, part of it anyway).  The first time we ever talked about
+religion and belief, many months ago, he told me that he does not
+consider himself religious but that he is definitely spiritual.  When he
+told me about Ramadan a few weeks before it began he said that it's the
+one month a year that he is a 'good Muslim'.  Clearly a significant time
+of the year for him.  Now, he is not the only Muslim in the house, but
+as it turns out he is the only one who has actually followed through
+with the fasting, so for all intents and purposes it was only him that I
+needed to be especially aware of keeping it from.  I didn't want him to
+feel like I was trying to take something away from him by making my own
+observance, or to otherwise make him uncomfortable.  But by doing that,
+a relatively significant part of my experience of Ramadan became about
+not letting him know that I was doing it.  And at the point when it
+stopped being an experiment for me as well, starting every day worrying
+about whether or not I was going to meet him in the kitchen seemed like
+a poor use of my brain.  It was time to let the cat out of the bag.
+
+Now I know that to reduce the observance of Ramadan to only the fasting
+would be a travesty.  But since that's the most visible manifestation of
+the month for me, and the easiest to verbalize, it's what I am (mostly)
+going to talk about here.  It's 6:30am on a Saturday (I'm not great at
+getting back to sleep after my morning meal), and I've spent the last 45
+minutes or so, since his 'Why are you doing this?' trying to put into
+words exactly why following through with the entire 30 days of Ramadan
+has become so important to me.  The word covenant keeps coming into my
+brain, as in 'I've made a covenant' (with myself?  with God?), which
+strikes me as a fairly antiquated and melodramatic way of putting
+things.  And yet there it is.  And I'm sure I'm putting this very badly,
+but please bear with me.
+
+Thursday morning I spent 4 hours in a writing workshop hosted by the
+university.  Copious amounts of food and beverages were served.  I sat
+at a table with three other people who drank and drank and drank
+throughout all of our activities (each cup of coffee perched so
+tantalizingly close to my nose on our tiny workspace), and ate and ate
+and ate throughout all of our (working) breaks.  Torture!  Inside my
+head I was railing against the inconsiderateness of all these
+(unknowing) people, and against my own inability to consume.  And then
+something snapped.  Something good.  A ferocious little voice inside my
+head said 'No one is stopping you, go ahead and eat!'  And, ridiculous
+as this probably sounds, I finally understood that fasting was MY
+CHOICE.  And that it was important to me.
+
+On the second day of the fast I said 'I prefer to think of it as an
+experiment in self-control and empathy, as well as a chance to share,
+even superficially, a faith experience of a significant portion of the
+world's population.'  What I have learned so far is that it is
+impossible to share someone else's faith experience first hand.  Also,
+it is impossible to remain at arm's length from your own.  At some point
+fairly recently (perhaps with the rearing up of that little voice in my
+head!) Ramadan stopped being an experiment for me (which implied
+something I am outside of, watching from a distance), and started
+being...something else.  Something deeply personal.  Something both
+bigger and smaller than I first imagined.
+
+Now the question is, how do I begin to explain that to my friend in the
+house?  
+
+From robertajenkins@fastmail.fm Sun Aug  7 19:03:38 2011
+Delivered-To: jay@jays.net
+Received: by 10.231.143.139 with SMTP id v11cs148807ibu;
+        Sun, 7 Aug 2011 17:03:40 -0700 (PDT)
+Received: from mr.google.com ([10.52.180.193])
+        by 10.52.180.193 with SMTP id dq1mr504116vdc.393.1312761820242 (num_hops = 1);
+        Sun, 07 Aug 2011 17:03:40 -0700 (PDT)
+Received: by 10.52.180.193 with SMTP id dq1mr366333vdc.393.1312761819844;
+        Sun, 07 Aug 2011 17:03:39 -0700 (PDT)
+Return-Path: <roberta+bncCIrg1dvHHhDWz_zxBBoEJg_L4Q@jays.net>
+Received: from mail-vw0-f71.google.com (mail-vw0-f71.google.com [209.85.212.71])
+        by mx.google.com with ESMTPS id dk8si2773200vcb.170.2011.08.07.17.03.38
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Sun, 07 Aug 2011 17:03:38 -0700 (PDT)
+Received-SPF: neutral (google.com: 209.85.212.71 is neither permitted nor denied by best guess record for domain of roberta+bncCIrg1dvHHhDWz_zxBBoEJg_L4Q@jays.net) client-ip=209.85.212.71;
+Authentication-Results: mx.google.com; spf=neutral (google.com: 209.85.212.71 is neither permitted nor denied by best guess record for domain of roberta+bncCIrg1dvHHhDWz_zxBBoEJg_L4Q@jays.net) smtp.mail=roberta+bncCIrg1dvHHhDWz_zxBBoEJg_L4Q@jays.net
+Received: by vws8 with SMTP id 8sf2492947vws.2
+        for <jay@jays.net>; Sun, 07 Aug 2011 17:03:38 -0700 (PDT)
+Received: by 10.224.9.144 with SMTP id l16mr3793716qal.26.1312761814542;
+        Sun, 07 Aug 2011 17:03:34 -0700 (PDT)
+X-BeenThere: roberta@jays.net
+Received: by 10.229.128.106 with SMTP id j42ls8539372qcs.1.gmail; Sun, 07 Aug
+ 2011 17:03:34 -0700 (PDT)
+Received: by 10.229.67.149 with SMTP id r21mr3623345qci.99.1312761813995;
+        Sun, 07 Aug 2011 17:03:33 -0700 (PDT)
+Received: by 10.229.67.149 with SMTP id r21mr3623344qci.99.1312761813975;
+        Sun, 07 Aug 2011 17:03:33 -0700 (PDT)
+Received: from out3.smtp.messagingengine.com (out3.smtp.messagingengine.com [66.111.4.27])
+        by mx.google.com with ESMTPS id fy2si10109688qab.9.2011.08.07.17.03.32
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Sun, 07 Aug 2011 17:03:32 -0700 (PDT)
+Received-SPF: pass (google.com: domain of robertajenkins@fastmail.fm designates 66.111.4.27 as permitted sender) client-ip=66.111.4.27;
+Received: from compute6.internal (compute6.nyi.mail.srv.osa [10.202.2.46])
+	by gateway1.messagingengine.com (Postfix) with ESMTP id 9AE5920556;
+	Sun,  7 Aug 2011 20:03:32 -0400 (EDT)
+Received: from web1.messagingengine.com ([10.202.2.211])
+  by compute6.internal (MEProxy); Sun, 07 Aug 2011 20:03:32 -0400
+Received: by web1.messagingengine.com (Postfix, from userid 99)
+	id 78A243C76C1; Sun,  7 Aug 2011 20:03:32 -0400 (EDT)
+Message-Id: <1312761812.28554.2160532013@webmail.messagingengine.com>
+X-Sasl-Enc: ezrC/IpKSScoVCGomNNaoVT0REIyjP2s+38QEVMtl/U9 1312761812
+From: "Roberta Jenkins" <robertajenkins@fastmail.fm>
+To: roberta@jays.net, "Colleen" <cmccm45@gmail.com>
+MIME-Version: 1.0
+X-Mailer: MessagingEngine.com Webmail Interface
+Subject: Ramadan, Week 2
+Date: Mon, 08 Aug 2011 09:03:32 +0900
+X-Original-Sender: robertajenkins@fastmail.fm
+X-Original-Authentication-Results: mx.google.com; spf=pass (google.com: domain
+ of robertajenkins@fastmail.fm designates 66.111.4.27 as permitted sender)
+ smtp.mail=robertajenkins@fastmail.fm; dkim=pass header.i=@messagingengine.com
+Precedence: list
+Mailing-list: list roberta@jays.net; contact roberta+owners@jays.net
+List-ID: <roberta.jays.net>
+X-Google-Group-Id: 831125463754
+List-Help: <http://www.google.com/support/a/jays.net/bin/static.py?hl=en_US&page=groups.cs>,
+ <mailto:roberta+help@jays.net>
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset="us-ascii"
+
+I'm a week into my Ramadan experience, at 11 o'clock on a working Monday
+morning, and I'm hungry.  And thirsty.  And tired.  But mostly hungry. 
+This has very little to do with Ramadan and very much to do with the 3
+days of travel I returned from last night, and the wild storm that blew
+through the house into the wee hours sounding like the beasts of hell
+descending into my room, keeping me awake.  
+
+As I mentioned last week, travel and menstruation both exempt a person
+from fasting, and as a clear indication that god has a sense of humour,
+these two exemptions happened to exactly coincide for me.  Meaning I ate
+normally Friday through Sunday.  And will not get to eat normally again
+for the entire remainder of the month.  Which actually, with the benefit
+of today's experience under consideration. is probably a good thing. 
+Because it's amazing how quickly your body adapts to changes in
+consumption habits!  
+
+When I began this experiment last Monday I was HUNGRY all day.  Tuesday
+I was only hungry in the last couple of hours before I could eat again. 
+Wednesday and Thursday I didn't even think about food all day.  But here
+it is Monday again, with 3 days of food under my belt (quite literally,
+I think, in the case of the enormous plate of battered, deep fried,
+local muscles I ate for dinner on Stewart Island Saturday), and I'm back
+to being HUNGRY again.  Sigh.  They weren't kidding over at the Toronto
+Islamic Society (where I went for guidance on what to do and not to do
+this month, via their website) when they said that Ramadan is an
+exercise in self-control and patience.  I feel like I'm starting all
+over again from the beginning today, which I suppose, physiologically
+speaking, I probably am.
+
+And so this seems like the perfect time to remind myself that this isn't
+about deprivation, but rather about gratitude.  It must be time to think
+a bit on all the things I'm grateful for today, rather than on all the
+things I'm not eating or drinking.  And so, in no particular order,
+here's my list:
+
+#1: I didn't lose my wallet this weekend.  
+#2: I survived 2 bumpy flights in a very small plane, and even almost
+enjoyed myself in the air.
+#3: I managed to drive for hours and hours and hours (in snow and rain
+no less!) on the opposite side of the road than I'm used to, without
+once going into the wrong lane.
+#4: I visited what has to be one of the most beautiful islands on earth.
+#5: I completed 2 substantial hikes, in the mud, without totally killing
+my (very dodgy) back.
+#6: I didn't have to walk back to town in a hail storm.
+#7: I had a fabulous travelling buddy who made all of the above
+endlessly more enjoyable!
+#8: I have the health and freedom to choose to eat or not eat, whenever
+I want.
+#9: I have family who, upon hearing that I was observing Ramadan this
+year, never once asked 'why?' and instead offered only encouragement and
+support.
+#10: I have work I love to do, which keeps me more than happily busy.
+
+I'm not going to elaborate on all of these right now...spreading them
+out a little will give me something to think about later on when it's
+normally time for lunch.  Or afternoon tea.  Or...right, back to the
+gratitude!  For now, I think the happy story of #1 deserves to be
+shared!
+
+I had my wallet all weekend, tramping through the incredible muck of
+Stewart Island.  I had it at the airport terminal, where I paid for
+parking our rental car over the weekend.  I didn't have it 15 minutes
+later, at the gas station where we stopped on our way out of town.  Uh
+oh.  I went through the car.  Leanne went through the car.  No wallet
+anywhere.  We turned the car around and headed back to the airport.  We
+pulled into the parking lot we'd left half an hour before in the pouring
+rain, as the sun was setting.  No wallet in the parking space we'd
+vacated, or anywhere around it.  We both got out of the car, started
+walking towards the terminal down different rows.  Half way to the
+terminal I started to seriously panic - my passport (with both my New
+Zealand visa and my Korean visa inside), all of my ID, my credit cards,
+bank cards, driver's license, everything is in that wallet.  Along with
+a couple of hundred dollars in cash since we'd been told there were no
+bank machines on Stewart Island (there weren't, but all the shops took
+debit cards).  Just before crossing the last stretch before the
+terminal, Leanne let out a happy yelp and started jumping up and down. 
+My very black wallet had landed on the only yellow patch of paint laid
+down in the entire parking lot, and was still there waiting for us with
+absolutely everything inside.  What's more, even though the outside was
+soaking wet from the rain, inside, everything was bone dry.  Now THAT is
+seriously gratitude inspiring!!  Thank you, thank you, thank you!
+
+And on that note, I ought to get back to #10, work.  More on #s 2
+through 7 sometime soon (I think 8 and 9 are pretty self-explanatory)! 
+I hope that you are all happy and healthy and full of gratitude this
+fine (stormy) day.  My love to each of you!  R 
+
+From robertajenkins@fastmail.fm Mon Aug  1 23:52:25 2011
+Delivered-To: jay@jays.net
+Received: by 10.231.224.21 with SMTP id im21cs38606ibb;
+        Mon, 1 Aug 2011 21:52:28 -0700 (PDT)
+Received: by 10.101.106.25 with SMTP id i25mr3870685anm.80.1312260746924;
+        Mon, 01 Aug 2011 21:52:26 -0700 (PDT)
+Return-Path: <roberta+bncCIrg1dvHHhCFhd7xBBoExCKlEw@jays.net>
+Received: from mail-gx0-f199.google.com (mail-gx0-f199.google.com [209.85.161.199])
+        by mx.google.com with ESMTPS id h11si7345159ana.90.2011.08.01.21.52.25
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Mon, 01 Aug 2011 21:52:25 -0700 (PDT)
+Received-SPF: neutral (google.com: 209.85.161.199 is neither permitted nor denied by best guess record for domain of roberta+bncCIrg1dvHHhCFhd7xBBoExCKlEw@jays.net) client-ip=209.85.161.199;
+Authentication-Results: mx.google.com; spf=neutral (google.com: 209.85.161.199 is neither permitted nor denied by best guess record for domain of roberta+bncCIrg1dvHHhCFhd7xBBoExCKlEw@jays.net) smtp.mail=roberta+bncCIrg1dvHHhCFhd7xBBoExCKlEw@jays.net
+Received: by gxk5 with SMTP id 5sf7057827gxk.2
+        for <jay@jays.net>; Mon, 01 Aug 2011 21:52:25 -0700 (PDT)
+Received: by 10.52.67.47 with SMTP id k15mr1050111vdt.24.1312260741593;
+        Mon, 01 Aug 2011 21:52:21 -0700 (PDT)
+X-BeenThere: roberta@jays.net
+Received: by 10.220.186.201 with SMTP id ct9ls5654595vcb.1.gmail; Mon, 01 Aug
+ 2011 21:52:20 -0700 (PDT)
+Received: by 10.220.182.133 with SMTP id cc5mr1334351vcb.189.1312260740718;
+        Mon, 01 Aug 2011 21:52:20 -0700 (PDT)
+Received: by 10.220.182.133 with SMTP id cc5mr1334350vcb.189.1312260740703;
+        Mon, 01 Aug 2011 21:52:20 -0700 (PDT)
+Received: from out2.smtp.messagingengine.com (out2.smtp.messagingengine.com [66.111.4.26])
+        by mx.google.com with ESMTPS id l13si3800886vcq.28.2011.08.01.21.52.19
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Mon, 01 Aug 2011 21:52:19 -0700 (PDT)
+Received-SPF: pass (google.com: domain of robertajenkins@fastmail.fm designates 66.111.4.26 as permitted sender) client-ip=66.111.4.26;
+Received: from compute6.internal (compute6.nyi.mail.srv.osa [10.202.2.46])
+	by gateway1.messagingengine.com (Postfix) with ESMTP id 55FF8209AA;
+	Tue,  2 Aug 2011 00:52:19 -0400 (EDT)
+Received: from web1.messagingengine.com ([10.202.2.211])
+  by compute6.internal (MEProxy); Tue, 02 Aug 2011 00:52:19 -0400
+Received: by web1.messagingengine.com (Postfix, from userid 99)
+	id 32CEA3D7522; Tue,  2 Aug 2011 00:52:19 -0400 (EDT)
+Message-Id: <1312260739.31052.2158420273@webmail.messagingengine.com>
+X-Sasl-Enc: DgGwafT7Dg0DAMU4jgrQsj6uax12NygwFIrQb5le3o9i 1312260739
+From: "Roberta Jenkins" <robertajenkins@fastmail.fm>
+To: roberta@jays.net, "Coleen Mercer" <cmccm45@hotmail.com>
+MIME-Version: 1.0
+X-Mailer: MessagingEngine.com Webmail Interface
+Subject: On hunger, learning, abundance and gratitude
+Date: Tue, 02 Aug 2011 13:52:19 +0900
+X-Original-Sender: robertajenkins@fastmail.fm
+X-Original-Authentication-Results: mx.google.com; spf=pass (google.com: domain
+ of robertajenkins@fastmail.fm designates 66.111.4.26 as permitted sender)
+ smtp.mail=robertajenkins@fastmail.fm; dkim=pass header.i=@messagingengine.com
+Precedence: list
+Mailing-list: list roberta@jays.net; contact roberta+owners@jays.net
+List-ID: <roberta.jays.net>
+X-Google-Group-Id: 831125463754
+List-Help: <http://www.google.com/support/a/jays.net/bin/static.py?hl=en_US&page=groups.cs>,
+ <mailto:roberta+help@jays.net>
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset="us-ascii"
+
+What business does a Christian girl from the Canadian prairies have
+attempting to observe Ramadan, the Islamic month of fasting?  Probably
+none.  And yet, here I am in New Zealand, doing just that.  From an hour
+or so before the sun rises to sometime shortly after sundown, for the
+next 28 days (give or take a few days for travel and menstruation, both
+of which temporarily exempt me from fasting), I will not be eating or
+drinking anything.  Not even water.  
+
+In light of the fact that Ramadan is not only (or even mostly) about
+deprivation, while I'm at it I'm going to try to be more mindful of
+other people, and of God, and of myself.  Decreased food consumption,
+increased mindfulness - a kind of package deal.  There are myriad
+lessons that abstaining from food (and other things!) during the month
+is supposed to teach a person - not the least of which is patience,
+something which I surely could (always!) use a refresher on.  Ditto
+perseverance.  It's supposed to help clear your mind (what PhD student
+doesn't need that?!), give you greater empathy for the poor (hunger and
+thirst suck, so let's help those who don't get to change that condition
+once the sun sets), erase divisions (everyone, regardless of social
+status, gender, or nationality observes the fast together), and promote
+sincerity (no one can really tell if you're following your fast or not,
+so it's all up to you).  It's also an acknowledgement of the gifts of
+Allah in the world, and regardless of whether or not you are a
+particular believer, it seems to me a good idea to stop every now and
+again and really be thankful for how bountiful the world we live in is.  
+
+To be clear, I'm not converting to Islam (not that there would be
+anything wrong with that if I did).  I prefer to think of it as an
+experiment in self-control and empathy, as well as a chance to share,
+even superficially, a faith experience of a significant portion of the
+world's population.  This is not wholly unlike the two weeks I spent in
+silence at a Buddhist meditation retreat in Thailand a few years ago. 
+Different deprivations, similar aims.  I wish I could say that I went to
+that retreat out of a pure and sincere devotion to spiritual
+development, but actually I went because a friend bet me that I couldn't
+keep my mouth shut for so long (he was wrong).  Similarly, I wish I
+could say that I am embarking on this journey with a pure and sincere
+devotion to spiritual development, but really it's as much curiosity as
+anything.  I'm curious about this foundational experience that so many
+people around the world share, and also curious about whether or not I
+can actually get through a whole month without eating or drinking (two
+things which are very dear to my heart, especially here in hyper-social
+Dunedin) during daylight hours.  Also,  to be perfectly honest, I'm a
+practical sort of person and figured that if I'm ever going to have a
+serious go at observing an entire month of fasting, it ought to be here
+in the middle of a New Zealand winter when the temperature throughout
+the relatively short daylight hours is neither too hot nor too cold.  If
+there were ever going to be ideal conditions for an experiment such as
+this, these are them.      
+
+Now, disclaimer aside, I do think that more will come of this month than
+the satisfaction of my curiosity.  Though I hated pretty much every
+single minute of my 2-weeks of silence, and swore that I would never do
+anything so ridiculous (for me - understand that I am not calling the
+practice itself ridiculous...) again, it turns out in the end that I
+actually learned an awful lot at that retreat.  Things that I still
+practice, or think about, today.  There is no question in my mind now
+that I actually learned some important lessons sitting there under the
+palm trees with the monks, such that I look back on the whole experience
+almost fondly and have even considered going back.  I could not have
+imagined, even in the middle of that experience, what would come of what
+I learned.  Likewise, I have no idea what will come of what I undertake
+this month.  But I firmly believe that when people step out in faith
+(even in misguided or selfish faith), we do not step out alone.  God
+(whatever god you conceive) meets us.  The world meets us.  We meet our
+(better) selves.
+
+Which brings me back to the present, with the sun just beginning to dip
+behind the hills ringing my horizon, preparing to break my fast for the
+(second) day.  One of the best things about Ramadan, in my estimation,
+is how social it is - how you join with your friends and family at the
+end of the day to celebrate your abundance together.  Unsure of how it
+would make my (very dear) Muslim friends here feel to have someone like
+me essentially tagging along for the ride during their holiest month, I
+haven't told anyone here what I'm doing.  Instead, I'm telling you.  And
+hoping that, fast or not, you will share my enormous gratitude tonight
+(and all this month) for the tremendous abundance we are so blessed with
+- an abundance of which each of you are very much a part.     
+
+From robertajenkins@fastmail.fm Tue Jul  5 21:25:25 2011
+Delivered-To: jay@jays.net
+Received: by 10.223.2.148 with SMTP id 20cs123293faj;
+        Tue, 5 Jul 2011 19:25:26 -0700 (PDT)
+Received: by 10.52.66.10 with SMTP id b10mr975982vdt.250.1309919126165;
+        Tue, 05 Jul 2011 19:25:26 -0700 (PDT)
+Return-Path: <roberta+bncCIrg1dvHHhCQj8_wBBoEqfCbEw@jays.net>
+Received: from mail-qy0-f199.google.com (mail-qy0-f199.google.com [209.85.216.199])
+        by mx.google.com with ESMTPS id bl11si7473046vdb.133.2011.07.05.19.25.24
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Tue, 05 Jul 2011 19:25:25 -0700 (PDT)
+Received-SPF: neutral (google.com: 209.85.216.199 is neither permitted nor denied by best guess record for domain of roberta+bncCIrg1dvHHhCQj8_wBBoEqfCbEw@jays.net) client-ip=209.85.216.199;
+Authentication-Results: mx.google.com; spf=neutral (google.com: 209.85.216.199 is neither permitted nor denied by best guess record for domain of roberta+bncCIrg1dvHHhCQj8_wBBoEqfCbEw@jays.net) smtp.mail=roberta+bncCIrg1dvHHhCQj8_wBBoEqfCbEw@jays.net
+Received: by qyk2 with SMTP id 2sf6483745qyk.2
+        for <jay@jays.net>; Tue, 05 Jul 2011 19:25:24 -0700 (PDT)
+Received: by 10.52.66.140 with SMTP id f12mr3148525vdt.0.1309919120565;
+        Tue, 05 Jul 2011 19:25:20 -0700 (PDT)
+X-BeenThere: roberta@jays.net
+Received: by 10.52.96.197 with SMTP id du5ls3374927vdb.1.gmail; Tue, 05 Jul
+ 2011 19:25:19 -0700 (PDT)
+Received: by 10.52.92.114 with SMTP id cl18mr10677951vdb.309.1309919119970;
+        Tue, 05 Jul 2011 19:25:19 -0700 (PDT)
+Received: by 10.52.92.114 with SMTP id cl18mr10677950vdb.309.1309919119963;
+        Tue, 05 Jul 2011 19:25:19 -0700 (PDT)
+Received: from out5.smtp.messagingengine.com (out5.smtp.messagingengine.com [66.111.4.29])
+        by mx.google.com with ESMTPS id y17si3394642vck.169.2011.07.05.19.25.18
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Tue, 05 Jul 2011 19:25:18 -0700 (PDT)
+Received-SPF: pass (google.com: domain of robertajenkins@fastmail.fm designates 66.111.4.29 as permitted sender) client-ip=66.111.4.29;
+Received: from compute3.internal (compute3.nyi.mail.srv.osa [10.202.2.43])
+	by gateway1.messagingengine.com (Postfix) with ESMTP id A8ECF20837
+	for <roberta@jays.net>; Tue,  5 Jul 2011 22:25:17 -0400 (EDT)
+Received: from web1.messagingengine.com ([10.202.2.211])
+  by compute3.internal (MEProxy); Tue, 05 Jul 2011 22:25:17 -0400
+Received: by web1.messagingengine.com (Postfix, from userid 99)
+	id 89D56640B12; Tue,  5 Jul 2011 22:25:17 -0400 (EDT)
+Message-Id: <1309919117.15102.2148624525@webmail.messagingengine.com>
+X-Sasl-Enc: K3iNO/jJNUsmKosXLWh2RPyxPzHlaP8vUPUUNYyQqrl0 1309919117
+From: "Roberta Jenkins" <robertajenkins@fastmail.fm>
+To: roberta@jays.net
+MIME-Version: 1.0
+X-Mailer: MessagingEngine.com Webmail Interface
+Subject: Thomas!
+Date: Wed, 06 Jul 2011 11:25:17 +0900
+X-Original-Sender: robertajenkins@fastmail.fm
+X-Original-Authentication-Results: mx.google.com; spf=pass (google.com: domain
+ of robertajenkins@fastmail.fm designates 66.111.4.29 as permitted sender)
+ smtp.mail=robertajenkins@fastmail.fm; dkim=pass header.i=@messagingengine.com
+Precedence: list
+Mailing-list: list roberta@jays.net; contact roberta+owners@jays.net
+List-ID: <roberta.jays.net>
+X-Google-Group-Id: 831125463754
+List-Help: <http://www.google.com/support/a/jays.net/bin/static.py?hl=en_US&page=groups.cs>,
+ <mailto:roberta+help@jays.net>
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset="us-ascii"
+
+Quick note again, to let you all know that (YAY!!!!!!!!!!!!) Thomas is
+doing great and has been discharged from the hospital!!!!!  His
+grandfather says 'The recovery was very quick once it started.  Still
+needs to be monitored for awhile.  Grandma is very very happy and very
+thankful for your support and  prayers.  She said for me to say:  "I am
+a firm believer in the power of prayer."  
+
+Thanks again to everyone who wrote and who thought about Thomas and his
+family over the last couple of weeks.  :)
+
+From robertajenkins@fastmail.fm Sun Jun 26 15:10:48 2011
+Delivered-To: jay@jays.net
+Received: by 10.223.2.131 with SMTP id 3cs49102faj;
+        Sun, 26 Jun 2011 13:10:51 -0700 (PDT)
+Received: by 10.100.189.19 with SMTP id m19mr5888615anf.164.1309119049511;
+        Sun, 26 Jun 2011 13:10:49 -0700 (PDT)
+Return-Path: <roberta+bncCIrg1dvHHhDEpJ7wBBoET18XSw@jays.net>
+Received: from mail-yx0-f199.google.com (mail-yx0-f199.google.com [209.85.213.199])
+        by mx.google.com with ESMTPS id w11si810497ane.165.2011.06.26.13.10.48
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Sun, 26 Jun 2011 13:10:48 -0700 (PDT)
+Received-SPF: neutral (google.com: 209.85.213.199 is neither permitted nor denied by best guess record for domain of roberta+bncCIrg1dvHHhDEpJ7wBBoET18XSw@jays.net) client-ip=209.85.213.199;
+Authentication-Results: mx.google.com; spf=neutral (google.com: 209.85.213.199 is neither permitted nor denied by best guess record for domain of roberta+bncCIrg1dvHHhDEpJ7wBBoET18XSw@jays.net) smtp.mail=roberta+bncCIrg1dvHHhDEpJ7wBBoET18XSw@jays.net
+Received: by yxk30 with SMTP id 30sf4278628yxk.2
+        for <jay@jays.net>; Sun, 26 Jun 2011 13:10:47 -0700 (PDT)
+Received: by 10.224.217.8 with SMTP id hk8mr5482022qab.12.1309119044100;
+        Sun, 26 Jun 2011 13:10:44 -0700 (PDT)
+X-BeenThere: roberta@jays.net
+Received: by 10.224.182.134 with SMTP id cc6ls1079559qab.4.gmail; Sun, 26 Jun
+ 2011 13:10:43 -0700 (PDT)
+Received: by 10.224.67.209 with SMTP id s17mr4265828qai.259.1309119043570;
+        Sun, 26 Jun 2011 13:10:43 -0700 (PDT)
+Received: by 10.224.67.209 with SMTP id s17mr4265827qai.259.1309119043556;
+        Sun, 26 Jun 2011 13:10:43 -0700 (PDT)
+Received: from out3.smtp.messagingengine.com (out3.smtp.messagingengine.com [66.111.4.27])
+        by mx.google.com with ESMTPS id gg6si12380743qab.23.2011.06.26.13.10.42
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Sun, 26 Jun 2011 13:10:42 -0700 (PDT)
+Received-SPF: pass (google.com: domain of robertajenkins@fastmail.fm designates 66.111.4.27 as permitted sender) client-ip=66.111.4.27;
+Received: from compute5.internal (compute5.nyi.mail.srv.osa [10.202.2.45])
+	by gateway1.messagingengine.com (Postfix) with ESMTP id 488A22131D
+	for <roberta@jays.net>; Sun, 26 Jun 2011 16:10:42 -0400 (EDT)
+Received: from web1.messagingengine.com ([10.202.2.211])
+  by compute5.internal (MEProxy); Sun, 26 Jun 2011 16:10:42 -0400
+Received: by web1.messagingengine.com (Postfix, from userid 99)
+	id 2CF913D655C; Sun, 26 Jun 2011 16:10:42 -0400 (EDT)
+Message-Id: <1309119042.32508.1467430765@webmail.messagingengine.com>
+X-Sasl-Enc: XmlONXmgzA2BUgfd5UR8pfhxbgcYW2mZt1EUQlVaKcmy 1309119042
+From: "Roberta Jenkins" <robertajenkins@fastmail.fm>
+To: roberta@jays.net
+MIME-Version: 1.0
+X-Mailer: MessagingEngine.com Webmail Interface
+Subject: Prayers for Thomas
+Date: Mon, 27 Jun 2011 05:10:42 +0900
+X-Original-Sender: robertajenkins@fastmail.fm
+X-Original-Authentication-Results: mx.google.com; spf=pass (google.com: domain
+ of robertajenkins@fastmail.fm designates 66.111.4.27 as permitted sender)
+ smtp.mail=robertajenkins@fastmail.fm; dkim=pass header.i=@messagingengine.com
+Precedence: list
+Mailing-list: list roberta@jays.net; contact roberta+owners@jays.net
+List-ID: <roberta.jays.net>
+X-Google-Group-Id: 831125463754
+List-Help: <http://www.google.com/support/a/jays.net/bin/static.py?hl=en_US&page=groups.cs>,
+ <mailto:roberta+help@jays.net>
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset="us-ascii"
+
+Lots of you have written to say that you're keeping little Thomas in
+your prayers and thoughts since I sent out the short note about him last
+week.  Thank you!  This is an update about his progress.  He remains in
+hospital, basically on a roller coaster ride - his grandmother says that
+it seems like for every step forward he makes he takes another back
+(take heart - at least he continues to take those steps forward!).  This
+weekend he had surgery to begin some kind of dialysis, which will be
+ongoing for at least a few days, as well as a blood transfusion
+yesterday in response to dropping hemogoblin levels.  But despite that,
+his nurse aunt who has gone out to support him and his family says he
+seems to be a little more alert and even got to visit with his little
+brother for a while which helped to cheer him up.  He is fighting hard,
+and can still use all the help we can give him!    
+
+From robertajenkins@fastmail.fm Thu Jun 23 15:28:06 2011
+Delivered-To: jay@jays.net
+Received: by 10.223.2.131 with SMTP id 3cs33395faj;
+        Thu, 23 Jun 2011 13:28:08 -0700 (PDT)
+Received: by 10.91.99.6 with SMTP id b6mr2740256agm.176.1308860887049;
+        Thu, 23 Jun 2011 13:28:07 -0700 (PDT)
+Return-Path: <roberta+bncCIrg1dvHHhDRw47wBBoEgvIX3w@jays.net>
+Received: from mail-yi0-f71.google.com (mail-yi0-f71.google.com [209.85.218.71])
+        by mx.google.com with ESMTPS id n28si31799anp.56.2011.06.23.13.28.05
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Thu, 23 Jun 2011 13:28:06 -0700 (PDT)
+Received-SPF: neutral (google.com: 209.85.218.71 is neither permitted nor denied by best guess record for domain of roberta+bncCIrg1dvHHhDRw47wBBoEgvIX3w@jays.net) client-ip=209.85.218.71;
+Authentication-Results: mx.google.com; spf=neutral (google.com: 209.85.218.71 is neither permitted nor denied by best guess record for domain of roberta+bncCIrg1dvHHhDRw47wBBoEgvIX3w@jays.net) smtp.mail=roberta+bncCIrg1dvHHhDRw47wBBoEgvIX3w@jays.net
+Received: by yia27 with SMTP id 27sf2122571yia.2
+        for <jay@jays.net>; Thu, 23 Jun 2011 13:28:05 -0700 (PDT)
+Received: by 10.224.195.9 with SMTP id ea9mr2215025qab.27.1308860881604;
+        Thu, 23 Jun 2011 13:28:01 -0700 (PDT)
+X-BeenThere: roberta@jays.net
+Received: by 10.224.183.131 with SMTP id cg3ls513318qab.0.gmail; Thu, 23 Jun
+ 2011 13:28:01 -0700 (PDT)
+Received: by 10.224.31.80 with SMTP id x16mr1925010qac.73.1308860881053;
+        Thu, 23 Jun 2011 13:28:01 -0700 (PDT)
+Received: by 10.224.31.80 with SMTP id x16mr1925009qac.73.1308860881044;
+        Thu, 23 Jun 2011 13:28:01 -0700 (PDT)
+Received: from out3.smtp.messagingengine.com (out3.smtp.messagingengine.com [66.111.4.27])
+        by mx.google.com with ESMTPS id 11si2476291qca.203.2011.06.23.13.27.59
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Thu, 23 Jun 2011 13:28:00 -0700 (PDT)
+Received-SPF: pass (google.com: domain of robertajenkins@fastmail.fm designates 66.111.4.27 as permitted sender) client-ip=66.111.4.27;
+Received: from compute5.internal (compute5.nyi.mail.srv.osa [10.202.2.45])
+	by gateway1.messagingengine.com (Postfix) with ESMTP id 8530E20FEF
+	for <roberta@jays.net>; Thu, 23 Jun 2011 16:27:59 -0400 (EDT)
+Received: from web1.messagingengine.com ([10.202.2.211])
+  by compute5.internal (MEProxy); Thu, 23 Jun 2011 16:27:59 -0400
+Received: by web1.messagingengine.com (Postfix, from userid 99)
+	id 663FD6A1E7E; Thu, 23 Jun 2011 16:27:59 -0400 (EDT)
+Message-Id: <1308860879.17364.1466566465@webmail.messagingengine.com>
+X-Sasl-Enc: pwettyZZTPIZbZlAshJRseIpGx5lB2cK7ZHxZmtdkFX4 1308860879
+From: "Roberta Jenkins" <robertajenkins@fastmail.fm>
+To: roberta@jays.net
+MIME-Version: 1.0
+X-Mailer: MessagingEngine.com Webmail Interface
+Subject: Prayers
+Date: Fri, 24 Jun 2011 05:27:59 +0900
+X-Original-Sender: robertajenkins@fastmail.fm
+X-Original-Authentication-Results: mx.google.com; spf=pass (google.com: domain
+ of robertajenkins@fastmail.fm designates 66.111.4.27 as permitted sender)
+ smtp.mail=robertajenkins@fastmail.fm; dkim=pass header.i=@messagingengine.com
+Precedence: list
+Mailing-list: list roberta@jays.net; contact roberta+owners@jays.net
+List-ID: <roberta.jays.net>
+X-Google-Group-Id: 831125463754
+List-Help: <http://www.google.com/support/a/jays.net/bin/static.py?hl=en_US&page=groups.cs>,
+ <mailto:roberta+help@jays.net>
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset="us-ascii"
+
+A quick note this morning, of a different sort than what I usually send
+out.  A good friend of mine has a 5 year old grandson battling an e-coli
+infection in a hospital in Edmonton.  Whatever your beliefs, he (and his
+family) could use all of the prayers or love or energy or support or
+whatever you can send him.  His name is Thomas, and he's in the fight of
+his life right now.
+
+From robertajenkins@fastmail.fm Fri May 27 07:53:24 2011
+Delivered-To: jay@jays.net
+Received: by 10.223.70.197 with SMTP id e5cs37147faj;
+        Fri, 27 May 2011 05:53:27 -0700 (PDT)
+Received: by 10.236.144.230 with SMTP id n66mr2710447yhj.17.1306500805981;
+        Fri, 27 May 2011 05:53:25 -0700 (PDT)
+Return-Path: <roberta+bncCIrg1dvHHhDAvf7uBBoE0Gp2yw@jays.net>
+Received: from mail-yx0-f199.google.com (mail-yx0-f199.google.com [209.85.213.199])
+        by mx.google.com with ESMTPS id b8si1244269yhm.133.2011.05.27.05.53.24
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Fri, 27 May 2011 05:53:24 -0700 (PDT)
+Received-SPF: neutral (google.com: 209.85.213.199 is neither permitted nor denied by best guess record for domain of roberta+bncCIrg1dvHHhDAvf7uBBoE0Gp2yw@jays.net) client-ip=209.85.213.199;
+Authentication-Results: mx.google.com; spf=neutral (google.com: 209.85.213.199 is neither permitted nor denied by best guess record for domain of roberta+bncCIrg1dvHHhDAvf7uBBoE0Gp2yw@jays.net) smtp.mail=roberta+bncCIrg1dvHHhDAvf7uBBoE0Gp2yw@jays.net
+Received: by yxf34 with SMTP id 34sf1661493yxf.2
+        for <jay@jays.net>; Fri, 27 May 2011 05:53:24 -0700 (PDT)
+Received: by 10.224.113.75 with SMTP id z11mr707434qap.15.1306500800296;
+        Fri, 27 May 2011 05:53:20 -0700 (PDT)
+X-BeenThere: roberta@jays.net
+Received: by 10.224.182.134 with SMTP id cc6ls516821qab.4.gmail; Fri, 27 May
+ 2011 05:53:19 -0700 (PDT)
+Received: by 10.224.75.21 with SMTP id w21mr1510582qaj.272.1306500799896;
+        Fri, 27 May 2011 05:53:19 -0700 (PDT)
+Received: by 10.224.75.21 with SMTP id w21mr1510581qaj.272.1306500799867;
+        Fri, 27 May 2011 05:53:19 -0700 (PDT)
+Received: from out3.smtp.messagingengine.com (out3.smtp.messagingengine.com [66.111.4.27])
+        by mx.google.com with ESMTPS id i15si3625760qcy.89.2011.05.27.05.53.18
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Fri, 27 May 2011 05:53:18 -0700 (PDT)
+Received-SPF: pass (google.com: domain of robertajenkins@fastmail.fm designates 66.111.4.27 as permitted sender) client-ip=66.111.4.27;
+Received: from compute2.internal (compute2.nyi.mail.srv.osa [10.202.2.42])
+	by gateway1.messagingengine.com (Postfix) with ESMTP id 8E9AD20934
+	for <roberta@jays.net>; Fri, 27 May 2011 08:53:18 -0400 (EDT)
+Received: from web2.messagingengine.com ([10.202.2.212])
+  by compute2.internal (MEProxy); Fri, 27 May 2011 08:53:18 -0400
+Received: by web2.messagingengine.com (Postfix, from userid 99)
+	id 6BC3E30B744; Fri, 27 May 2011 08:53:18 -0400 (EDT)
+Message-Id: <1306500798.30602.1456660561@webmail.messagingengine.com>
+X-Sasl-Enc: 2JpzPTbTlckAGJS+iR6GF6LbV64e+mof1gbNR15Ym/3F 1306500798
+From: "Roberta Jenkins" <robertajenkins@fastmail.fm>
+To: roberta@jays.net
+MIME-Version: 1.0
+X-Mailer: MessagingEngine.com Webmail Interface
+Subject: Hang in there!
+Date: Fri, 27 May 2011 21:53:18 +0900
+X-Original-Sender: robertajenkins@fastmail.fm
+X-Original-Authentication-Results: mx.google.com; spf=pass (google.com: domain
+ of robertajenkins@fastmail.fm designates 66.111.4.27 as permitted sender)
+ smtp.mail=robertajenkins@fastmail.fm; dkim=pass header.i=@messagingengine.com
+Precedence: list
+Mailing-list: list roberta@jays.net; contact roberta+owners@jays.net
+List-ID: <roberta.jays.net>
+X-Google-Group-Id: 831125463754
+List-Help: <http://www.google.com/support/a/jays.net/bin/static.py?hl=en_US&page=groups.cs>,
+ <mailto:roberta+help@jays.net>
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset="us-ascii"
+
+The topic of this evening's English lesson was 'Hang in there!'  As
+examples of how to use the idiom correctly, the text book I was using
+provided a listening activity where three different people were talking
+about their problems learning various languages.  As a follow-up, I
+asked the student I was tutoring (though tutoring isn't a very accurate
+word for what I do with this extrememly advanced and precocious girl -
+banter may be a better description) for some advice on how to study
+another language effectively.  Completely deadpan (and without missing a
+beat) she told me, 'Well, for starters, you should be less than 7 years
+old.'  When I pointed out that she, at 12, and me, at considerably more
+than 12, were both well outside her optimal range for language
+acquisition, she replied, 'in that case, I guess we'd better just hang
+in there, because it's gonna be a whole lot harder for us!'
+
+Later in the lesson, she filled me in on the progress she's been making
+towards her goal of getting taller.  A couple of weeks ago she got it
+into her head that somehow jumping rope 800 times every day would do the
+trick, which left me with distinct memories of a Judy Blume book I read
+as a kid ('Are you there God, it's me, Margaret' I think).  To the best
+of my recollection, the elbow-swinging 'I must, I must, I must increase
+my bust' mantra didn't actually have the desired effect on the character
+in Blume's book, and predictably neither has the jump rope routine led
+to any perceptible height increases for my student in the last 14 days. 
+What it has done, however, is to lower the girl's weight by 2 kilograms
+- something that she's very, very happy about.  And I am not.
+
+This girl is a perfectly normal 12 year old.  None of the North American
+euphemisms for being overweight (even a little) apply to this kid.  She
+is not chubby or chunky or ample or big or hefty or husky or plumpish or
+pudgy or round or stout or tubby or zaftig (which, incidentally, is a
+really great word...zaftig).  Not in the least.  What she is is petite
+(both in width and height), not surprisingly considering her two petite
+parents, and smart, and healthy.  And, apparently in her mind, still 1
+kg heavier than she ought to be.  
+
+In a Chinese newspaper I was reading a couple of weeks ago (just before
+this jump rope fetish started), there was an article about the physical
+condition of approximately 7000 university students in Beijing.  In
+China, all students hoping to enter university (or any other new level
+of schooling, from middle school up) must go through an examination of
+their physical condition before admission, and then again just as they
+finish up in order to enter the professional job market.  Which means
+that the country has pretty good stats on the changing shape of young
+people.
+
+According to the article, less than half a percent of all students
+taking the professional physical achieved an excellent rating.  46% of
+all students failed the test entirely.  This is the test that measures
+things like how many sit-ups you can do in a minute, and how flexible
+you are, and how fast you can run a specified distance.  Not stellar
+results (I wonder what they'd be in North America?).  More worrying to
+the analysts though, was that a huge proportion of both male and female
+students were not at healthy weights - a key indicator of future medical
+expenditures.  According to the tests, 27% of all male students were
+OVERweight.  And 40% of all female students were UNDERweight.  And it
+got worse...the same trends could be seen on physical examinations at
+every level of schooling beginning in middle school, except the younger
+the students were the more exaggerated the gap between them was.  So
+proportionally the most number of overweight males in the pool are the
+youngest boys, and the most number of underweight females are the
+youngest girls.  Yikes!
+
+Now, I know a thing or two about not being at an ideal weight.  I've
+spent over half my life either actively dieting or feeling guilty about
+not dieting more actively.  About 90% of the time (currently) when I
+look in a mirror my first reaction is 'YIKES!', an unhelpful sentiment
+that is not greatly aided by the reckless abandon many Koreans use in
+telling others exactly what they think about them ('You look so tired
+and sick today,' for example, or 'You have an enormous pimple on the end
+of your nose,' or 'You're really fat').  In my case this reaction is
+exacerbated by the fact that, thanks in large part to a persistent
+intestinal disorder I carried around for the first few years I was here
+but thankfully no longer have, I was once (in the not too distant past)
+A LOT smaller than I am now.  In fact, for a brief period, about HALF of
+what I am now.  I walk around in New Zealand, not precisely satisfied
+with my body, but at least not at all out war with it.  I can find
+clothes that fit me (and look good), shopkeepers don't immediately chase
+me out of their stores.  People talk about the weather or school or what
+happened on Masterchef last night, not about my need to lose weight.  I
+walk every day and go to the pool, workout in the pilates studio, go
+entire days without thinking about my size or what it says about me to
+others, feel pretty good about myself (physically, I mean...thank
+heavens I've never had any problem with negative chatter about other
+parts of my being!).  And then I come back here and am feeling like a
+whale again within about 48 hours (and who wants to go workout when they
+feel like everyone is constantly judging them?).  I know this negative
+chatter in my brain does nothing to help the weight-loss process (and
+unlike my student, I really could stand to jump rope a few hundred times
+a day...), nor does it help make me more productive in any other area of
+my life.  Which is why I really hate to see someone like this perfectly
+healthy, beautiful, witty, smart, lovely 12 year old already learning
+how to hate her body.  How do we stop her (and so many like her) from
+becoming that 40% of underweight women (which exists in Korea as well),
+or one of the countless women (like me) who ought to be perfectly
+thrilled with their lives but instead spend untold brain energy judging
+themselves instead?
+
+I told my student that if all of her energy goes into trying to get
+skinnier, then there'll be nothing left to go into making her taller. 
+She thought about this for a minute or two, agreed that might be true,
+and then switched back to our conversation about language study.  'I
+suppose if you think you can, then you will,' she said, about learning
+to speak another language.  'But it'll still be A LOT harder for old
+people,' she added, looking pointedly at me and the Korean books in
+front of me, 'so you'll REALLY need to hang in there well.'       
+
+
+
+  
+
+From robertajenkins@fastmail.fm Mon May  2 01:36:34 2011
+Delivered-To: jay@jays.net
+Received: by 10.223.96.138 with SMTP id h10cs291933fan;
+        Sun, 1 May 2011 23:36:36 -0700 (PDT)
+Received: by 10.52.68.203 with SMTP id y11mr5916817vdt.263.1304318195248;
+        Sun, 01 May 2011 23:36:35 -0700 (PDT)
+Return-Path: <roberta+bncCIrg1dvHHhDtofntBBoEQIW_Qg@jays.net>
+Received: from mail-qw0-f71.google.com (mail-qw0-f71.google.com [209.85.216.71])
+        by mx.google.com with ESMTPS id x19si6782078vbn.96.2011.05.01.23.36.33
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Sun, 01 May 2011 23:36:34 -0700 (PDT)
+Received-SPF: neutral (google.com: 209.85.216.71 is neither permitted nor denied by best guess record for domain of roberta+bncCIrg1dvHHhDtofntBBoEQIW_Qg@jays.net) client-ip=209.85.216.71;
+Authentication-Results: mx.google.com; spf=neutral (google.com: 209.85.216.71 is neither permitted nor denied by best guess record for domain of roberta+bncCIrg1dvHHhDtofntBBoEQIW_Qg@jays.net) smtp.mail=roberta+bncCIrg1dvHHhDtofntBBoEQIW_Qg@jays.net
+Received: by qwk4 with SMTP id 4sf3608349qwk.2
+        for <jay@jays.net>; Sun, 01 May 2011 23:36:33 -0700 (PDT)
+Received: by 10.229.141.71 with SMTP id l7mr546417qcu.7.1304318189367;
+        Sun, 01 May 2011 23:36:29 -0700 (PDT)
+X-BeenThere: roberta@jays.net
+Received: by 10.229.69.21 with SMTP id x21ls1576858qci.2.gmail; Sun, 01 May
+ 2011 23:36:28 -0700 (PDT)
+Received: by 10.229.91.15 with SMTP id k15mr5813072qcm.157.1304318188750;
+        Sun, 01 May 2011 23:36:28 -0700 (PDT)
+Received: by 10.229.91.15 with SMTP id k15mr5813070qcm.157.1304318188726;
+        Sun, 01 May 2011 23:36:28 -0700 (PDT)
+Received: from out2.smtp.messagingengine.com (out2.smtp.messagingengine.com [66.111.4.26])
+        by mx.google.com with ESMTPS id mz7si12876425qcb.173.2011.05.01.23.36.27
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Sun, 01 May 2011 23:36:27 -0700 (PDT)
+Received-SPF: pass (google.com: domain of robertajenkins@fastmail.fm designates 66.111.4.26 as permitted sender) client-ip=66.111.4.26;
+Received: from compute6.internal (compute6.nyi.mail.srv.osa [10.202.2.46])
+	by gateway1.messagingengine.com (Postfix) with ESMTP id 60E7320DA3
+	for <roberta@jays.net>; Mon,  2 May 2011 02:36:27 -0400 (EDT)
+Received: from web2.messagingengine.com ([10.202.2.212])
+  by compute6.internal (MEProxy); Mon, 02 May 2011 02:36:27 -0400
+Received: by web2.messagingengine.com (Postfix, from userid 99)
+	id 428753889A3; Mon,  2 May 2011 02:36:27 -0400 (EDT)
+Message-Id: <1304318187.16963.1447194301@webmail.messagingengine.com>
+X-Sasl-Enc: gVBUu2v+vKK//r5Ci6Lw1dWDZi0mb3r0o6qO1ScLHHsh 1304318187
+From: "Roberta Jenkins" <robertajenkins@fastmail.fm>
+To: roberta@jays.net
+MIME-Version: 1.0
+X-Mailer: MessagingEngine.com Webmail Interface
+Subject: Foreigner?  Absolutely!
+Date: Mon, 02 May 2011 15:36:27 +0900
+X-Original-Sender: robertajenkins@fastmail.fm
+X-Original-Authentication-Results: mx.google.com; spf=pass (google.com: domain
+ of robertajenkins@fastmail.fm designates 66.111.4.26 as permitted sender)
+ smtp.mail=robertajenkins@fastmail.fm; dkim=pass header.i=@messagingengine.com
+Precedence: list
+Mailing-list: list roberta@jays.net; contact roberta+owners@jays.net
+List-ID: <roberta.jays.net>
+X-Google-Group-Id: 831125463754
+List-Help: <http://www.google.com/support/a/jays.net/bin/static.py?hl=en_US&page=groups.cs>,
+ <mailto:roberta+help@jays.net>
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset="us-ascii"
+
+I've been living in the same city in Korea for almost eight years -
+longer than I've been in one place other than my hometown ever, in my
+whole life. And even my hometown is a record that I'm closing in on - I
+was there for just 10 years before heading off to university. Which is
+to say that I consider this place home, as much as any place ever has
+been. This city and this country - I am a local here.
+
+Except that I'm not. No matter how local I feel, I will always be a
+foreigner here.
+
+Woman at lunch: 'Wow! You eat Korean food very well!' Me: 'I love Korean
+food.' Her: 'You know what that is?' Me, taking a little more of a very
+common side dish: 'Yes, I have been here for a long time.' Her: 'But
+most Foreigners don't eat Korean food well!' Me: 'I think you don't go
+out with many foreigners. Most of the people I know like Korean food
+very much.' Pause, eating. Her: 'Wow! You even eat that?! Do you know
+what that is?' Me: 'You've got to stop being shocked every time I put
+something in my mouth. Really, I like Korean food. I've been eating it
+for a long time.' Her: 'But you are a foreigner! Foreigners don't like
+Korean food.' And so on, and so on. 
+
+Not too much surprises me in Changwon anymore. I know how the city, the
+first planned one in the country, came to be imagined and then built. I
+know where the good restaurants are - the ones that only locals know
+about. I know which days the traditional markets are in which locations.
+I know how to get from here to there and from there to here and how to
+give other people directions to all those places. I work, pay taxes,
+even vote (if I want to). Changwon is not a curiosity, it's where I
+live. It's my home.
+
+But the other day, walking from home to a store on the other side of
+town, I went through the road-side stalls of one of the traditional
+markets. These markets are held every 5 (or so) days, on dates that end
+in a particular number (for example, the market downtown that I usually
+frequent is held every 4, 9, 14, 19, 24 and 29 of the month). This
+market is on 1s and 6s, in an older residential neighbourhood and has a
+grittier feel than 'mine'. As I was getting near the end, after the
+usual noodle makers and flower sellers, fruit vendors and snack stalls,
+I happened past a woman portioning out an animal carcass with a big
+cleaver at a folding card table. As you would expect, all of the hair
+had already been removed and the body was clean and smooth, the head
+already severed, lying to one side. At first I thought it was a pig - a
+very common sight in markets - but then it occurred to me that for a pig
+it was very, very small. I took a closer look, just as the woman began
+hacking off a back leg for a waiting customer, and saw that the animal
+was a dog. Whoa, foreigner again.
+
+Now, the fact that Koreans sometimes eat dog meat is well known. In
+fact, I have eaten it myself on more than one occasion. Done well, the
+soup is rich and flavourful, and very, very expensive. This is not the
+family pet we're talking about. They're dogs bred specifically for
+eating, much as we breed pigs or chickens to eat. The soup is considered
+a kind of food-medicine, particularly good for men. It used to be much
+more common than it is now - a lot of my students (the first generation
+raised with pet dogs at home and unable or unwilling to make the
+distinction between them) have never had it, and finding dog-soup
+restaurants has become more and more difficult, even during my time in
+Korea. Which is why I was especially taken aback by the dog in the
+market. 
+
+Professor in passenger seat, driving back from departmental outing on an
+island a couple of hours away: "How do you drive in Korea?" Me: " What
+do you mean?" Him: "How do you know where to go?" Me: "I've lived here
+for a long time." Him: "But you are a foreigner." Me: "The signs are in
+English and Korean." Him: "But you are a foreigner." And so on, and so
+on.
+
+Stopping at a roadside rest area for breakfast, same drive. Him, taking
+my arm: "Come, let's take a shit together." Me: "Excuse me??" Him,
+pulling me to an empty table behind the counter: "A shit, let's take a
+shit." Me, mentally: "Oh, SEAT! He wants us to take a SEAT together."
+Yup, still a foreigner. No matter how long I stay.
+
+Climbing the mountain behind my house this morning, I came across a
+super shiny, black worm with a distinct hammer-shaped head. Something I
+had never seen before, despite climbing that particular trail possibly
+hundreds of times in the last 8 years. At home, after finding an exact
+photo with my first google search for 'hammerhead worm', I learned that
+it's a species common to this part of Asia. And that it's the only kind
+of worm that exclusively eats other worms, by (seriously disgusting!)
+dissolving them. Usually they're nocturnal, which I guess is why I've
+never come across one before, but there's no shortage of them around.
+They can survive blistering heat and freezing cold (both of which we
+have in abundance throughout the year), and if you try to kill them by
+squashing them or cutting them up (I don't want to know how people
+discovered this) each separate piece just becomes its own little worm.
+Wow. Now that's something awesome to discover in your own backyard! 
+
+Strange new (common) worm, oh right, I'm a foreigner! Instead of
+thinking of it as an insult, I'm just going to remind myself that being
+foreign is also another way of saying, 'living in a perpetual state of
+newness, astonishment and awe.' And who could complain about that?
+
+From robertajenkins@fastmail.fm Tue Mar 22 06:10:38 2011
+Delivered-To: jay@jays.net
+Received: by 10.231.160.68 with SMTP id m4cs168140ibx;
+        Tue, 22 Mar 2011 04:10:40 -0700 (PDT)
+Received: by 10.150.114.6 with SMTP id m6mr3880574ybc.184.1300792239163;
+        Tue, 22 Mar 2011 04:10:39 -0700 (PDT)
+Return-Path: <roberta+bncCIrg1dvHHhCph6LsBBoEK786uQ@jays.net>
+Received: from mail-gy0-f199.google.com (mail-gy0-f199.google.com [209.85.160.199])
+        by mx.google.com with ESMTPS id m15si6446017ybn.91.2011.03.22.04.10.37
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Tue, 22 Mar 2011 04:10:38 -0700 (PDT)
+Received-SPF: neutral (google.com: 209.85.160.199 is neither permitted nor denied by best guess record for domain of roberta+bncCIrg1dvHHhCph6LsBBoEK786uQ@jays.net) client-ip=209.85.160.199;
+Authentication-Results: mx.google.com; spf=neutral (google.com: 209.85.160.199 is neither permitted nor denied by best guess record for domain of roberta+bncCIrg1dvHHhCph6LsBBoEK786uQ@jays.net) smtp.mail=roberta+bncCIrg1dvHHhCph6LsBBoEK786uQ@jays.net
+Received: by gyb11 with SMTP id 11sf5110089gyb.2
+        for <jay@jays.net>; Tue, 22 Mar 2011 04:10:37 -0700 (PDT)
+Received: by 10.224.37.17 with SMTP id v17mr355835qad.18.1300792233423;
+        Tue, 22 Mar 2011 04:10:33 -0700 (PDT)
+X-BeenThere: roberta@jays.net
+Received: by 10.224.166.86 with SMTP id l22ls974960qay.4.p; Tue, 22 Mar 2011
+ 04:10:33 -0700 (PDT)
+Received: by 10.224.183.133 with SMTP id cg5mr4740650qab.58.1300792232989;
+        Tue, 22 Mar 2011 04:10:32 -0700 (PDT)
+Received: by 10.224.183.133 with SMTP id cg5mr4740649qab.58.1300792232976;
+        Tue, 22 Mar 2011 04:10:32 -0700 (PDT)
+Received: from out3.smtp.messagingengine.com (out3.smtp.messagingengine.com [66.111.4.27])
+        by mx.google.com with ESMTPS id z7si14946723qco.84.2011.03.22.04.10.31
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Tue, 22 Mar 2011 04:10:31 -0700 (PDT)
+Received-SPF: pass (google.com: domain of robertajenkins@fastmail.fm designates 66.111.4.27 as permitted sender) client-ip=66.111.4.27;
+Received: from compute3.internal (compute3.nyi.mail.srv.osa [10.202.2.43])
+	by gateway1.messagingengine.com (Postfix) with ESMTP id 7BB6F20A81
+	for <roberta@jays.net>; Tue, 22 Mar 2011 07:10:31 -0400 (EDT)
+Received: from web2.messagingengine.com ([10.202.2.212])
+  by compute3.internal (MEProxy); Tue, 22 Mar 2011 07:10:31 -0400
+Received: by web2.messagingengine.com (Postfix, from userid 99)
+	id 5B92D3162A8; Tue, 22 Mar 2011 07:10:31 -0400 (EDT)
+Message-Id: <1300792231.22010.1432484721@webmail.messagingengine.com>
+X-Sasl-Enc: syRPQ+4HqW8oLhrPrR+aDjwcdxpwTCUySthBST3DxULt 1300792231
+From: "Roberta Jenkins" <robertajenkins@fastmail.fm>
+To: roberta@jays.net
+MIME-Version: 1.0
+X-Mailer: MessagingEngine.com Webmail Interface
+Subject: Happy Nowruz!
+Date: Tue, 22 Mar 2011 20:10:31 +0900
+X-Original-Sender: robertajenkins@fastmail.fm
+X-Original-Authentication-Results: mx.google.com; spf=pass (google.com: domain
+ of robertajenkins@fastmail.fm designates 66.111.4.27 as permitted sender)
+ smtp.mail=robertajenkins@fastmail.fm; dkim=pass header.i=@messagingengine.com
+Precedence: list
+Mailing-list: list roberta@jays.net; contact roberta+owners@jays.net
+List-ID: <roberta.jays.net>
+X-Google-Group-Id: 831125463754
+List-Help: <http://www.google.com/support/a/jays.net/bin/static.py?hl=en_US&page=groups.cs>,
+ <mailto:roberta+help@jays.net>
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset="us-ascii"
+
+Yesterday was Persian New Year - Happy Nowruz! I hope that the year 1390
+is good to us all! 
+
+Among other places, Persian New Year is celebrated in Iran. How
+embarassing is it that a few months ago, I, who am an International
+Relations professor and not generally a completely dumb person, didn't
+know that most Iranians are Persian. Or that the main language of Iran
+is Persian. Or that Persian and Farsi are the same thing. I'm not sure
+I'd actually considered WHAT the people of Iran might be called (other
+than Iranian), because truth be told, I'd never thought much about Iran
+at all. I was quite content for my knowledge of that part of the world
+to be limited to what I 'learned' from the 1991 movie 'Not Without My
+Daughter' (whose uncritical reception into my brain I am blaming on my
+youth when I watched it), and what the ongoing procession of news
+stories about Iran say in the media I most commonly watch (the NY times,
+CBC, BBC, NZHerald).
+
+I guess a person can't be interested in EVERYwhere ALL the time. It's
+reasonable to think that each of us has a sort of awareness radius that
+is tuned to certain places and certain people at certain times,
+depending on our experience. So it's not my general lack of knowledge of
+things Persian that troubles me. It's how easily I allowed what
+knowledge I had to be bounded by those extremely limited sources listed
+above. How I never, not for even one story that I read about crazy Iran
+and its crazy leader, stopped to ask the question 'What's so crazy about
+them?' or to look a little deeper than the paper in my hands. 
+
+And I should know better than to generalize people that way. When I
+first came to Korea, my best friend was (is) a man who had lived and
+travelled throughout Asia for several years. I would go visit him, thumb
+through his masses of photos, and he would ask me where I thought a
+particular picture was taken. I learned pretty quickly to always answer
+China. Even though I had never imagined that one country could contain
+even a fraction of the magnificence and diversity that I saw in the
+various prints. How had I never known this before, I wondered, that
+China is such an incredible country? How had I never ached to go there
+and discover it for myself? The first vacation I got I took a boat to
+China, and have been fully enamored ever since. 
+
+The news I read about China is pretty much never right. MY China, and
+the China in newspapers, don't have a whole lot in common. This is
+something I've come to expect, and to make adjustments for when adding
+to the big China file in my brain. Which is not to say that China
+doesn't have any problems - of course it does! Just that it pays to try
+to keep the big picture in mind when considering what I read.
+
+And don't even get me started on Korea! I live in a very modern and cozy
+two-bedroom apartment on a quiet residential street in a city whose
+standard of living is easily the highest of any I have ever lived in. I
+went to the doctor this afternoon, a doctor who completed his residency
+at Harvard, in a state-of-the-art private hospital that would turn any
+of the Canadian or American or Kiwi doctors I know green with envy. And
+it cost me $5 for the medicine I was prescribed. Afterwards I got a tall
+Chai from an upscale coffee chain to soothe my throat and browsed a
+selection of multi-lingual books that I might have wanted to read in bed
+later, before taking a luxury taxi home (for $3.50). There is nowhere in
+town I wouldn't walk in, alone, at any time of the day or night. And my
+grad school colleagues back in Canada (IR majors all) once had an
+earnest discussion about whether I was living in a more dangerous
+country or whether that 'honour' fell to our classmate busy starting an
+NGO for refugee children in a camp in Palestine that was mortared at
+least once a day. This is what happens when you take the news too
+seriously. You forget that places are real, and that people everywhere
+are just people, like you. Both more and less than any 60 second news
+story you could ever read about them.
+
+Somehow, however, these revelations about one part of the world never
+managed to penetrate that part of my brain responsible for thinking
+about other parts of the world. And this is a problem because I teach
+about the world for a living. 
+
+One of my flatmates in New Zealand, where I study when I'm not at work
+in Korea, is from Iran. He seemed nice enough right from the beginning,
+but my first inkling that things were probably not as I had imagined
+them in his home country came the morning he was telling me about this
+Canadian TV show that ALL his friends used to watch back home. This
+REALLY popular show in Iran, called 'Due South'. You could have knocked
+me over with a feather that entire day...of all the shows he might have
+mentioned, the cheesy mid-90s comedy/drama about a ridiculously polite
+mountie in Chicago was definitely not the one I was expecting. We had
+fun trying to remember all the characters names together (though really,
+who cares to name anyone except that beautiful dog Diefenbaker?), and
+laughing at the absurdity of that shared connection. It turned out to be
+the first of many connections.
+
+Aside from TV shows, our family lives also have much in common. And our
+childhoods. The paths of our educations. Even our cats look alike. His
+family is Muslim, mine is Christian, and I had no idea whatseoever that
+that would make as little difference as it does to what we think, and
+dream and do. He shows me pictures of Iran with the same enthusiasm that
+my friend in Korea used to show me pictures of China, before I'd become
+as enthralled with it as he is. And I feel that same sense of absolute
+wonder imagining all the possibilities there. Iran is a place that's
+going to be as important to me in its own way as China already is, and
+probably for the same reason - because it has opened my mind and made my
+world infinitely bigger.
+
+Now that I'm paying attention, I hear a lot of different people make a
+lot of different comments about Iran on a pretty regular basis. People
+who, like me, should know better. That China is the great economic and
+imperial worry of North America and Iran the religious is pretty
+accepted rhetoric. Which makes it pretty okay in a lot of different
+circumstances to make disparaging comments about, based on very little
+actual knowledge. Now that the face of Iran has shrunk for me, from a
+featureless mass (that I wasn't afraid of, exactly, but certainly wasn't
+rushing out to get to know better) to a single real individual, I find
+these comments hurtful. And want to do what I can to help other people
+think beyond them as well.
+
+I gave a presentation about Iran in my classes the other day, as an
+example for my students about looking beyond the news when talking about
+places. I started with a slide show of pictures from various places in
+Iran, and asked everyone what country they thought I would be talking
+about. Knowing my history, the first guesses were predictably Canada and
+New Zealand. When they saw a photo of the capital in winter, the
+majority decided that it was in fact Bern, Switzerland. The sense of
+wonder on their faces when they discovered that the snowy city was
+Tehran and that it is smack in the middle of the imagined desert of the
+middle east gave me a glimpse of the wonder I feel every time I learn
+something new about Iran. 4 distinct seasons were the beginning for me
+too. Followed by fields of fragrant roses. Pistachio farms. The
+birthplace of Shiraz and polo. Some of the world's best caviar. A
+consolidated history going back almost 5000 years! Comparing some of
+that history of Iran with some of the history of Korea made it very easy
+for my students to contextualize what they were learning, and, some of
+them told me later, made the place seem real to them for the first time.
+ I can relate...'Due South' did it for me.  And who knows how many more
+worlds will open up from here?
+
+From robertajenkins@fastmail.fm Wed Mar  2 22:43:30 2011
+Delivered-To: jay@jays.net
+Received: by 10.231.32.77 with SMTP id b13cs6478ibd;
+        Wed, 2 Mar 2011 20:43:31 -0800 (PST)
+Received: by 10.229.182.196 with SMTP id cd4mr539851qcb.215.1299127411094;
+        Wed, 02 Mar 2011 20:43:31 -0800 (PST)
+Return-Path: <roberta+bncCIrg1dvHHhDsuLzrBBoECSg4gA@jays.net>
+Received: from mail-vw0-f71.google.com (mail-vw0-f71.google.com [209.85.212.71])
+        by mx.google.com with ESMTPS id u18si1291615qcr.161.2011.03.02.20.43.29
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Wed, 02 Mar 2011 20:43:30 -0800 (PST)
+Received-SPF: neutral (google.com: 209.85.212.71 is neither permitted nor denied by best guess record for domain of roberta+bncCIrg1dvHHhDsuLzrBBoECSg4gA@jays.net) client-ip=209.85.212.71;
+Authentication-Results: mx.google.com; spf=neutral (google.com: 209.85.212.71 is neither permitted nor denied by best guess record for domain of roberta+bncCIrg1dvHHhDsuLzrBBoECSg4gA@jays.net) smtp.mail=roberta+bncCIrg1dvHHhDsuLzrBBoECSg4gA@jays.net
+Received: by vws3 with SMTP id 3sf607030vws.2
+        for <jay@jays.net>; Wed, 02 Mar 2011 20:43:29 -0800 (PST)
+Received: by 10.224.37.140 with SMTP id x12mr68603qad.25.1299127404842;
+        Wed, 02 Mar 2011 20:43:24 -0800 (PST)
+X-BeenThere: roberta@jays.net
+Received: by 10.224.176.70 with SMTP id bd6ls123899qab.5.p; Wed, 02 Mar 2011
+ 20:43:23 -0800 (PST)
+Received: by 10.224.6.82 with SMTP id 18mr589920qay.216.1299127403565;
+        Wed, 02 Mar 2011 20:43:23 -0800 (PST)
+Received: by 10.224.6.82 with SMTP id 18mr589919qay.216.1299127403551;
+        Wed, 02 Mar 2011 20:43:23 -0800 (PST)
+Received: from out1.smtp.messagingengine.com (out1.smtp.messagingengine.com [66.111.4.25])
+        by mx.google.com with ESMTPS id v6si1291999qcq.165.2011.03.02.20.43.22
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Wed, 02 Mar 2011 20:43:22 -0800 (PST)
+Received-SPF: pass (google.com: domain of robertajenkins@fastmail.fm designates 66.111.4.25 as permitted sender) client-ip=66.111.4.25;
+Received: from compute3.internal (compute3.nyi.mail.srv.osa [10.202.2.43])
+	by gateway1.messagingengine.com (Postfix) with ESMTP id 48F6A20791
+	for <roberta@jays.net>; Wed,  2 Mar 2011 23:43:22 -0500 (EST)
+Received: from web1.messagingengine.com ([10.202.2.211])
+  by compute3.internal (MEProxy); Wed, 02 Mar 2011 23:43:22 -0500
+Received: by web1.messagingengine.com (Postfix, from userid 99)
+	id 2943B7A0BE4; Wed,  2 Mar 2011 23:43:22 -0500 (EST)
+Message-Id: <1299127402.6588.1425666433@webmail.messagingengine.com>
+X-Sasl-Enc: GTO7MHDKEc+ZTH2C2j5k2ocZiv8jL3ykWklIdOr9a6Ua 1299127402
+From: "Roberta Jenkins" <robertajenkins@fastmail.fm>
+To: roberta@jays.net
+MIME-Version: 1.0
+X-Mailer: MessagingEngine.com Webmail Interface
+Subject: The penguin, take 2
+Date: Thu, 03 Mar 2011 13:43:22 +0900
+X-Original-Sender: robertajenkins@fastmail.fm
+X-Original-Authentication-Results: mx.google.com; spf=pass (google.com: domain
+ of robertajenkins@fastmail.fm designates 66.111.4.25 as permitted sender)
+ smtp.mail=robertajenkins@fastmail.fm; dkim=pass header.i=@messagingengine.com
+X-Google-Group-Id: 831125463754
+Precedence: list
+Mailing-list: list roberta@jays.net; contact roberta+owners@jays.net
+List-ID: <roberta.jays.net>
+List-Help: <http://www.google.com/support/a/jays.net/bin/static.py?hl=en_US&page=groups.cs>,
+ <mailto:roberta+help@jays.net>
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset="us-ascii"
+
+Today is my birthday.  Happy birthday to me!  To celebrate, the weather
+is PERFECT (a rare thing indeed in Dunedin), and I've been with Anne to
+visit the little penguin we rescued from Sandfly Bay on Saturday night. 
+It turns out that SHE is not a Fiordland Crested Penguin, as we thought,
+but instead comes from a tiny group of subantarctic islands a whole lot
+farther away.  Snares Islands.  There are about 30 000 Snares Island
+penguins left in the world, but because they (typically) only inhabit
+that one little cluster of rocks in the sea, they are listed as
+vulnerable by the WWF.  Who knows how she came to be on our beach, but
+if we hadn't picked her up there would definitely be one less of her
+kind in the world.  
+
+The very kind keeper at the penguin hospital let us have a good long
+look while telling us about their operations.  You can see pictures on
+my blog (www.robertajenkins.blogspot.com).  She is still very
+underweight, but is doing great and should be fine to return home once
+she's been fed more.  She's already gotten through most of her moult,
+and looks like an entirely different bird than the one we picked up - no
+more patchy, featherless splotches or listlessness.  Now she's sleek and
+shiny and black, and wandering around the enclosure on her own.  She
+even has a little friend, another Snares Island penguin brought in
+recently by someone else!
+
+So this story has a very happy ending.  And a better birthday present
+would be hard to find!
+
+   
+
+From robertajenkins@fastmail.fm Sat Feb 26 04:45:39 2011
+Delivered-To: jay@jays.net
+Received: by 10.220.167.78 with SMTP id p14cs6305vcy;
+        Sat, 26 Feb 2011 02:45:41 -0800 (PST)
+Received: by 10.229.245.5 with SMTP id ls5mr2579045qcb.176.1298717140447;
+        Sat, 26 Feb 2011 02:45:40 -0800 (PST)
+Return-Path: <roberta+bncCIrg1dvHHhDOs6PrBBoEaBDIgg@jays.net>
+Received: from mail-vw0-f71.google.com (mail-vw0-f71.google.com [209.85.212.71])
+        by mx.google.com with ESMTPS id j12si3138099qcu.107.2011.02.26.02.45.39
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Sat, 26 Feb 2011 02:45:39 -0800 (PST)
+Received-SPF: neutral (google.com: 209.85.212.71 is neither permitted nor denied by best guess record for domain of roberta+bncCIrg1dvHHhDOs6PrBBoEaBDIgg@jays.net) client-ip=209.85.212.71;
+Authentication-Results: mx.google.com; spf=neutral (google.com: 209.85.212.71 is neither permitted nor denied by best guess record for domain of roberta+bncCIrg1dvHHhDOs6PrBBoEaBDIgg@jays.net) smtp.mail=roberta+bncCIrg1dvHHhDOs6PrBBoEaBDIgg@jays.net
+Received: by vws3 with SMTP id 3sf2405440vws.2
+        for <jay@jays.net>; Sat, 26 Feb 2011 02:45:38 -0800 (PST)
+Received: by 10.229.81.81 with SMTP id w17mr386041qck.11.1298717134579;
+        Sat, 26 Feb 2011 02:45:34 -0800 (PST)
+X-BeenThere: roberta@jays.net
+Received: by 10.229.70.202 with SMTP id e10ls914694qcj.1.p; Sat, 26 Feb 2011
+ 02:45:34 -0800 (PST)
+Received: by 10.229.87.149 with SMTP id w21mr2634714qcl.68.1298717133950;
+        Sat, 26 Feb 2011 02:45:33 -0800 (PST)
+Received: by 10.229.87.149 with SMTP id w21mr2634713qcl.68.1298717133936;
+        Sat, 26 Feb 2011 02:45:33 -0800 (PST)
+Received: from out1.smtp.messagingengine.com (out1.smtp.messagingengine.com [66.111.4.25])
+        by mx.google.com with ESMTPS id m11si3117486qcu.169.2011.02.26.02.45.32
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Sat, 26 Feb 2011 02:45:32 -0800 (PST)
+Received-SPF: pass (google.com: domain of robertajenkins@fastmail.fm designates 66.111.4.25 as permitted sender) client-ip=66.111.4.25;
+Received: from compute1.internal (compute1.nyi.mail.srv.osa [10.202.2.41])
+	by gateway1.messagingengine.com (Postfix) with ESMTP id 9D63B2097A
+	for <roberta@jays.net>; Sat, 26 Feb 2011 05:45:32 -0500 (EST)
+Received: from web1.messagingengine.com ([10.202.2.211])
+  by compute1.internal (MEProxy); Sat, 26 Feb 2011 05:45:32 -0500
+Received: by web1.messagingengine.com (Postfix, from userid 99)
+	id 77CD0880FE1; Sat, 26 Feb 2011 05:45:32 -0500 (EST)
+Message-Id: <1298717132.6292.1423992665@webmail.messagingengine.com>
+X-Sasl-Enc: RXZWofxnFZUDWycmpwqiltxJgGC9Dv5AKdKgR63zx/EN 1298717132
+From: "Roberta Jenkins" <robertajenkins@fastmail.fm>
+To: roberta@jays.net
+MIME-Version: 1.0
+X-Mailer: MessagingEngine.com Webmail Interface
+Subject: On Disasters Big and Small (or, What We Do Makes a Difference)
+Date: Sat, 26 Feb 2011 19:45:32 +0900
+X-Original-Sender: robertajenkins@fastmail.fm
+X-Original-Authentication-Results: mx.google.com; spf=pass (google.com: domain
+ of robertajenkins@fastmail.fm designates 66.111.4.25 as permitted sender)
+ smtp.mail=robertajenkins@fastmail.fm; dkim=pass header.i=@messagingengine.com
+X-Google-Group-Id: -2098191670
+Precedence: list
+Mailing-list: list roberta@jays.net; contact roberta+owners@jays.net
+List-ID: <roberta.jays.net>
+List-Help: <http://www.google.com/support/a/jays.net/bin/static.py?hl=en_US&page=groups.cs>,
+ <mailto:roberta+help@jays.net>
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset="us-ascii"
+
+A 6.3 magnitude earthquake earlier this week somehow caused the largest
+recorded ground shaking in New Zealand history.  Experts are still
+trying to work out exactly how the relatively small initial jolt
+(compared to the 7.1 quake that hit the same city 5 months ago) became
+what it became - the deadliest natural disaster ever in New Zealand. 
+Their best guess so far is that the first shock waves impacted the
+basalt hills that ring the city and were reflected back on themselves
+and magnified - right into the heart of Christchurch.  At lunchtime.  On
+a sunny Tuesday.  That changed the city forever.
+
+4 days after the quake, 145 people are confirmed dead.   Over 200 people
+remain missing.  Over 2000 people have been treated for injuries,
+including some who remain in critical condition in hospital.  80% of
+Christchurch has no water.  30% has no power.  Large sections of the
+city have been flooded by burst underground pipes.  The damage is
+unimaginable, and heartbreaking.
+
+But this is not that story.
+
+This story is about a little, lost penguin, very far from home.
+
+As my friend Anne and I pulled up to the car park tonight for our
+regular Saturday evening volunteer duty on Sandfly Bay, suddenly she
+turned to me and exclaimed 'Ooh, I have butterflies in my stomach,
+tonight isn't going to be good.'  There were a lot more vehicles in the
+lot than usual, and most of them were local (often the hardest people to
+deal with on the beach, because they feel like, being local, they can do
+whatever they want and don't need to listen to anyone else) rather than
+the rental campers that we more often see.  The weather was calm and
+sunny, and people were out to enjoy.
+
+We picked up the notebook that volunteers record each night's happenings
+in at the top of the (loooong, very looooooooooong) hill, and began the
+steep climb down the sand dunes to the beach as usual.  We stopped at
+the viewing platform a couple of hundred meters below the parking lot to
+survey the bay, the same as we always do, and immediately noticed a
+large cluster of people at the base of the trail.  Anne pulled out her
+binoculars, started to scowl, and pointed out the penguin in their
+midst.  And then started down the trail at record speed.
+
+The thing about penguins at Sandfly Bay is, they are very, very, very
+shy.  Of people.  Of other animals.  Even of other penguins.  So the
+fact that this bird appeared to be sitting right in the middle of a
+large group of humans was very alarming.  More alarming still was how
+those humans were behaving - swarming all over the little creature,
+cameras flashing away, giving it no space at all to be.  The posted rule
+on the beach is that people shouldn't get closer than 200 meters to the
+penguins at any time.  And here were 10 or more people only an arm's
+length away.  From a clearly troubled bird.
+
+Anne is in better shape than I am, and has been making the trip down to
+the beach as a volunteer for the last 3 years.  Tonight was my 6th time
+ever.  She made it down faster than I did.  The bird was scrawny and
+quite listless, with large patches of feathers missing thanks to the
+fall moult.  A few of the people were very cooperative and followed her
+instructions to move back without any complaints.  Some took a little
+more convincing (after having asked him politely several times to back
+off the bird, to no avail, one man started swearing at her when she
+finally just stepped in front of his camera).  She got the unenviable
+task of staying there and trying to keep everyone a safe distance away. 
+I got to take the cell phone back up the dune until I could get a signal
+to call for the Department of Conservation duty officer to come down for
+a rescue.
+
+It is over a kilometer from the beach to the car park.  Straight up.  It
+was another 1.3 km further along the road (up again) until my phone got
+enough of a signal to call out.  The duty officer was very busy, having
+already had two other emergency calls before mine.  Her instructions? 
+Please pick up the penguin, carry it up to the road (ah, the dune
+again!), and she would meet us there to take it to the hospital.  
+
+It took considerably less time to get back down to the beach than it had
+to get to the point where I made the phone call.
+
+Anne was sitting on a dune, quite a few meters back from the bird, with
+about 7 people around her.  We transferred everything from the soft
+fabric shoulder bag that she carries on the beach into my backpack, got
+her polar fleece ready for an ambush, and approached the bird.  A
+Fiordland Crested penguin, approximately the entire breadth of the
+country away from where he should have been.  With me in front of him
+and Anne behind, he raised his wings half-heartedly but didn't even try
+to run away.  Anne draped the fleece carefully over him, took him firmly
+in two hands, and together we manoeuvred him into the bag.  Keeping well
+away from his impressive beak (which didn't protest his capture too much
+in any case).  And then we started up the dune.  Again.
+
+It is a testament to how tired and weak the bird must have been that he
+barely tried to move the entire way up to the car.  Anne was a
+superstar, carrying him the long way up the dunes, without stopping once
+to rest.  I, having just made the climb once, was considerably slower. 
+Still, we both got to the car faster than we'd ever managed it before,
+with no complaints from our little passenger.  We nestled him into the
+safest spot we could think of in the car - on the floor behind the front
+seat, with the bag straps wrapped around a locked seat belt, and drove
+up the road to get another cel phone signal to (re)contact the duty
+officer.
+
+I had never seen a Fiordland Crested Penguin before tonight.  It was a
+strange (and incredible) feeling to have one riding in the car behind
+me, wrapped in a sweater, seat belted in.
+
+The duty officer, Mel, turned the corner in her DOC truck at just the
+moment that we got cell coverage to contact her.  We all pulled over to
+the side together, and transferred the bird.  I will probably never,
+ever in my life again get that close to that kind of penguin...holding
+him in my hands, as Mel removed the coverings and moved him into a
+plastic pet carrier in the back of her truck.  Even with half of his
+feathers missing, he was still beautiful - twin rows of vivid yellow
+feathers standing straight up along either side of his sleek, black
+head, red beak long and sharp, eyes bright.  A wild penguin.  In my
+hands.
+
+Next stop for the bird was Mel's house for the night, where he'll get a
+good meal before going on to the penguin hospital in the morning.  He
+didn't appear to be injured, just very, very small and hungry.  During
+the 2 week moult penguins don't go to sea to feed, but instead stay on
+land, scratching old feathers out to make room for the new ones, not
+eating.  If they're not heavy enough to get through the two weeks when
+the process begins they're in a lot of trouble...not waterproof or
+insulated enough to go out to feed, but not strong enough not to.  It's
+a precarious time for a penguin.  For this penguin, nearly his final
+time.
+
+With the penguin safely on his way to good food and great care, Anne and
+I decided to head back down to the beach one more time to finish our
+regular rounds.  There were still a lot of people out, and since it was
+still a couple of hours before dark more birds would probably be heading
+in.  We arrived just in time to sit down with a group of young
+Brazilians to watch a Yellow-Eyed penguin waddle ashore, and then
+another, and then another.  We watched a couple of giant sea lions
+showing off their bulk.  And a baby fur seal manically chasing a penguin
+from rock to rock to rock.  And we watched the sun set, over one of the
+most beautiful stretches of land on earth.  And then we walked up the
+enormous dune again.
+
+There was a plea in the newspaper this week for people to bring bagged
+lunches to a drop center at the university to send up to volunteer
+rescuers in Christchurch.  They asked for non-perishables, like
+chocolate bars, granola bars, cookies, and cans of tuna (fruit and
+drinks were donated en-masse by some local companies to add at the
+scene).  Today you can't buy canned tuna in a single store in Dunedin -
+thousands upon thousands upon thousands of lunches were donated. 
+Walking home from my office (beside the drop point) this afternoon I saw
+all of the people coming, bags in hand, and the pallets of food already
+packed up and waiting to be loaded onto the donated trucks to go. 
+Everyone doing their little part to make a difference in this disaster.
+
+Walking up the dune for the 3rd time tonight, I felt the same sense of
+awe I felt when looking at all those lunches.  What we do does make a
+difference.
+
+From robertajenkins@fastmail.fm Tue Feb  1 21:39:14 2011
+Delivered-To: jay@jays.net
+Received: by 10.220.186.204 with SMTP id ct12cs140439vcb;
+        Tue, 1 Feb 2011 19:39:15 -0800 (PST)
+Received: by 10.101.165.31 with SMTP id s31mr5496506ano.216.1296617954924;
+        Tue, 01 Feb 2011 19:39:14 -0800 (PST)
+Return-Path: <roberta+bncCIrg1dvHHhDdo6PqBBoEoB58Gw@jays.net>
+Received: from mail-yx0-f199.google.com (mail-yx0-f199.google.com [209.85.213.199])
+        by mx.google.com with ESMTPS id x34si53369046anx.127.2011.02.01.19.39.14
+        (version=TLSv1/SSLv3 cipher=RC4-MD5);
+        Tue, 01 Feb 2011 19:39:14 -0800 (PST)
+Received-SPF: neutral (google.com: 209.85.213.199 is neither permitted nor denied by best guess record for domain of roberta+bncCIrg1dvHHhDdo6PqBBoEoB58Gw@jays.net) client-ip=209.85.213.199;
+Authentication-Results: mx.google.com; spf=neutral (google.com: 209.85.213.199 is neither permitted nor denied by best guess record for domain of roberta+bncCIrg1dvHHhDdo6PqBBoEoB58Gw@jays.net) smtp.mail=roberta+bncCIrg1dvHHhDdo6PqBBoEoB58Gw@jays.net
+Received: by yxj4 with SMTP id 4sf5452005yxj.2
+        for <jay@jays.net>; Tue, 01 Feb 2011 19:39:14 -0800 (PST)
+Received: by 10.236.105.180 with SMTP id k40mr3530169yhg.22.1296617949780;
+        Tue, 01 Feb 2011 19:39:09 -0800 (PST)
+X-BeenThere: roberta@jays.net
+Received: by 10.150.173.16 with SMTP id v16ls194335ybe.5.p; Tue, 01 Feb 2011
+ 19:39:09 -0800 (PST)
+Received: by 10.146.82.11 with SMTP id f11mr12660333yab.5.1296617949318;
+        Tue, 01 Feb 2011 19:39:09 -0800 (PST)
+Received: by 10.146.82.11 with SMTP id f11mr12660332yab.5.1296617949296;
+        Tue, 01 Feb 2011 19:39:09 -0800 (PST)
+Received: from out1.smtp.messagingengine.com (out1.smtp.messagingengine.com [66.111.4.25])
+        by mx.google.com with ESMTPS id k16si28128131vbp.48.2011.02.01.19.39.08
+        (version=TLSv1/SSLv3 cipher=RC4-MD5);
+        Tue, 01 Feb 2011 19:39:08 -0800 (PST)
+Received-SPF: pass (google.com: domain of robertajenkins@fastmail.fm designates 66.111.4.25 as permitted sender) client-ip=66.111.4.25;
+Received: from compute3.internal (compute3.nyi.mail.srv.osa [10.202.2.43])
+	by gateway1.messagingengine.com (Postfix) with ESMTP id E2241204F7
+	for <roberta@jays.net>; Tue,  1 Feb 2011 22:39:07 -0500 (EST)
+Received: from web1.messagingengine.com ([10.202.2.211])
+  by compute3.internal (MEProxy); Tue, 01 Feb 2011 22:39:07 -0500
+Received: by web1.messagingengine.com (Postfix, from userid 99)
+	id BE24C52028B; Tue,  1 Feb 2011 22:39:07 -0500 (EST)
+Message-Id: <1296617947.16750.1418476121@webmail.messagingengine.com>
+X-Sasl-Enc: L5yG+o8qJEa0R1Mxk28T9xf3TahgHqjkFzvyUx53wpLb 1296617947
+From: "Roberta Jenkins" <robertajenkins@fastmail.fm>
+To: roberta@jays.net
+MIME-Version: 1.0
+X-Mailer: MessagingEngine.com Webmail Interface
+Subject: Yes, the penguin in the corner please
+Date: Wed, 02 Feb 2011 12:39:07 +0900
+X-Original-Sender: robertajenkins@fastmail.fm
+X-Original-Authentication-Results: mx.google.com; spf=pass (google.com: domain
+ of robertajenkins@fastmail.fm designates 66.111.4.25 as permitted sender)
+ smtp.mail=robertajenkins@fastmail.fm; dkim=pass header.i=@messagingengine.com
+Precedence: list
+Mailing-list: list roberta@jays.net; contact roberta+owners@jays.net
+List-ID: <roberta.jays.net>
+List-Help: <http://www.google.com/support/a/jays.net/bin/static.py?hl=en_US&page=groups.cs>,
+ <mailto:roberta+help@jays.net>
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset="us-ascii"
+
+When I got into my office yesterday morning, the first thing I noticed
+was a ziploc bag on my officemate's desk labelled 'FEMUR' in bold, black
+letters.  Stepping over to have a closer look, I saw that it did infact
+contain a bone, about 10 cm long.  Since her last book (my officemate is
+a distinguished emeritus professor) was about the history of a kiwi
+confection (the much adored pavlova), it's easy to forget that she is in
+fact an archaeologist.  And deals with bones a lot, for a living.
+
+Yesterday afternoon, another student stopped me as I was heading out of
+the building for a spinal x-ray.  'For yourself, or for a subject?' he
+asked.  Reminder number two that I am surrounded by archaeologists.
+
+The anthropology department at Otago includes both archaeology and
+social anthropology (or 'so-sh' - soc - as we're usually called). 
+Although archaeology is nowhere on the official letterhead, they
+outnumber us soc people by about 3-1.  Meaning we pretty often have, um,
+unusual things lying around.  Like massive muddy toolkits.  Bones.  Tiny
+bags full of endless pieces of broken ceramics.  The list is pretty
+endless.  The environmentally controlled door at the end of my corridor
+leads to the 'Ancient DNA lab,' beside which is a room full of
+rubbermaid containers stacked with flaked stone tools (some ancient, and
+some 'recreated' by students).  And discussion around the lunch table
+often includes topics like how the theory of 'Optimal Foraging Distance'
+factors into whether we should walk to the ice-cream shop on the corner
+for dessert despite the constant rain or stay dry in the tea room and
+suck on old sugar cubes instead.  Or how incredible it must have been to
+be one of those first Polynesian people who came across to New Zealand
+in a flimsy canoe, only to discover that the weather was horrible and
+the entire place was full of (pardon my language, this is a direct
+quote...) 'Fuck-big chickens' (aka: Moa).  I LOVE academia!!
+
+But all work and no play...well you know.  So, on Sunday night, Anne
+drove me to Pilot's beach to see the Little Blue Penguins. 45 minutes
+each way on a very narrow, very windy road along the harbour coast of
+the peninsula...can you say car-sick??  And BEAUtiful!  The beach is a
+tiny crescent of sand at the base of Taieroa Head, which is the rocky
+hump of land at the very end of the penisula home to a (protected)
+colony of Royal Albatross and a whole lot of shags (those are birds too,
+I think).  As we climbed the hundred meters or so of stairs down to the
+viewpoint just above the water, an albatross lazily rode the wind
+currents above, all 3 meters of his wingspan stretched out and
+magnificent*.  (*Authors note: I feel that as an Otago resident, I have
+to use words like 'magnificent' to describe Albatross, which are
+practically a local obsession.  Truth be told, however, although the
+concept of a bird with a wingspan so large it can only take off in
+gale-force winds is interesting, I think they look like overgrown
+seagulls and am not very enamored of them in general.  I much prefer
+looking for possums on the fenceposts around Taieroa Head, which are big
+furry things that look like a cross between a house cat and a raccoon,
+even though people here think they're evil - mostly for doing things
+like eating albatross eggs - and do their best to kill and make socks
+out of them.)
+
+Little Blues are very different than the Yellow-Eyeds I'm used to
+seeing, and although they're much more common I hadn't managed to see
+one in all of my three visits to Dunedin before.  Instead of coming
+ashore one at a time, they group together in the water in 'rafts' and
+then once critical mass is reached they make a break for the beach and
+swarm up all at once.  Incredible.  The speed at which they move in the
+water is amazing, and then there they are on land, waddling as fast as
+their tiny legs will carry them.  And at 20cm total height full grown, I
+do mean TINY legs!  I could hazard a guess as to why they're called
+little BLUE penguins, but the truth is that since they only come ashore
+at dusk, by the time they went by me it was so dark they might have been
+wearing neon t-shirts with 'Welcome to New Zealand!' printed on them and
+I wouldn't have had the faintest clue.  It was the rustling sound of
+their dragging tails in the grass that mostly tipped you off if one was
+near, or the red light of the special volunteer flashlights (bright
+lights scare them, but apparently they're colour blind?) outlining their
+squid-full bellies.  Lucky for me, said red light was so busy pulling
+everyone else away to a little group shuffling along the viewpoint fence
+that Anne and I had the loner taking the back way home all to
+ourselves...so close that it almost walked right over my foot (I'm
+pretty sure that one wasn't wearing a t-shirt, though I wouldn't rule a
+tuxedo entirely out of the question).
+
+On an unrelated topic, it seems that this old listserv is still
+functional afterall, since I did get a reply or two to my message last
+week.  And I don't think I've updated the membership to it since it was
+first created...a LONG time ago.  So if you're getting these messages
+and would prefer not to, please let me know and I'll remove you from the
+list (if I can work out how...remember, I've never done ANYthing with
+the members lists before!).  Of course the opposite is true too, so if
+I'm missing you (in which case I assume someone kindly passed this
+along) and want to be included then I can add your name.
+
+I hope that you are all well and happy, wherever you are.  Much love. 
+Roberta  
+
+                 
+
+From robertajenkins@fastmail.fm Mon Jan 24 14:45:57 2011
+Delivered-To: jay@jays.net
+Received: by 10.220.180.195 with SMTP id bv3cs73305vcb;
+        Mon, 24 Jan 2011 12:46:00 -0800 (PST)
+Received: by 10.42.227.129 with SMTP id ja1mr5435917icb.248.1295901957611;
+        Mon, 24 Jan 2011 12:45:57 -0800 (PST)
+Return-Path: <roberta+bncCIrg1dvHHhCAyvfpBBoEIHFxvA@jays.net>
+Received: from mail-iw0-f199.google.com (mail-iw0-f199.google.com [209.85.214.199])
+        by mx.google.com with ESMTPS id gl3si32056701icb.50.2011.01.24.12.45.57
+        (version=TLSv1/SSLv3 cipher=RC4-MD5);
+        Mon, 24 Jan 2011 12:45:57 -0800 (PST)
+Received-SPF: neutral (google.com: 209.85.214.199 is neither permitted nor denied by best guess record for domain of roberta+bncCIrg1dvHHhCAyvfpBBoEIHFxvA@jays.net) client-ip=209.85.214.199;
+Authentication-Results: mx.google.com; spf=neutral (google.com: 209.85.214.199 is neither permitted nor denied by best guess record for domain of roberta+bncCIrg1dvHHhCAyvfpBBoEIHFxvA@jays.net) smtp.mail=roberta+bncCIrg1dvHHhCAyvfpBBoEIHFxvA@jays.net
+Received: by iwn36 with SMTP id 36sf18059466iwn.2
+        for <jay@jays.net>; Mon, 24 Jan 2011 12:45:56 -0800 (PST)
+Received: by 10.231.10.139 with SMTP id p11mr1694423ibp.12.1295901952067;
+        Mon, 24 Jan 2011 12:45:52 -0800 (PST)
+X-BeenThere: roberta@jays.net
+Received: by 10.231.2.82 with SMTP id 18ls5017927ibi.2.p; Mon, 24 Jan 2011
+ 12:45:51 -0800 (PST)
+Received: by 10.42.239.74 with SMTP id kv10mr5440162icb.506.1295901951492;
+        Mon, 24 Jan 2011 12:45:51 -0800 (PST)
+Received: by 10.42.239.74 with SMTP id kv10mr5440135icb.506.1295901950611;
+        Mon, 24 Jan 2011 12:45:50 -0800 (PST)
+Received: from out1.smtp.messagingengine.com (out1.smtp.messagingengine.com [66.111.4.25])
+        by mx.google.com with ESMTPS id z34si14945592vbl.102.2011.01.24.12.45.49
+        (version=TLSv1/SSLv3 cipher=RC4-MD5);
+        Mon, 24 Jan 2011 12:45:49 -0800 (PST)
+Received-SPF: pass (google.com: domain of robertajenkins@fastmail.fm designates 66.111.4.25 as permitted sender) client-ip=66.111.4.25;
+Received: from compute3.internal (compute3.nyi.mail.srv.osa [10.202.2.43])
+	by gateway1.messagingengine.com (Postfix) with ESMTP id 33EC82056D
+	for <roberta@jays.net>; Mon, 24 Jan 2011 15:45:49 -0500 (EST)
+Received: from oldweb2.messagingengine.com ([10.202.2.32])
+  by compute3.internal (MEProxy); Mon, 24 Jan 2011 15:45:49 -0500
+Received: by oldweb2.messagingengine.com (Postfix, from userid 99)
+	id 125D3AB83D7; Mon, 24 Jan 2011 15:45:49 -0500 (EST)
+Message-Id: <1295901949.27473.1416981829@webmail.messagingengine.com>
+X-Sasl-Enc: EkWWFAfM/QngTFG3aOEKhLwQ4cmmVA5m+lDLktIyR1Zw 1295901949
+From: "Roberta Jenkins" <robertajenkins@fastmail.fm>
+To: roberta@jays.net
+MIME-Version: 1.0
+X-Mailer: MessagingEngine.com Webmail Interface
+Subject: Sandfly Bay
+Date: Tue, 25 Jan 2011 05:45:49 +0900
+X-Original-Sender: robertajenkins@fastmail.fm
+X-Original-Authentication-Results: mx.google.com; spf=pass (google.com: domain
+ of robertajenkins@fastmail.fm designates 66.111.4.25 as permitted sender)
+ smtp.mail=robertajenkins@fastmail.fm; dkim=pass header.i=@messagingengine.com
+Precedence: list
+Mailing-list: list roberta@jays.net; contact roberta+owners@jays.net
+List-ID: <roberta.jays.net>
+List-Help: <http://www.google.com/support/a/jays.net/bin/static.py?hl=en_US&page=groups.cs>,
+ <mailto:roberta+help@jays.net>
+Content-Disposition: inline
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset="utf-8"
+
+The best thing about summer in Dunedin is the sixteen hours of sunlight
+- not quite as much as in Grande Prairie, where I grew up, but still
+plenty to bracket all of the things you could hope to do in a single
+day's light.  I'm not one of those people whose general mood shifts with
+the absense of sun, but I'm also not a huge fan of running around in the
+dark, so I tend to be much more productive in the summer.  When the 6pm
+sun looks like a 2pm sun, it seems reasonable to have a lot of activity
+left in the day.  (When the 6pm sun is a moon, on the other hand, it
+seems reasonable to make some dinner, curl up with something hot in
+front of a movie and then head to bed.)
+
+My friend Anne is a Yellow-Eyed Penguin Trust volunteer at Sandfly Bay,
+on the peninsula near here.  For about 7 months of the year, during the
+breeding and chick-rearing seasons, she spends her Saturday evenings
+from 5pm until dusk (about 5 hours this time of year) on the beach
+giving people information about the wildlife they see and keeping them
+far enough away that the animals aren't disturbed.  Since both the
+penguins and the Hooker's Sea Lions that make the beach home are
+critically endangered, this is a really important job.
+
+For the last two Saturdays in a row, I've gone down to Sandfly with
+Anne.  The first week I went out of curiosity, having seen the bay from
+the lookout point on the hill (high) above, but never from sea level.  I
+followed her around all night, being a tourist and also soaking in the
+information (which I heard repeated about three dozen times).  The
+weather was calm and beautiful, the white sand comfortably warm, the sky
+alive with shifting clouds coloured extravagantly by both a long sunset
+and a full moonrise.  The two chicks on the cliffs at one end of the
+beach spent hours out on a rock, fluffy and grey and distinctly
+un-penguin like, while their parents cuddled on a ledge below.  At the
+opposite end of the beach, another penguin waddled through the masses of
+fur seals sunning themselves and on up the steep hill to its nest,
+tilting the whole way at an alarming angle but making it nonetheless. 
+One playful sea lion kept popping in and out from behind various sand
+dunes at people, or laying across the (only) path up to the viewing
+hide, absurdly resembling a very eager (and overgrown!) puppy.  Except
+for the brutal climb up a very steep, very long and very shifty sand
+dune at the end of the night to get back to the car, it was pretty much
+a perfect evening.
+
+I woke up the next morning with sand in my bed and a smile on my face. 
+Having passed the volunteer 'test' (ie, still smiling and asking for
+more), the second Saturday Anne put my name in the log book and put me
+to work.  The weather wasn't nearly as nice as the week before, although
+at least it wasn't raining on us like it was on the city.  The name
+'Sandfly' didn't come from the bugs (which are nasty biting things
+common elsewhere in NZ, but not here), but rather from the persistant
+blowing that creates what Anne euphemistically calls 'textural winds' -
+air you can literally see.  I spent a significant portion of the evening
+bundled into my winter coat, shaking sand out of my ears.  Having
+volunteered on the beach for the last 3 years, she was smart and had a
+scarf to wrap around her face, lawrence of arabia style, to keep out the
+worst of the gusts.  And despite the grey, people came...and animals
+too.  Many, many more of each than the beautiful week before.
+
+The chicks were out on their rock again, newly penguin-like with
+white-bellies beginning to venture down to the lower ledge where their
+parents yelled encouragement.  My job was to sit at the base of the dune
+that leads to the beach, 200 meters back from the cliff, and catch
+people first thing when they came down.  So many interesting people! 
+For an over-talkative, know-it-all, teacher type, this was pretty much a
+perfect job for me.  The fact that it was on what is probably one of the
+most spectacular stretches of sand anywhere in the world, filled with
+penguin 'song', was also a perk!  Anne spent most of her evening at the
+opposite end of the beach, at the viewing hide, helping people avoid the
+very, very active sea lions.  During a quiet spell later in the evening,
+we walked down the beach together with 3 young French people, just in
+time to see a succession of penguins pop out of the waves and make for
+their nests inland.  And also in time to see 2 big male sea lions have a
+fight (at the base of the path to the viewing hide, of course, where a
+group of tourists were stuck), with 2 baby girl sea lions playing in the
+grass behind them.  Up and down the beach sea lions came in and out of
+the waves, sizing people up as possible playmates, and penguins waddled.
+ I talked to people from Scotland, Germany, France, Switzerland, Canada
+(from my old university!), New York (big strapping guy who owns a
+florist on 5th...fun!), and Uruguay.  Easily worth every grain of sand I
+injested throughout the night.  And next day.
+
+Today it's sunny for the first time in a long time.  So hard to sit in
+an office, working, with the green grass so inviting outside.  Maybe
+I'll take my books out to the quad for a while and read with the
+birds... I hope you're well wherever you are!  Much love, Roberta   
+
+From robertajenkins@fastmail.fm Fri Jul 23 21:40:50 2010
+Return-path: <roberta-bounces@jays.net>
+Envelope-to: jay@jays.net
+Delivery-date: Fri, 23 Jul 2010 21:40:50 -0500
+Received: from localhost ([127.0.0.1] helo=srv.maia3.com)
+	by srv.maia3.com with esmtp (Exim 4.69)
+	(envelope-from <roberta-bounces@jays.net>)
+	id 1OcUfR-0006dV-1n; Fri, 23 Jul 2010 21:40:49 -0500
+Received: from out1.smtp.messagingengine.com ([66.111.4.25])
+	by srv.maia3.com with esmtps (TLSv1:AES256-SHA:256) (Exim 4.69)
+	(envelope-from <robertajenkins@fastmail.fm>) id 1OcUdi-0006UY-BO
+	for roberta@jays.net; Fri, 23 Jul 2010 21:39:09 -0500
+Received: from compute1.internal (compute1.internal [10.202.2.41])
+	by gateway1.messagingengine.com (Postfix) with ESMTP id 8394616F71D
+	for <roberta@jays.net>; Fri, 23 Jul 2010 22:39:01 -0400 (EDT)
+Received: from vweb8.messagingengine.com ([10.202.2.38])
+	by compute1.internal (MEProxy); Fri, 23 Jul 2010 22:39:01 -0400
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=messagingengine.com;
+	h=message-id:from:to:content-transfer-encoding:content-type:mime-version:subject:date;
+	s=smtpout; bh=d/YgFBeefaWAhTZjMuzQ55amMd4=;
+	b=nnvrlnmqy+EjoBu6Bt9nOm4ap7O/AjEhqy6ZlWK6ydeS8Ao/ILHbW6gNNkE+IhsXqZS+I87PLlz70C/Z+O6yjNX/d7Gk7ahlMxtCvzVpu0tPUEfb6RAICHTJcGGZvktLhZHGvmzLM+Aqnp3jPxln9MtB3jSYlwellY8J05yUpK8=
+Received: by vweb8.messagingengine.com (Postfix, from userid 99)
+	id 5353E56001; Fri, 23 Jul 2010 22:39:01 -0400 (EDT)
+Message-Id: <1279939141.7323.1386475603@webmail.messagingengine.com>
+X-Sasl-Enc: jz9MjH6swjouihRZN9lWdtuJUxsCwSS1lHrNsyOnIaob 1279939141
+From: "Roberta Jenkins" <robertajenkins@fastmail.fm>
+To: roberta@jays.net
+Content-Disposition: inline
+MIME-Version: 1.0
+X-Mailer: MessagingEngine.com Webmail Interface
+Date: Sat, 24 Jul 2010 11:39:01 +0900
+X-Spam-Status: No, score=-3.5
+X-Spam-Score: -34
+X-Spam-Bar: ---
+X-Spam-Flag: NO
+X-Mailman-Approved-At: Fri, 23 Jul 2010 21:40:48 -0500
+Subject: [Roberta] Shalom Shabat!
+X-BeenThere: roberta@jays.net
+X-Mailman-Version: 2.1.13
+Precedence: list
+List-Id: Roberta Jenkins updates <roberta_jays.net.jays.net>
+List-Unsubscribe: <http://jays.net/mailman/options/roberta_jays.net>,
+	<mailto:roberta-request@jays.net?subject=unsubscribe>
+List-Archive: <http://jays.net/pipermail/roberta_jays.net>
+List-Post: <mailto:roberta@jays.net>
+List-Help: <mailto:roberta-request@jays.net?subject=help>
+List-Subscribe: <http://jays.net/mailman/listinfo/roberta_jays.net>,
+	<mailto:roberta-request@jays.net?subject=subscribe>
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+Sender: roberta-bounces@jays.net
+Errors-To: roberta-bounces@jays.net
+
+I am not Jewish.  And neither are my friends Sue, Ron or Tessa.  And yet
+the four of us got together last night for a Shabat dinner - the Jewish
+custom which ends the work week and prepares everyone for the sabbath
+ahead.  2 atheists, an agnostic and a christian.  
+
+Sue was married to a Jewish man for about 31 years, though she never
+converted and never learned the prayers.  She just spent a horrific (and
+by horrific, I mean - OMG!!!) 10 days in the hospital after slipping on
+the ice and breaking her leg into tiny little pieces, and had a yen to
+repeat a tradition she'd practiced for so long and lost touch with upon
+her return home.  We were all inclined to support her, even if we didn't
+have any idea what to do.  Ron grew up on a 'secular kibbutz' in Israel.
+ He didn't know the prayers, but did have a friend in the local
+synagogue who lent him a hebrew bible and explained what to do.  I lit
+the candles.  He read the prayers in Hebrew and then explained them in
+English (as much for his own benefit as ours I think!).  Cut the bread. 
+Tessa served the food.  It didn't feel like a bunch of people with no
+clue playing at religion - it felt warm and close and blessed.  Sue was
+smiling, we were all smiling.  And I suppose God meets us wherever we
+are, however we come to the table.
+
+Sue's experience in the hospital makes me hope that I NEVER need medical
+care in New Zealand.  Saving you most of the gory details, let me
+suffice by saying that her multiple displaced fractures and dislocations
+did not qualify her as an emergency, despite the fact that the bones
+continued to move around and further pulverize themselves inside her
+busted leg for the entire 6 DAYS that it took them to get her into
+surgery.  At which point the damage was so extensive that she required a
+second surgery 3 days later to finish the job.  She now has more metal
+in her leg than leg in her leg.  Ouch!  
+
+In other news, kapiti ice-cream is just as luciously creamy and
+deliciously wonderful as I recall from last year when I was here. 
+Carmelized pear and ginger, manuka honey and fig...now THAT's ice-cream!
+ This winter's weather has been much milder than last, meaning the green
+grass and hearty roses blooming around town make me feel as if I'm
+living in a perpetual state of spring (when ice-cream consumption is not
+completely ridiculous).  I've learned that there are no squirrels in New
+Zealand, which I find endlessly strange and fascinating, but that there
+is another plague of rabbits sweeping across the island.
+
+My PhD is officially in progress now, and I actually feel glimmers of
+proficiency from time to time (unlike last year's panic attacks!).  I
+spend most of most days in my shared office, reading, writing, chatting
+with colleagues, and checking my email 8000 times.  It's a sweet life! 
+When I'm not in my office, I'm wandering about the countryside soaking
+in the wide open spaces and strange familiarity (so much looks so much
+like Canada!).  Unlike last year when I arrived not knowing a soul, this
+time I have a great network of friends which makes things MUCH less
+lonely (though possibly also much less productive in absolute writing
+terms!).  My committee continues to be great, and things are moving
+along.
+
+There is much, much more to say, but my stomach is telling me that I
+forgot to eat lunch today after wandering through the farmer's market. 
+Now that it's nearly 3pm, the voices are getting lively down there!!  So
+I will save the next musings for another message... hope you are all
+well and happy, wherever you are!!  Much love to you all!  R         
+
+_______________________________________________
+Roberta mailing list
+Roberta@jays.net
+http://jays.net/mailman/listinfo/roberta_jays.net
+
+From robertajenkins@fastmail.fm Thu Dec 17 04:43:39 2009
+Return-path: <robertajenkins@fastmail.fm>
+Envelope-to: jay@jays.net
+Delivery-date: Thu, 17 Dec 2009 04:43:39 -0600
+Received: from out1.smtp.messagingengine.com ([66.111.4.25])
+	by srv.maia3.com with esmtp (Exim 4.69)
+	(envelope-from <robertajenkins@fastmail.fm>)
+	id 1NLDpQ-0005TB-Ar
+	for jay@jays.net; Thu, 17 Dec 2009 04:43:37 -0600
+Received: from compute2.internal (compute2.internal [10.202.2.42])
+	by gateway1.messagingengine.com (Postfix) with ESMTP id B9C23C70F0;
+	Thu, 17 Dec 2009 05:43:29 -0500 (EST)
+Received: from vweb7.messagingengine.com ([10.202.2.37])
+  by compute2.internal (MEProxy); Thu, 17 Dec 2009 05:43:31 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=messagingengine.com; h=message-id:from:to:cc:content-transfer-encoding:content-type:mime-version:subject:date; s=smtpout; bh=+ocPHoSLRuhY8h1Eq4ZWhaGtAdM=; b=UUoU/n1xwCSmWXw/9RfwFjnGQiMhxHTRydeOQhvdiYlipuOKYHiTeoE7jNYMJucKDsO3VGb2QRpban7gmcnrN2oIBWLrQe65FQpQVutejRZtv+zeCOtJKjzRiM31+b5LqhCzw3rTPJ5kdaxInAbku+SKaW0+uHR9mtJHL3ecgy4=
+Received: by vweb7.messagingengine.com (Postfix, from userid 99)
+	id 8FC67432; Thu, 17 Dec 2009 05:43:29 -0500 (EST)
+Message-Id: <1261046609.4108.1350556489@webmail.messagingengine.com>
+X-Sasl-Enc: DAmMpJeMHlrsy+xCmDWiQnIxE7tQ5UgElkCpjr+58+26 1261046609
+From: "Roberta Jenkins" <robertajenkins@fastmail.fm>
+To: "Denise Jenkins" <denisejenkins@shaw.ca>, "Jean Jenkins"
+ <gjenkins@telusplanet.net>, "Leah Montes"
+ <leahjenkinsmontes@yahoo.com>, "Ron Richea" <ronrichea@yahoo.ca>, "Yan
+ Kong" <Yk2@soas.ac.uk>, "Barb Mills" <bmills@fastmail.fm>, "Erik
+ Teichmann" <erikt114@yahoo.com.au>, "Steve Toebben"
+ <stoebben@gmail.com>, "Chad Futrell" <wcf7@cornell.edu>, "Shane Walton"
+ <shane_of_all_people@hotmail.com>, "Johar Abdullah"
+ <curryoga@gmail.com>, rcmelanchuk@hotmail.com, "Simone Bauch"
+ <sibauch@yahoo.com.br>, "Will Edwards" <sjbdoughie@yahoo.ca>,
+ "Alyssonne Dersch" <wonderwommon@gmail.com>, "Kristin Haeger"
+ <kristin.haeger@gmail.com>, "Rob Salomons" <robsalomons@fastmail.fm>,
+ do_cheron@hotmail.com, "Yoga S.S." <sselvayoga@gmail.com>,
+ Ryan.Levitt@EC.gc.ca, "phillip auclair" <phillipauclair@yahoo.ca>,
+ "Chris Stuck" <christopherastuck@yahoo.com>, "Jac Kirkpatrick"
+ <jkirkpatrick@cofchrist.org>, "Lewis Levine" <lewislevine@aol.com>,
+ "Kyoung Seo" <dmsruddldmlapf@hotmail.com>, "Gina Galipeau"
+ <gina_galipeau@hotmail.com>, "Christine Robinson"
+ <carinmolokai@hotmail.com>, "Beatrix" <bmecsi@gmail.com>, "JAMES
+ HANNAH" <hannahs810waldo@sbcglobal.net>, "Blake Jussila"
+ <jussibla@hotmail.com>, "Ines" <inetxo@yahoo.es>, "Andrew Bolton"
+ <abolton@cofchrist.org>, gglasier@shaw.ca, "Leslie Levine"
+ <andreasarasota@aol.com>, "Donald & Joan Jenkins"
+ <donjoan@telusplanet.net>, Paula_Kavanagh@Yahoo.co.uk,
+ mcf2002@hotmail.com, "Dan Dieffenbacher" <dandy1@juno.com>, "Sarah
+ Song" <sarah.song@otago.ac.nz>, "Rob Mills" <rmills@fastmail.fm>, "Ian
+ Roberge" <ianroberge@canada.com>, "Jay Hannah" <jay@jays.net>
+Cc: "Raven Borstad" <raven@borstad.com>
+Content-Disposition: inline
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset="ISO-8859-1"
+MIME-Version: 1.0
+X-Mailer: MessagingEngine.com Webmail Interface
+Subject: Good News!!
+Date: Thu, 17 Dec 2009 19:43:29 +0900
+X-Spam-Status: No, score=-3.5
+X-Spam-Score: -34
+X-Spam-Bar: ---
+X-Spam-Flag: NO
+
+This message deserves to be MUCH longer than it's going to be, mainly
+because I am so excited that I can't stand to keep my butt in a chair
+long enough to do it justice.  So you can expect a follow-up sometime
+soon...
+
+I just got a full scholarship for my PhD in New
+Zealand!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+Those of you who have an inkling of how many of these awards I've
+applied for over the last 3 years will know what a big deal it is to
+finally have this nailed down...and I feel GREAT!
+
+(it's getting harder and harder to stay seated people!)
+
+No, I'm not leaving Korea.  Yet.  The university will allow me to keep
+my job and collect the award.  :)  So for the time being I am continuing
+as before - full-time student and full-time professor - FUN!  When that
+scenario changes I'll let you know.  In the meantime, the most exciting
+thing about all of this is now having something acceptable to put on my
+student visa application form for the NZ gov't!!
+
+YIPPEE, YIPPEE, YIPPEE, dancing circles and jumping for joy!!
+
+Merry Christmas, Happy Holidays to you all and hoping your homes are as
+full of joy as mine is tonight!
+Love, Roberta
+
+From robertajenkins@fastmail.fm Tue May 26 20:02:54 2009
+Return-path: <roberta-bounces@jays.net>
+Envelope-to: jay@jays.net
+Delivery-date: Tue, 26 May 2009 21:02:54 -0400
+Received: from localhost ([127.0.0.1] helo=new-srv.maia3.com)
+	by new-srv.maia3.com with esmtp (Exim 4.69)
+	(envelope-from <roberta-bounces@jays.net>)
+	id 1M97Xg-0002hR-Tx; Tue, 26 May 2009 21:02:52 -0400
+Received: from out1.smtp.messagingengine.com ([66.111.4.25])
+	by new-srv.maia3.com with esmtp (Exim 4.69)
+	(envelope-from <robertajenkins@fastmail.fm>) id 1M96by-0003VN-0b
+	for roberta@jays.net; Tue, 26 May 2009 20:03:18 -0400
+Received: from compute1.internal (compute1.internal [10.202.2.41])
+	by out1.messagingengine.com (Postfix) with ESMTP id B03D4346BB4
+	for <roberta@jays.net>; Tue, 26 May 2009 20:03:15 -0400 (EDT)
+Received: from web5.messagingengine.com ([10.202.2.214])
+	by compute1.internal (MEProxy); Tue, 26 May 2009 20:03:15 -0400
+Received: by web5.messagingengine.com (Postfix, from userid 99)
+	id 9F801A9BFE; Tue, 26 May 2009 19:53:35 -0400 (EDT)
+Message-Id: <1243382015.7000.1317351413@webmail.messagingengine.com>
+X-Sasl-Enc: bN3fUCA/MujZULBspCk2shI/yiP4JDk10RgXfWkBUpK5 1243382015
+From: "Roberta Jenkins" <robertajenkins@fastmail.fm>
+To: roberta@jays.net
+Content-Disposition: inline
+MIME-Version: 1.0
+X-Mailer: MessagingEngine.com Webmail Interface
+Date: Wed, 27 May 2009 08:53:35 +0900
+X-Spam-Status: No, score=-3.4
+X-Spam-Score: -33
+X-Spam-Bar: ---
+X-Spam-Flag: NO
+X-Mailman-Approved-At: Tue, 26 May 2009 21:02:51 -0400
+Subject: [Roberta] Mourning
+X-BeenThere: roberta@jays.net
+X-Mailman-Version: 2.1.11.cp3
+Precedence: list
+List-Id: Roberta Jenkins updates <roberta_jays.net.jays.net>
+List-Unsubscribe: <http://jays.net/mailman/options/roberta_jays.net>,
+	<mailto:roberta-request@jays.net?subject=unsubscribe>
+List-Archive: <http://jays.net/pipermail/roberta_jays.net>
+List-Post: <mailto:roberta@jays.net>
+List-Help: <mailto:roberta-request@jays.net?subject=help>
+List-Subscribe: <http://jays.net/mailman/listinfo/roberta_jays.net>,
+	<mailto:roberta-request@jays.net?subject=subscribe>
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+Sender: roberta-bounces@jays.net
+Errors-To: roberta-bounces@jays.net
+
+At 7:30 this morning, towards the end of a 6km run in which far more
+energy was expended choking back sobs than keeping my feet moving
+forward, the rice paddies near home were newly green, bursting with
+life.  Already at 6am, when I climbed the mountain to bury my too-tiny
+kitten, the fields and paths were full of old women and men, planting. 
+It strikes me more every spring, how old the farmers are getting.  The
+same people who did the work when I arrived, long before I arrived,
+getting a little slower and more bent over each year, still working.  No
+young people ever take their places.
+
+It is possible that running through tears is a more productive use of
+energy than just curling up in a pathetic ball on the bed and wailing
+away.  Certainly it frightens my rabbits less.  But the whole point of
+the endeavor was to wear myself out too much for the waterworks to keep
+on, something you'd think would be relatively easy after a sleepless
+night spent crooning to a miniscule fur ball in obvious distress growing
+weaker by the hour in the crook of my arm.  And yet here I am, 6km
+later, crying over every little thing (figuratively and literally) with
+no apparent end in sight.  Lesson: running may strengthen your heart,
+but not for stuff like this.  Nothing strengthens your heart for this.
+
+
+
+      
+
+_______________________________________________
+Roberta mailing list
+Roberta@jays.net
+http://jays.net/mailman/listinfo/roberta_jays.net
+
+From robertajenkins@fastmail.fm Wed Mar  4 18:38:13 2009
+Return-path: <roberta-bounces@jays.net>
+Envelope-to: jay@jays.net
+Delivery-date: Wed, 04 Mar 2009 19:38:13 -0500
+Received: from localhost ([127.0.0.1] helo=srv.maia3.com)
+	by srv.maia3.com with esmtp (Exim 4.69)
+	(envelope-from <roberta-bounces@jays.net>)
+	id 1Lf1bH-0002ZF-EQ; Wed, 04 Mar 2009 19:38:11 -0500
+Received: from out5.smtp.messagingengine.com ([66.111.4.29])
+	by srv.maia3.com with esmtp (Exim 4.69)
+	(envelope-from <robertajenkins@fastmail.fm>) id 1Lf1ao-0002XC-MI
+	for roberta@jays.net; Wed, 04 Mar 2009 19:37:44 -0500
+Received: from compute2.internal (compute2.internal [10.202.2.42])
+	by out1.messagingengine.com (Postfix) with ESMTP id 511CD2E2159
+	for <roberta@jays.net>; Wed,  4 Mar 2009 19:37:53 -0500 (EST)
+Received: from web6.messagingengine.com ([10.202.2.215])
+	by compute2.internal (MEProxy); Wed, 04 Mar 2009 19:37:53 -0500
+Received: by web6.messagingengine.com (Postfix, from userid 99)
+	id 2EB22A74EF; Wed,  4 Mar 2009 19:37:53 -0500 (EST)
+Message-Id: <1236213473.11169.1303701789@webmail.messagingengine.com>
+X-Sasl-Enc: rGelcI+MEidxiRQtyRfZ8nA2jR+L78tuJtBFVmmx91Yo 1236213473
+From: "Roberta Jenkins" <robertajenkins@fastmail.fm>
+To: roberta@jays.net
+Content-Disposition: inline
+MIME-Version: 1.0
+X-Mailer: MessagingEngine.com Webmail Interface
+Date: Thu, 05 Mar 2009 09:37:53 +0900
+X-Spam-Status: No, score=-2.3
+X-Spam-Score: -22
+X-Spam-Bar: --
+X-Spam-Flag: NO
+X-Mailman-Approved-At: Wed, 04 Mar 2009 19:38:09 -0500
+Subject: [Roberta] I want to live in China
+X-BeenThere: roberta@jays.net
+X-Mailman-Version: 2.1.11.cp3
+Precedence: list
+List-Id: Roberta Jenkins updates <roberta_jays.net.jays.net>
+List-Unsubscribe: <http://jays.net/mailman/options/roberta_jays.net>,
+	<mailto:roberta-request@jays.net?subject=unsubscribe>
+List-Archive: <http://jays.net/pipermail/roberta_jays.net>
+List-Post: <mailto:roberta@jays.net>
+List-Help: <mailto:roberta-request@jays.net?subject=help>
+List-Subscribe: <http://jays.net/mailman/listinfo/roberta_jays.net>,
+	<mailto:roberta-request@jays.net?subject=subscribe>
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+Sender: roberta-bounces@jays.net
+Errors-To: roberta-bounces@jays.net
+
+Today is my birthday. 32 years. I feel incredibly lucky that they have
+been such good ones!
+
+
+Yesterday morning Lily and I went to the local PSB (Public Security
+Bureau) to extend my visa. I've done this several times on other trips
+to China without any kind of trouble, so didn't worry about dates when I
+booked my plane tickets a month ago. My visa expires on Thursday. I fly
+out on Saturday morning.
+
+Before spending an hour on the bus, Lily called the Visa helpline to
+make sure I had everything I needed. The woman asked me if I'd done this
+before. I told her yes. She asked me if I knew what to do. I told her I
+should take my passport and 160 yuan in and fill out a form. She said
+yes, that's it, perfect, have a nice day.
+
+After spending an hour on the bus, the woman at the PSB had a somewhat
+different opinion about exactly what I needed. Temporary resident
+permit. Photos. Financial independence certificate. Visa application
+form. Plane tickets. And money. Lots and lots of money.
+
+When she was enumerating all the things I was lacking, the PSB woman was
+more than a little intimidating. People in uniform waving official
+looking documents all typed in a language you don't understand inches
+from your nose have that effect. Having never encountered this before I
+was at a loss as to what exactly to do. Lily, who is absolutely
+wonderful but always has a lot on her mind, amped up my anxiety. The
+more the woman at the desk waved the papers around and talked about
+money the more anxious I got. 
+
+Wondering if I would have to empty my bank account or leave the country,
+I fled to Timothy at the university. Luckily he and his best friend Cai
+have calmer heads than I do. After a blissfully short initial panic
+period, they took the typed guide the PSB officer had given me and
+started to go through things one at a time. With telephone in hand,
+calling various friends and authorities for clarification. Cai kept
+repeating to me over and over again, don't worry, this isn't serious, we
+can take care of this together. And, think of this as training for next
+time!
+
+First thing on the list, a temporary residency permit. From the police.
+Not wanting to bother Lily again, Timothy calls his friend Mabel who
+lives on campus nearby. She lived in Canada for several months recently
+and is working on her PhD in a field similar to mine. It was reasonable
+that we would know each other. And having been helped a lot with
+bureaucratic hoops in Canada she was happy to help out. We went to the
+campus police together.
+
+A lecture ensued. Students should be living in the dorms, they should
+NOT be renting their own apartments. And they should definitely not be
+accepting foreigners into their homes without first getting police
+permission. You are Chinese! You should know these things!! Mabel wanted
+to ask him how, how am I supposed to know these things, but instead she
+bowed meekly and appologized over and over again. Lecture concluded, the
+officer told us that we weren't in the right police office anyway. He
+gave us directions to the appropriate office a 20 minute walk away. 
+
+Neither Mabel nor I wanted to make any trouble for her. So she decided
+to call the other police station first, and ask them some questions
+about the process and requirements before going in. All of the answers
+being totally satisfactory, we set out. Only to be foiled a second time
+because she is not the owner of her home. Only the owner can apply for a
+temporary residency permit.
+Both of us really wish they had told us this on the phone. Not wanting
+to send us away with nothing, the officer told us helpfully that if I
+registered at a local hotel, even if I didn't stay there, then my
+information would automatically be uploaded to the PSB and I wouldn't
+need a permit from the police. So off we went to find a cheap hotel.
+
+It turns out that there are 2 kinds of hotels near the university. The
+first are beds mostly used by eager lovers not wanting to share their
+passions with their many dorm mates. This kind of hotel does not
+register its guests and was therefore useless. The second are expensive
+tourist hotels, for visiting scholars and families. Though they could
+have given me the form I needed, I couldn't afford the bill. The foreign
+guesthouse on campus was not too expensive. But after going through all
+of the registration procedures they informed me that because I'm not a
+student they couldn't give me the paper I needed anyway. Bringing me
+back to square one. Defeated, Mabel and I returned to the guys at the
+dorm. The PSB would be closed soon anyway.
+
+When I gave Lily the update, she was offended that I would try to go to
+a hotel before asking her for more help. I assured her that I just
+didn't want to cause her any more trouble. She assured me that there was
+nothing she wanted to do more. Which brings me back to my birthday...
+
+
+This morning Lily and I went to the local Police station (third one in 2
+days!) to register my 'temporary residence'. Apparently this is
+something I should have done within 24 hours of arriving in Chengdu - I
+must have missed the memo on bureaucratic rules when I bought my plane
+ticket. Lily lies on the form with ease, saying that I just arrived in
+the city yesterday. Though it takes some time to complete the paperwork,
+the women at the counter are friendly and we have no problem getting
+what I need.
+
+Another Chinese friend, Charles, meets us at the station and I am handed
+off from one to the other for the trip back to the PSB. My intention was
+not to deal with this today, of all days, but Charles is adamant that we
+should get it done as soon as possible. Luckily for me, I listened to
+him.
+
+At 10:30am, the Visa section on the second floor of the PSB is not
+crowded. Unlike the massively thronged first floor. I hand over all my
+documents to the woman behind the imposing marble counter. She peruses
+them disinterestedly, hands them back. Where are the copies of your
+passport and visa stamps? Where is your financial statement? The first
+are definitely NOT listed on the guide form I was given just one day
+before. And the second should be issued by this woman, now, as she well
+knows.
+
+I take out my plane tickets, all completely paid for. I take out my
+resident papers that show I am living with a friend. I take out my
+small-ish wad of 100 yuan bills and my bank card and 2 credit cards. She
+sneers. How am I supposed to know if those cards will work here, she
+asks. I want to see cash. $100 US per day - minimum $500. Glancing at my
+passport, she adds not-very-helpfully that I can bring an equivalent
+amount in Canadian or 'another currency' if I prefer.
+
+Then she refuses to talk to me any more.
+
+Charles and I go out to find a copy machine and a bank. The duplicates
+are easy, but we walk for quite a while before stumbling across a bank
+that either of us can use. Rather than paying the exorbitant exchange
+rate to take such a large sum out of my Korean account and then have to
+carry it around with me until I get back to Korea, Charles takes the
+money from his account. It makes me nervous to have such a large bundle
+of someone else's cash in my hands. When we get back to the PSB at 12:01
+we are informed that it's now lunchtime and the office won't reopen
+until 1pm.
+
+Charles and I wander the back streets until we find a rickety little
+bench next to a dumpling vendor. He is worried about me eating street
+food, but the food is delicious. I couldn't imagine a more perfect
+birthday lunch. We talk and talk and talk, and the world seems good
+again.
+
+At 1pm, I am the only person in line at the PSB. The women behind the
+counter all argue about who should serve me, before the same woman
+finally clicks the sign to call my number to the front. She glances at
+me purposefully when I reach the counter, before snapping her gum and
+returning to her magazine. She reads 2 more pages, excruciatingly
+slowly, before setting it aside and reaching for my papers.
+
+You know this visa will only be for a maximum of 30 days, she says. As
+my plane tickets shows, I am leaving the country on Saturday, I reply.
+Saturday, she asks. But your visa won't be ready until Monday. She has
+already looked at my plane ticket twice today. She knows very well what
+day I am leaving. You should have come in last week, she says, pushing
+my papers back across the counter. What happens if I don't file for an
+extension, I ask. She glares at me coldly and tells me that then I will
+be in violation of Chinese law and will be detained. She suggests that
+if I need the visa urgently, I should produce my plane tickets (again)
+and fill out another form. Then she pushes the button to call the next
+person.
+
+This is not going according to plan.
+
+Charles and I step aside to fill out the other form. When I go to the
+counter again with the new form, the woman tells me I don't have a copy
+of my plane tickets. Without a copy, what's she supposed to do? As she
+asks this, she deliberately scans another form using the miniature
+copier next to her chair. She doesn't even need to move to do this. I am
+dismissed again.
+
+On my next visit to the counter, she can't find anything wrong with the
+papers I've assembled. To complete the financial form she asks for my
+wad of cash, but she doesn't touch any of it. I could be holding a stack
+of red paper for as long as she glances at it. We walked all over town
+for this??? Friendly now, she smiles and draws me a detailed sequence of
+what happens next...on Friday, when I come to pick up my newly minted
+visa just hours before my plane flies off to Qingdao and then Korea.
+
+By this point you are wondering why on earth the subject of this looong
+message is 'I want to live in China'. Here's why.
+
+After the PSB debacle, Charles takes me to a traditional tourist street
+which is delightfully free of tourists despite the abundance of charm.
+Then we go to meet a group of church women that I met at a conference in
+Korea 2 years ago. They greet me as if no time has gone by at all, as if
+I am family.
+
+Since it's my birthday, they take me for a traditional Chinese foot
+massage. 4 strong and handsome men enter, wearing sharp suits with their
+ties tucked into their breast pockets, carrying steaming wooden tubs
+full of herbal water. It smells divine. While we soak our feet, they
+knead our necks, shoulders, backs. Did I mention they are all REALLY
+attractive? This might be what heaven feels like.
+
+After the massage, we all go to a fancy tofu restaurant a short walk
+away. The chairs are tall and elegant, giving the illusion of privacy
+even though there are dozens of tables around us. The food is unique and
+amazing. My stomach soon joins my feet in a state of absolute bliss.
+
+On my way back to Lily's, carrying bags of gifts and half a cake to
+share, the square near the apartment is full of women dancing in unison.
+The choreography is intricate and graceful, the women all shapes and
+ages. Beside them, the oyster bar has just recieved a shipment of
+shellfish and 4 uniformed chefs are haggling with the fisherman over the
+price of the streaming crates. The briny scent of sea permeates the air.
+
+Everyone I pass is smiling, enjoying the warm evening. And I smile too.
+This is a place that feels like home. And I am happy to pass another
+year here.
+
+_______________________________________________
+Roberta mailing list
+Roberta@jays.net
+http://jays.net/mailman/listinfo/roberta_jays.net
+
+From robertajenkins@fastmail.fm Wed Mar  4 07:14:10 2009
+Return-path: <roberta-bounces@jays.net>
+Envelope-to: jay@jays.net
+Delivery-date: Wed, 04 Mar 2009 08:14:10 -0500
+Received: from localhost ([127.0.0.1] helo=srv.maia3.com)
+	by srv.maia3.com with esmtp (Exim 4.69)
+	(envelope-from <roberta-bounces@jays.net>)
+	id 1LeqvJ-0000Ks-8w; Wed, 04 Mar 2009 08:14:09 -0500
+Received: from out2.smtp.messagingengine.com ([66.111.4.26])
+	by srv.maia3.com with esmtp (Exim 4.69)
+	(envelope-from <robertajenkins@fastmail.fm>) id 1LepVH-0000Si-3L
+	for roberta@jays.net; Wed, 04 Mar 2009 06:43:11 -0500
+Received: from compute1.internal (compute1.internal [10.202.2.41])
+	by out1.messagingengine.com (Postfix) with ESMTP id 076362D7254
+	for <roberta@jays.net>; Wed,  4 Mar 2009 06:43:13 -0500 (EST)
+Received: from web6.messagingengine.com ([10.202.2.215])
+	by compute1.internal (MEProxy); Wed, 04 Mar 2009 06:43:13 -0500
+Received: by web6.messagingengine.com (Postfix, from userid 99)
+	id D98F3A2AE8; Wed,  4 Mar 2009 06:43:12 -0500 (EST)
+Message-Id: <1236166992.8973.1303565397@webmail.messagingengine.com>
+X-Sasl-Enc: 73zj5RVE2//tRAywFU5mze7BMDfHisg8oRK8DBlm9lNH 1236166992
+From: "Roberta Jenkins" <robertajenkins@fastmail.fm>
+To: roberta@jays.net
+Content-Disposition: inline
+MIME-Version: 1.0
+X-Mailer: MessagingEngine.com Webmail Interface
+Date: Wed, 04 Mar 2009 20:43:12 +0900
+X-Spam-Status: No, score=-3.5
+X-Spam-Score: -34
+X-Spam-Bar: ---
+X-Spam-Flag: NO
+X-Mailman-Approved-At: Wed, 04 Mar 2009 08:14:08 -0500
+Subject: [Roberta] Crossing the Road
+X-BeenThere: roberta@jays.net
+X-Mailman-Version: 2.1.11.cp3
+Precedence: list
+List-Id: Roberta Jenkins updates <roberta_jays.net.jays.net>
+List-Unsubscribe: <http://jays.net/mailman/options/roberta_jays.net>,
+	<mailto:roberta-request@jays.net?subject=unsubscribe>
+List-Archive: <http://jays.net/pipermail/roberta_jays.net>
+List-Post: <mailto:roberta@jays.net>
+List-Help: <mailto:roberta-request@jays.net?subject=help>
+List-Subscribe: <http://jays.net/mailman/listinfo/roberta_jays.net>,
+	<mailto:roberta-request@jays.net?subject=subscribe>
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+Sender: roberta-bounces@jays.net
+Errors-To: roberta-bounces@jays.net
+
+The Tibetan part of Chengdu is totally different from the rest of the
+city. Instead of street after street of identical women's clothes shops,
+sportswear, computer repairs, and non-descript cement apartment blocks,
+it is a riot of colour in a haze of smoking insence. Vibrant in every
+sense of the word.
+
+
+I have a cooking class at a guesthouse here at 2pm. Timothy puts me on a
+bus near the university that I've never been on before, one with no fare
+box but rather a young woman in uncomfortable looking heels collecting
+money in exchange for little paper tickets. As we are pulling away from
+the curb Timothy begs the driver through the open window to please help
+me get off at the right place. After a month of travelling together he
+has a pretty good idea of how often I get lost from missing my stop on
+busses.
+
+
+Though most of the streets the bus travels I have never been on before,
+this is one destination it is impossible to miss. The transition from
+'modern China' to 'old Tibet' is striking. As soon as I see the first
+wine-robed monk spinning his tiny prayer wheel I know I am close.
+Shortly after, shiny glass display windows give way to dark entries
+overflowing with sundries of Tibetan Buddhist life...prayer flags,
+beads, wheels, idols, offering bowls, jewellery, cushions, clothes,
+industrial blenders for yak butter tea.
+
+
+Not only the driver, but also the ticket woman very kindly help me off
+the bus at the correct stop. Though I am near a popular tourist area, I
+am the only tourist to be seen. Riot police however are out in force.
+This is the Tibetan new year and the area is tightly patrolled. The
+women shopping have long braids strung with silver and beads, lined
+wrap-dresses that emphasize their slender height. Many of them carry
+infants. The men are mostly in monks robes, elaborate saffron hats all
+variations on a theme. Both are oblivious to the bored looking soldiers
+with loaded automatic weapons slung casually over their shoulders up and
+down the streets. Their faces are as different from each other as mine
+are from either of theirs. I feel as if I have entered another country
+entirely, just by crossing the road.
+
+_______________________________________________
+Roberta mailing list
+Roberta@jays.net
+http://jays.net/mailman/listinfo/roberta_jays.net
+
+From robertajenkins@fastmail.fm Thu Aug  7 07:59:30 2008
+Return-path: <robertajenkins@fastmail.fm>
+Envelope-to: jay@jays.net
+Delivery-date: Thu, 07 Aug 2008 08:59:30 -0400
+Received: from out1.smtp.messagingengine.com ([66.111.4.25])
+	by srv.maia3.com with esmtp (Exim 4.69)
+	(envelope-from <robertajenkins@fastmail.fm>)
+	id 1KR55V-0005v6-Iv
+	for jay@jays.net; Thu, 07 Aug 2008 08:59:30 -0400
+Received: from compute1.internal (compute1.internal [10.202.2.41])
+	by out1.messagingengine.com (Postfix) with ESMTP id 31EE1155BA9
+	for <jay@jays.net>; Thu,  7 Aug 2008 08:59:34 -0400 (EDT)
+Received: from web8.messagingengine.com ([10.202.2.217])
+  by compute1.internal (MEProxy); Thu, 07 Aug 2008 08:59:34 -0400
+Received: by web8.messagingengine.com (Postfix, from userid 99)
+	id 124FF29522; Thu,  7 Aug 2008 08:59:34 -0400 (EDT)
+Message-Id: <1218113974.29354.1267471429@webmail.messagingengine.com>
+X-Sasl-Enc: 2dHdfiXJcx7l9iFM3qZNjXwW7ru930F+f09gbZRvjkaw 1218113974
+From: "Roberta Jenkins" <robertajenkins@fastmail.fm>
+To: "Jay Hannah" <jay@jays.net>
+Content-Disposition: inline
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset="ISO-8859-1"
+MIME-Version: 1.0
+X-Mailer: MessagingEngine.com Webmail Interface
+References: <408B090A-1295-4F56-8882-DF2A7FF02CCA@jays.net>
+ <1218070146.11601.1267396717@webmail.messagingengine.com>
+ <7499F0B7-FD12-4804-B0C2-237F03BB3A0F@jays.net>
+Subject: Re: Teaching English in Korea
+In-Reply-To: <7499F0B7-FD12-4804-B0C2-237F03BB3A0F@jays.net>
+Date: Thu, 07 Aug 2008 21:59:34 +0900
+X-Spam-Status: No, score=-3.6
+X-Spam-Score: -35
+X-Spam-Bar: ---
+X-Spam-Flag: NO
+
+I'm in New York for the summer (Ithaca, not the city), but start the new
+semester in Korea as usual in September.  Probably my last year
+though...been spending half my time in Korea and half in Ithaca for the
+last year or so.  Before that Amy was in Korea doing her
+fieldwork...she's an anthropologist (we met in Korea).
+
+There've been a handful of mails over the past few months... will look
+into them. :)
+
+R
+
+Ebay for computers, eh?  Never thought of that...
+
+On Wed, 6 Aug 2008 20:54:59 -0500, "Jay Hannah" <jay@jays.net> said:
+> On Aug 6, 2008, at 7:49 PM, Roberta Jenkins wrote:
+> > The blog stopped accepting uploads from my computer for a long, long,
+> > long time (many months) and by the time I got it back into the  
+> > accepting
+> > groove I was totally out of the habit of posting.  And I'd moved it to
+> > wordpress as well in the meantime... but I do plan to get back on  
+> > it in
+> > the fall.
+> 
+> Ah, bummer. I had a server failure, lost a bunch of email (err...  
+> some recoverably?). Not sure if there have been a series of emails I  
+> need to get into your email archive....
+> 
+>     http://jays.net/roberta/maillist.html  -laugh-
+> 
+> > Instead, I've been busily building the website for Amy and my
+> > fledgling company - www.soapling.com .  In addition to our stock, of
+> > course!  Amy is my partner, business and otherwise, in case I hadn't
+> > mentioned her before. :)
+> 
+> You're living in New York now? That's where your retail outlets will be?
+> 
+> > Hope all's well in Omaha!
+> 
+> Yup. No complaints.   :)
+> 
+> > PS.  You wouldn't have any suggestions on what kind of laptop I should
+> > buy, do you?  After my best buy nightmare I'm totally panicked about
+> > getting anything but my trusty old samsung has started spontaneously
+> > shutting itself down every 5-15 min...
+> 
+> I love my black MacBook that I bought on eBay for $1000. It's awesome  
+> for programmer geeks like me. Are you up for a Mac lifestyle?
+> 
+> Take care,
+> 
+> j
+> http://twitter.com/deafferret
+> http://headrattle.blogspot.com
+> http://jays.net
+> 
+
+From robertajenkins@fastmail.fm Sun May 11 07:11:01 2008
+Return-path: <robertajenkins@fastmail.fm>
+Envelope-to: jay@jays.net
+Delivery-date: Sun, 11 May 2008 08:11:01 -0400
+Received: from out3.smtp.messagingengine.com ([66.111.4.27])
+	by srv.maia3.com with esmtp (Exim 4.68)
+	(envelope-from <robertajenkins@fastmail.fm>)
+	id 1JvAOL-0007Zb-Qy
+	for jay@jays.net; Sun, 11 May 2008 08:11:01 -0400
+Received: from compute1.internal (compute1.internal [10.202.2.41])
+	by out1.messagingengine.com (Postfix) with ESMTP id A4BD2106A6A;
+	Sat, 10 May 2008 07:21:23 -0400 (EDT)
+Received: from web6.messagingengine.com ([10.202.2.215])
+  by compute1.internal (MEProxy); Sat, 10 May 2008 07:21:24 -0400
+Received: by web6.messagingengine.com (Postfix, from userid 99)
+	id 6E4AA45354; Sat, 10 May 2008 07:21:23 -0400 (EDT)
+Message-Id: <1210418483.14657.1252421867@webmail.messagingengine.com>
+X-Sasl-Enc: iKLBM18VsFjw/IIgtXmqkLpIYi0GQsj0tWQjaNHAZ1gJ 1210418483
+From: "Roberta Jenkins" <robertajenkins@fastmail.fm>
+To: "Roberta Jenkins" <robertajenkins@fastmail.fm>, "Jean Jenkins"
+   <gjenkins@telusplanet.net>, kenbarrows@aol.com, "Cam & Kirsten
+   Wallace (Davis)" <camnkirst@bigpond.com>, "Barb Mills"
+   <bmills@fastmail.fm>, "Denise Jenkins" <denisejenkins@shaw.ca>, "Erik
+   Teichmann" <erikt114@yahoo.com.au>, "Amy Beth Levine"
+   <abl25@cornell.edu>, "Jeremy Wildeman" <howjeremy@yahoo.com>,
+   anutakiska.anka@gmail.com, "Chad Futrell" <wcf7@cornell.edu>,
+   stoebben@yahoo.com, "Aarika Black" <flirtyfish05@hotmail.com>, "Jake
+   Loots" <jake@loots.ca>, rcmelanchuk@hotmail.com,
+   kintour@dsl.pipex.com, "Alyssonne Dersch" <wonderwommon@gmail.com>,
+   "Kristin Haeger" <kristin.haeger@gmail.com>, liahona@myweb.net,
+   do_cheron@hotmail.com, "Ian and Verna Grant" <ivgrant@hotmail.com>,
+   "Charles Jenkins" <Jenks61320@aol.com>, Ryan.Levitt@EC.gc.ca, "Jac
+   Kirkpatrick" <jkirkpatrick@cofchrist.org>, "Chris Stuck"
+   <christopherastuck@yahoo.com>, "Leah Montes"
+   <leahjenkinsmontes@yahoo.com>, "Kyoung Seo"
+   <dmsruddldmlapf@hotmail.com>, "Gina Galipeau"
+   <gina_galipeau@hotmail.com>, "Beatrix" <bmecsi@gmail.com>, "Anastasia
+   niro" <anastasianiro@yahoo.com>, "JAMES HANNAH"
+   <hannahs810waldo@sbcglobal.net>, lkpoulin@hotmail.com, "Blake
+   Jussila" <jussibla@hotmail.com>, "Coleen Mercer"
+   <cmccm45@hotmail.com>, "Ines" <inetxo@yahoo.es>, "Coleen Clarke"
+   <althea_clarke@yahoo.com>, gglasier@shaw.ca, "Leslie Levine"
+   <andreasarasota@aol.com>, manfredpade@hotmail.com, "Anastasia"
+   <anusy_kiska@mail.ru>, "Lana MacLean" <Lana.MacLean@nscc.ca>, "Donald
+   & Joan Jenkins" <donjoan@telusplanet.net>, "Cindy Caudron"
+   <ABSpraybooths@aol.com>, Paula_Kavanagh@Yahoo.co.uk, "Gary Logan"
+   <glogan@cofchrist.org>, sassy_tj@hotmail.com, mcf2002@hotmail.com,
+   "Christina Hahn" <tinahahn@gmail.com>, "Dan Dieffenbacher"
+   <dandy1@juno.com>, "David Miretti" <dmiretti@hotmail.com>, "Amy
+   Scott" <nomadamy@gmail.com>, "Ian Roberge" <ianroberge@canada.com>,
+   "Erik Smith" <ejonsmith@xsmail.com>, "Jay Hannah" <jay@jays.net>,
+   "Mireille Duyck" <duyckkorea@yahoo.fr>, "&52572 &49688&50672"
+   <waterpurple2000@yahoo.co.kr>, "Donald Jenkins" <donjoan@telus.net>,
+   "Ron Richea" <ronrichea@yahoo.ca>, majove@optusnet.com.au, "Obi Wan"
+   <ookaminote@hotmail.com>, "Mitchell Morse" <mitchellmorse@gmail.com>,
+   "Sydney Bednarik" <syd_the_squid_@hotmail.com>, "Christine Robinson"
+   <carinmolokai@hotmail.com>, "Margie Eager" <margie.eager@nscc.ca>,
+   "Don & Evelyn" <don3ev2@telus.net>, "Sandy Jensen" <sandyj@shaw.ca>,
+   "Raven Borstad" <raven@borstad.com>, "Shane Walton"
+   <shane_of_all_people@hotmail.com>, "Johar Abdullah"
+   <curryoga@gmail.com>, "Ninah Butler" <ragingtempest@gmail.com>,
+   "Sarah Holmes" <sarahholmes34@yahoo.com.au>, "Simone Bauch"
+   <sibauch@yahoo.com.br>, "Will Edwards" <sjbdoughie@yahoo.ca>, "Rob
+   Salomons" <robsalomons@fastmail.fm>, "Steven Ward"
+   <stvwrd@gmail.com>, "Rob Mills" <rmills@fastmail.fm>, "A. Paul Cage"
+   <doriankage@yahoo.com>, "Terry Fielder" <tfielder@worldaccord.org>,
+   "phillip auclair" <phillipauclair@yahoo.ca>
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset="ISO-8859-1"
+MIME-Version: 1.0
+X-Mailer: MessagingEngine.com Webmail Interface
+References: <1192626026.25564.1216346971@webmail.messagingengine.com>
+   <1197962683.22729.1227144417@webmail.messagingengine.com>
+   <1200744604.10127.1232119389@webmail.messagingengine.com>
+   <1201001768.3018.1232584701@webmail.messagingengine.com>
+   <1205655757.30257.1242636417@webmail.messagingengine.com>
+   <1207733392.32147.1246891553@webmail.messagingengine.com>
+   <1208077831.27533.1247587323@webmail.messagingengine.com>
+Subject: unexpectedly grand
+In-Reply-To: <1208077831.27533.1247587323@webmail.messagingengine.com>
+Date: Sat, 10 May 2008 20:21:23 +0900
+
+Apartment hunting has taught me a few things about my neighbourhood.=20
+For one, there are a lot of really, really nice people around.  For
+another, there are a lot of really, really crappy places to live.=20=20
+
+Over the last couple of weeks I have walked up and down every street
+within a half hour radius of my office =96 that=92s a lot of streets.  Not
+just once mind you, but repeatedly.  Unlike the apartment hunting that I
+am used to in the =91west=92, through newspaper or on-line ads, housing
+offices or friends, here the most =91efficient=92 way to find something is
+to go from phone pole to phone pole and read the handwritten fliers, or
+simply to look on the front gates of the houses going by.  The papers,
+if you can read the runny ink after the spring rains, say how many rooms
+are available for rent, occasionally how much money they are expecting
+to get, and a phone number or two.  There=92s never an address listed,
+making it pretty much essential that you keep your phone handy.
+
+People who answer the phone generally fall into 2 categories=85those who
+are patient with my halting language skills and those who respond to my
+fumbling with rapid-fire tirades followed abruptly by the dial tone.=20
+Luckily, there have been more of the former than the latter (which has
+pleasantly surprised me, given that my experience on the street so far
+has mostly been the opposite).  My Korean is getting the workout of the
+century, first trying to figure out where the actual rooms are located
+on these convoluted streets (where not just one but TWO different sets
+of addresses are in active use), and then finding out the details of the
+space and whether or not I can afford it.
+
+Unfortunately, patience and kindness on the phone are no indication of
+the quality of the rooms available=85which are mostly awful.  I have been
+in Korea long enough not to expect much in the way of size, but even
+still I am shocked by just how many truly miniscule apartments there are
+for rent.  And by how rampant mold problems are around here.  One
+charming spot I saw this morning was so mold-ridden that when I opened
+the door I felt like a whole army of tiny green spores were hacking at
+my nose with musty little axes.  The walls were the same colour as the
+mossy stones at the temple up the road.  =91Don=92t worry,=92 said the help=
+ful
+adjumma in Korean, =91we=92re going to re-wallpaper before you move in.=92
+
+The few spots that aren=92t totally depressing are exorbitantly priced.=20
+The traditional rental system in Korea relies on =91key money=92 rather than
+on monthly rent.  You pay a big bundle upfront, which the landlords
+invest while you live in the space rent-free (or, more recently, with a
+minimal monthly fee), and when you move out they refund the total
+original amount.  Key money for a decent 2 room apartment around my
+house (smaller than the smallish one bedroom apartment I had in Edmonton
+while I was going to university, for those of your who remember it) runs
+between 40 and 60 million won =96 about 40 =96 60 thousand dollars.  Yikes!=
+=20
+A little out of my budget.  When I tell people that I have about a
+thousand dollars available for key money they=92re so flabbergasted they
+don=92t even laugh (a typical response to embarrassment here).  One old
+man summed up my problem thus: =91Come back when you have money.=92
+
+On the very rare occasion that I have found something that is reasonably
+sized, reasonably clean, AND where the landlord is willing to negotiate
+price into my ballpark (a mean feat indeed!), the apartments are snapped
+up at light speed.  Twice the places that I was looking at were rented
+between the time I called to make the appointment to see the space and
+when I walked the 2-5 block distance from the flier to the house.=20
+People don=92t plan much in advance to move into the kind of places I am
+in the market for, so the first one they see that=92s halfway decent they
+snap up immediately.  No time for mulling things over.  This means that
+if you are decision-impaired like I am, and need time to think about
+things, then you are probably SOL.
+
+And yet, despite all these assorted traumas of looking (I can=92t
+emphasize enough how demoralizing it is to see hole after hole after
+hole and suddenly realize how many people around me live in places like
+that), I have managed to find a new apartment!  And a couple new friends
+as well.  Yippee!!  And all of that just 4 short blocks from where I
+live now.  A mere few hours ago I would not have thought it possible.
+
+On my unhappy way home this morning after a marathon 4 hours of walking,
+calling and looking, I happened to see a flier stuck to the wall of a
+new house that hadn=92t been there when I=92d set out.  I figured I=92d
+already called a couple of dozen places, what was one more?  From the
+moment I stepped inside I knew it was the one.  High ceilings, lots of
+(unbarred!!) windows, a cute little private patio that=92s about 2 feet
+wide and 15 feet long.  Built in gas stove, washing machine (in the
+kitchen, naturally), air conditioner.  Storage room.  All of it so new
+that the plastic covers hadn=92t even been removed from the window frames
+and door knobs yet.  And landlords willing to accept my paltry one
+million key money in exchange for a raised monthly rent.  Unbelievable.
+
+Even though I was about 85% sold on it immediately, I still wanted to
+talk it over with a couple of people and have my Korean friend Anna look
+at it before I signed on the dotted line (and handed over my only wad of
+cash =96 I won=92t get the key money back from the house I=92m in now until
+the start of July).  I made an appointment with the real-estate agent
+handling the property for later in the afternoon and went on with my
+day.  2 hours before our appointed time he called to make sure I was
+still coming in=85two other people had made better offers than mine and
+were standing in his office.  Anna graciously agreed to meet me early
+and much to the other renters=92 dismay, half an hour later the place was
+officially mine.  I think they=92re still in shock that the realtor
+accepted less money just because I=92d seen him first.  Thank God for
+small miracles.=20=20
+
+So June 2nd is moving day!  Classes will be done for the semester
+(halleluiah!), and I will have a 2 week grace-period after that before I
+have to be totally out of my house.  A good chance to whittle down the
+mass of stuff I have accumulated over the last 5 years here and do most
+of the moving by hand (I=92ll hire a truck at the end for the big stuff).=
+=20
+Also a good chance to say good-bye to this much-loved home slowly,
+rather than in a box-maddened rush at the last possible minute.  If I
+have to leave, which of course I do, then this is as good a way to do it
+as I could imagine.
+
+As for the new friends, it turns out that one of the apartments I looked
+at a few days ago (which I could definitely NOT afford) is owned by a
+woman who goes to the same church as Anna.  They didn=92t know each other,
+but when she saw us together and then saw Anna at church this morning
+she put two and two together and gave me a call.  Her house is half way
+between where I live now and where I=92m moving to =96 just around the
+corner from Anna=92s own house.  It seems that all the church women had a
+pow-wow after services discussing my =91renting problem=92 (an entertaining
+and slightly horrifying thought) and came up with a plan to help me.=20
+When they learned I=92d found a place they were delighted and instead of
+enacting the plan had Anna and I over to the house for tea.  30 minutes
+of light refreshments turned into several courses of food and a
+sing-along lasting several hours.  I have never seen Anna talk and laugh
+so much in my life!  The whole thing was a huge success and they=92re all
+getting together again later this week, with or without me.=20=20
+
+AND my garden cat had kittens this morning.  What a great day!
+
+Be well, much love to you all!  R
+=20=20
+
