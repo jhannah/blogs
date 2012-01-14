@@ -1,0 +1,13 @@
+Another Inbox dump
+<ul>
+<li>My posts to Perl Mongers MailMan lists are wrapping, but not to other
+MailMan list servers. Apparently this is my <a href="http://www.joeclark.org/ffaq.html">flowered email format</a> being stripped out when Robert got Chinese
+working. Fascinating... but not fascinating enough to actually worry about. 
+-grin-
+<li>The <a href="http://www.home.earthlink.net/~omahachess/">Omaha Chess Club</a>, 
+<a href="http://www.pjb.com.au/comp/tea.html">Crypt::Tea</a>, and
+<a href="http://en.wikipedia.org/wiki/Don_LaFontaine">Don LaFontaine</a> rule.
+<li><a href="http://www.tshirthell.com/babyhell.shtml">baby hell</a> is funnier than... uhhh... heck
+</ul>
+
+

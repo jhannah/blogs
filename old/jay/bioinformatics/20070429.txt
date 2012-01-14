@@ -1,0 +1,13 @@
+Pathway Tools - BioCyc
+The 
+<a href="http://biocyc.org/samples.shtml">BioCyc guided tour</a> blew my 
+mind this morning:
+<a href="http://biocyc.org/ECOLI/new-image?type=LOCUS-POSITION&object=EG11040&chromosome=COLI-K12">1</a>
+<a href="http://biocyc.org/ECOLI/new-image?type=PATHWAY&object=LEUSYN-PWY">2</a>
+<a href="http://biocyc.org/ECOLI/new-image?type=OVERVIEW">3</a>
+<a href="http://biocyc.org/expr-examples/animation.html">4</a>
+<a href="http://biocyc.org/compare-frame-in-orgs?type=PATHWAY&object=GLYCOLYSIS/TCA/GLYOX-BYPASS">5</a>
+<a href="http://tinyurl.com/yw5n78">6</a>.
+Prediction: In 100 years we'll understand <b>life</b> like we understand computers today. Stick that in your
+pipe and don't smoke it.
+

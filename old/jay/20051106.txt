@@ -1,0 +1,6 @@
+I'm a cool kid! 
+Oh ya. My blog is RSS enabled thanks to Blosxom. Unfortunately some of the plugins
+I needed are a little obscure nowadays, so I wrote up a 
+<a href="/blosxom/howto.html">HOWTO document</a> so I don't forget what I did, and hoping
+to help others on the 'net with their RSS desires.
+

@@ -1,0 +1,43 @@
+Bloggy slackery
+Have you noticed my blog is always crazy out of date? Perpetually institutionalized suckitude say I.
+Friends of mine with better recent blogs: 
+<a href="http://thenugespeaks.blogspot.com/">Don</a>, 
+<a href="http://1hoopyfrood.blogspot.com/">Frank</a>.
+<a href="http://robertajenkins.blogspot.com/">Roberta</a>.
+<p>
+Justin is coming back from China again. We're going to <a href="http://dotgame.biz/">shoot each other repeatedly</a>
+later this month. 
+<p>
+
+What's the point of dictionaries if words can have two contradictory meanings?
+<blockquote>
+<a href="http://dictionary.reference.com/browse/bimonthly"><b>bimonthly</b></a>
+<i>~adjective</i><br>
+1. occurring every two months.<br>
+2. occurring twice a month; semimonthly.
+</blockquote>
+
+<p>
+And now, another world class Inbox dump!! -grin-
+<p>
+In April NCBI did a demo here in Omaha. These bioinformatics tools blow my mind:
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=gensat&cmd=retrieve&dopt=docsum&list_uids=21816,21817">1</a>
+<a href="http://www.ncbi.nlm.nih.gov/projects/geo/gds/analyze/analyze.cgi?ID=GDS887">2</a>
+<a href="http://www.ncbi.nlm.nih.gov/projects/geo/gds/gds_browse.cgi?gds=887">3</a>
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=geo">4</a>
+<a href="http://nar.oxfordjournals.org/content/vol33/suppl_1/images/large/gki022f2.jpeg">5</a>
+<a href="http://www.ncbi.nlm.nih.gov/blast/Blast.cgi">6</a>
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=gensat&cmd=retrieve&dopt=docsum&list_uids=11010,11011,11012,11000,11001,11002,11003,11004,11005,11006,11007,11008,11009,3512,3513,3514,3501,3502,3503,3504,3505,3506,3507,3508,3509,3510,3511,9114,9115,9116,9104,9105,9106,9107,9108,9109,9110,9111,9112,9113">7</a>
+<a href="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=gensat">8</a>
+<a href="http://www.ncbi.nlm.nih.gov/projects/geo/info/GEOHandoutFinal.pdf">9</a>.
+And <a href="http://www.joeheadquarters.com/joeendings.shtml">knowing is half the battle</a>.
+
+Frank says for Java'y WYSIWYG reporting check out Jasper
+<a href="http://jasperforge.org/sf/projects/jasperreports">1</a>
+<a href="http://www.jasperassistant.com/">2</a>.
+
+
+
+
+
+

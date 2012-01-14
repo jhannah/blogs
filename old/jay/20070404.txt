@@ -1,0 +1,10 @@
+Cellular Automata
+Cool... <a href="http://www.mirekw.com/ca/mjcell/mjcell.html">MJCell</a>.
+Click the Start MJCell button. Turns out math can be hypnotic, pretty,
+and animated. <a href="http://en.wikipedia.org/wiki/Conway%27s_Game_of_Life">Read more</a>.
+<p>
+Attended the Omaha Dynamic Language Users Group again last night. Learning the
+generic lexicon of all programming languages is probably a good thing. 
+Whole new planes of nerdery here, baby. -grin-  I think I volunteered to do
+a BioPerl / SeqLab presentation in July.
+

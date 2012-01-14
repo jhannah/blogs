@@ -1,0 +1,6 @@
+  <item rdf:about="$url$path/$fn.html">
+    <title>$title</title>
+    <link>$url$path/$fn.html</link>
+    <description><![CDATA[$body]]></description>
+    <pubDate>$lastmodified::story_rfc822</pubDate>
+  </item>

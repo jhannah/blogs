@@ -1,0 +1,14 @@
+Late to the (short) party?
+
+<ul>
+<li><a href="http://www.oreillynet.com/pub/a/network/biocon2003/stein.html">Lincoln Stein: Bioinformatics: Gone in 2012</a>
+<li><a href="http://conferences.oreillynet.com/bio2003/">O'Reilly Bioinformatics Conference</a> discontinued in 2003
+<li><a href="http://search.atomz.com/search/?sp-q=bioinformatics&sp-a=sp1000a5a9&sp-f=ISO-8859-1&sp-t=general&sp-x-1=cat&sp-q-1=&sp-x-2=cat2&sp-q-2=&sp-c=25&sp-p=all&sp-k=Articles%7CBooks%7CConferences%7COther%7CWeblogs&c=&p=&query=bioinformatics&submit.x=0&submit.y=0">O'Reilly search: "bioinformatics"</a>
+<li>FAQ from 2003: <a href="http://www.bioplanet.com/bioinformatics_faq.html#careers">How can I become a bioinformatician?</a>
+</ul>
+
+I need to get off my butt and register for the upcoming Cold Spring Harbor Laboratories
+Meeting on <a href="http://meetings.cshl.edu/meetings/info07.shtml">Genome Informatics</a>.
+The <a href="http://www.gmod.org/wiki/index.php/November_2007_GMOD_Meeting">GMOD meeting</a> immediately follows it. If I get out there I can ask Lincoln his thoughts 5 years after
+his talk.  :)
+

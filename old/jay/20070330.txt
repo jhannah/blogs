@@ -1,0 +1,9 @@
+Too many toys
+So why are there a billion news aggregator gizmos and I'm still
+not happy?
+<a href="http://reader.google.com">Google Reader</a> botches dates,
+<a href="http://newshutch.com/">Newshutch</a> doesn't merge feeds,
+<a href="http://blogrolling.com">BlogRolling</a> doesn't sort by most recent.
+OPML - yet another markup language.
+<p>
+I guess I'm waiting for "Web 3.0" so I can be cool again.

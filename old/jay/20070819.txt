@@ -1,0 +1,24 @@
+Music 'n DNA
+I turned 32 yesterday. Yee-ha! 
+<p>
+Went to Pete Yorn concert Friday night w/ Brad, Matt & Angela. Good stuff. Ran into Aaron and John 
+there. Aaron and Erika are in the band <A href="http://www.myspace.com/webequixotic">Quixotic</a>,
+apparently they're playing every Tuesday. They sound great so I have to make it out there. Stumbled
+into <a href="http://www.okkervilriver.com/">Okkervil River</a> streaming radio from iTunes today. 
+I bought their latest. They look pretty damn young so I guess I'm not an 
+old fuddy duddy quite yet.
+<p>
+
+Enough normal stuff, it's nerd time: Reading the 
+<a href="http://www.ncbi.nlm.nih.gov/IEB/ToolBox/SDKDOCS/INDEX.HTML">NCBI Software Developers Toolkit</a>
+is a little slice of geek heaven:
+
+<blockquote>
+"Molecular biology is generating a host of data which are dramatically altering and deeping our understanding of the processes which underlie all living things. This new knowledge is already affecting medicine, agriculture, biotechnology, and basic science in fundamental and sweeping ways. However, the data on which our growing understanding is based is being accumulated and analyzed in thousands of laboratories all over the world, from large genome centers to small university laboratories, from large pharmacutical companies to small biotech startups. It is being managed and analyzed on machines from small personal computers to supercomputers, on systems from a few disk files to large commercial database systems. These essential new data require specialized tools for analysis and management, so software tools are being developed in all these different environments at once. Since molecular biology is an infant science, the data itself is not yet fully understood, so its fundamental properties and relationships are constantly being revised as well. Finally, the raw volume of molecular biology data is growing at an astonishing rate."
+<p>
+... "Biomedical information is a vast interconnected web of data which crosses many domains of discourse with very different ways of viewing the world. Biological science is very much like the parable of the blind men and elephant. To some of the blind men the elephant feels like a column, to some like a snake, to others like a wall. The excitement of modern biological research is that we all agree that, at least at some level, we are all exploring aspects of the same thing. But it is early enough in the development of the science that we cannot agree on what that thing is.
+<P>
+The power of molecular biology is that DNA and protein sequence data cut across most fields of biology from evolution to development, from enzymology to agriculture, from statistical mechanics to medicine. Sequence data can be viewed as a simple, relatively well defined armature on which data from various disciplines can be hung. By associating diverse data with the sequence, connections can be made between fields of research with no other common ground, and often with little or no idea of what the other field is doing."
+</blockquote>
+
+

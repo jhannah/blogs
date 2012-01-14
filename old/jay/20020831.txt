@@ -1,0 +1,21 @@
+Andria, Zach, and I went to Michigan last month.
+We brought back
+<a href="/ids/index.cgi">225 photos of the 
+Hannah/Monson/Brombaugh/etc reunion</a>. It was great! Thanks for hosting
+us Lynn and Marcia!!
+<p>
+
+The Justin formerly known as "Intern" has left. Again. He's off to Taiwan
+this time, but we managed to <a href="/ids/index.cgi">get some photos</a>
+before he left.
+<p>
+
+I've been <b>cast in my first musical</b>! <i>eek!</i> I'm Sir Sagramore in
+<a href="http://hometown.aol.com/bellelittle/">Bellevue Little Theatre</a>'s
+production of Camelot! Come on down to Bellevue and cheer/boo me -- 
+the show runs the last 3 weekends of September.
+<p>
+<b>Nerd alert:</b> This latest photo album is done in IDS, an slick little
+albuming software which integrates to Shutterfly, letting you order prints 
+online! How nerdy is that? It does full dynamic image resizing junk w/ Perl
+and lets users post their own comments, change themes, etc...

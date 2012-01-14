@@ -1,0 +1,10 @@
+Yikes, this site is waaaay out of date. 
+I'm still trying to piece together an
+Xmas style update letter. Until then, you can peruse our new photo albums:
+<ul>
+<li><a href="/ids/index.cgi?mode=album&album=./2003-SeattlePortland">2003-SeattlePortland</a>
+<li><a href="/ids/index.cgi?mode=album&album=./2003-NewHouse">2003-NewHouse</a>
+<li><a href="/ids/index.cgi?mode=album&album=./2003-Karate">2003-Karate</a>
+<li><a href="/ids/index.cgi?mode=album&album=./2003-Xmas_NewY">2003-Xmas_NewY</a>
+<li><a href="/ids/index.cgi?mode=album&album=./2004-Dogz">2004-Dogz</a>
+</ul>

@@ -1,0 +1,22 @@
+PODcasts, business cards, websites, genomes, wet dogs, etc.
+<ul>
+<li>My first, of two, dentist appts was fun. The left half of my mouth is 
+georgeous again. Tuesday I get several more shots in the right half of 
+my mouth. Then I'm sure to feel 50% prettier still!
+<li>We rolled out the new <a href="http://www.omnihotels.com">Omni Hotels 
+website</a>. That was a lot of work.
+<li>I got our 
+<a href="http://omaha.pm.org/kwiki/?BusinessCards">Omaha Perl Mongers 
+business cards</a> proof. Rock on!
+<li>On our walk this morning, listening to podcasts on my iPod shuffle,
+Tipper decided to try and drown herself again. I yanked her out by her harness
+and she promptly drenched her rescuer. -laugh-
+<li>Podcasts rule. I heard on the This Week in Tech podcast that <a href="http://en.wikipedia.org/wiki/Captcha">captchas</a>
+like the Kwiki::Scode I installed on the Omaha.pm wiki are the bane of blind
+people. Doh! To stop spammers I've blocked the blind too? -sigh- I 
+just subscribed to <a href="http://podcacher.com/">PodCacher</a>, the podcast
+about GeoCaching. Maybe I'll break down and buy a GPS soon?
+<li>I've been welcomed into the <a href="http://bioperl.org/">Bioperl</a>
+community. Perhaps I can help write software that will someday help/save lives?
+</ul>
+

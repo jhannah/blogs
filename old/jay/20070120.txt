@@ -1,0 +1,68 @@
+How To Transfer a Domain
+
+A = Jay, B = "Admin", C = old registrar, D = new registrar, E = registry
+<p>
+1. A notifies D of intent to transfer, pays $<br>
+2. D asks B for approval<br>
+3. B approves (to D via A)<br>
+4. D asks A for auth code. A asks C, C asks E<br>
+5. C unlocks domain<br>
+6. auth codes flow from E to C to A to D<br>
+7. D notifies E of intent to transfer<br>
+8. E asks C for approval<br>
+9. C approves or ignores E<br>
+10. E tells D transfer is OK<br>
+11. D tells E it is now authoritative, tells A<br>
+12. A drinks beer<br>
+<p>
+
+Easy, huh? Now we just have to get all that done 130 times with no
+downtime or production impact.
+<p>
+
+Received this IM earlier this week:
+<blockquote>
+(14:27:24) sgomni: i want to know if i should work through UC in type B
+and HK, IG and ET responses telling TA to end TTY with you or Sean...
+</blockquote>
+
+Note to retired self in the year 2040: Remember that? That's what you did for a living. 
+<p>
+Prucha sent me the story of 
+<a href="http://thedailywtf.com/Articles/Fisher_Price_Technology_Integration.aspx">the
+vibrating child seat that runs reports</a>. Sounds like PC AnyWhere at Omni. -shudder-
+Trying to research Dave's signature (Cycle of Telam), I hit 
+<a href="http://cherusci.11.forumer.com/viewtopic.php?t=50">a website of Germanic war
+strategies</a> whose Google ads were
+<ul>
+   <li>Free Sun Tzu's Art of War
+   <li>Mantis 4-Cycle Tiller
+   <li>Menstrual cycle
+   <li>Secrets of Sun Tzu
+</ul>
+The Google banner ad engine is brilliant! I'm always menstruating while using Sun Tzu
+tilling strategies. How did I manage to stay alive before Google AdSense consolidated
+my purchasing needs like that??
+<p>
+Wow. Received gibberish spam today containing "Staphylococcus". Can't tag that as spam...
+<a href="http://seqlab.net">SeqLab</a> would never forgive me.
+<p>
+
+<a href="http://www.tegels.org/">Kent</a> moved to Sioux Falls?
+Frank posted more baby pics, but they're protected by a secret thingy, so I guess I shouldn't
+blog them. Baby-snatchers might ID the infant? :)
+<p>
+
+Did I mention parenting is hard? Had another incident in the 
+Andria / Zach / Jay / food / weight / excercise chronicles last night.
+I probably can't blog it w/o upsetting one or more someones, so 
+I won't.
+<p>
+
+There are some sentences which, coming out of the clear blue sky, I will never know how
+to respond to. Included in that list is every sentence conceivable that starts with
+"I certainly hope that you don't think that I'm such a bitch that you would think that
+I would..." No matter what the rest of the sentence is, I'm always dumb-founded.
+
+
+
