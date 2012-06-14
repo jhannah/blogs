@@ -2,18 +2,11 @@ use strict;
 use 5.10.0;
 use WebService::Tumblr;
 use Data::Dumper;
-use LWP::Debug qw(trace);
 
 usage() unless $ENV{TUMBLR_NAME};
 usage() unless $ENV{TUMBLR_EMAIL};
 usage() unless $ENV{TUMBLR_PASSWORD};
 usage() unless (-r $ARGV[0]);
-
-my $tumblr = WebService::Tumblr->new(
-   name     => $ENV{TUMBLR_NAME},
-   email    => $ENV{TUMBLR_EMAIL},
-   password => $ENV{TUMBLR_PASSWORD},
-);
 
 # Parse the input file 
 my (%params, $headers_complete);
@@ -37,12 +30,20 @@ my (%params, $headers_complete);
    }
 }
 
-
 # Post
+my $tumblr = WebService::Tumblr->new(
+   name     => $ENV{TUMBLR_NAME},
+   email    => $ENV{TUMBLR_EMAIL},
+   password => $ENV{TUMBLR_PASSWORD},
+);
 $params{type}   ||= 'regular';
 $params{format} ||= 'markdown',
-say Dumper(%params);
+my $line = '-' x 30 . "\n";
+say "$line Params\n '-' x 30 . "\n" . Dumper(%params) . 
 my $dispatch = $tumblr->write(%params);
+say $dispatch->result->request->as_string;
+say $dispatch->result->response->as_string;
+
 if ( $dispatch->is_success ) {
    my $post_id = $dispatch->content;
    say "Success! [$post_id]";
