@@ -1,6 +1,6 @@
 title: Test Post 3
 format: markdown
-tags: yapc, perl
+tags: yapc,perl
 
 A First Level Header
 ====================

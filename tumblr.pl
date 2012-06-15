@@ -19,11 +19,7 @@ my (%params, $headers_complete);
       } elsif ($line =~ /: /) {
          chomp $line;
          my ($key, $value) = split /: /, $line;
-         if ($value =~ /,/) {
-            $params{$key} = [ split /, /, $value ];
-         } else {
-            $params{$key} = $value;
-         }
+         $params{$key} = $value;
       } else {
          $headers_complete = 1;
       }
@@ -38,8 +34,7 @@ my $tumblr = WebService::Tumblr->new(
 );
 $params{type}   ||= 'regular';
 $params{format} ||= 'markdown',
-my $line = '-' x 30 . "\n";
-say "$line Params\n '-' x 30 . "\n" . Dumper(%params) . 
+say Dumper(%params);
 my $dispatch = $tumblr->write(%params);
 say $dispatch->result->request->as_string;
 say $dispatch->result->response->as_string;
